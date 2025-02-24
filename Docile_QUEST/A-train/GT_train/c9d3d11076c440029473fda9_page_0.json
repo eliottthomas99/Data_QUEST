@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                135.19354838709677,
+                746.283282674772,
+                1775.9516129032259,
+                893.69726443769
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            135.19354838709677,
+                            746.283282674772,
+                            376.943117402992,
+                            788.1651606999887
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1619.1767107877515,
+                            756.1507151009563,
+                            1756.5244053880315,
+                            789.6896581094662
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            135.19354838709677,
+                            821.5258358662614,
+                            599.1532258064516,
+                            893.69726443769
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CAMEL NOVEMBER REBATE FOR SUPERAMERICA"
+                    },
+                    {
+                        "bbox": [
+                            1548.5806451612902,
+                            821.5258358662614,
+                            1775.9516129032259,
+                            893.69726443769
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "199,690.05"
+                    }
+                ]
+            }
+        ]
+    ]
+}

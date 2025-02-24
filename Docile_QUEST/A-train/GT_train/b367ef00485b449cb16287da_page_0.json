@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                228.01935483870986,
+                947.0493086189682,
+                1239.3000000000002,
+                1044.3142144638405
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            515.4306515113032,
+                            948.2185052962756,
+                            627.6332423164847,
+                            972.7716355197304
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1074.9483870967742,
+                            947.0493086189682,
+                            1233.0597218694436,
+                            971.602438842423
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount in US $"
+                    },
+                    {
+                        "bbox": [
+                            228.01935483870986,
+                            986.5436408977556,
+                            895.7903225806452,
+                            1014.6882793017456
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Per Agreement: Quarterly Invoice (22.5% of estimated expenditures)"
+                    },
+                    {
+                        "bbox": [
+                            1074.9483870967742,
+                            986.5436408977556,
+                            1239.3000000000002,
+                            1014.6882793017456
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 66,916.80"
+                    },
+                    {
+                        "bbox": [
+                            228.01935483870986,
+                            1014.6882793017456,
+                            895.7903225806452,
+                            1044.3142144638405
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Equipment purchase for the period"
+                    },
+                    {
+                        "bbox": [
+                            1074.9483870967742,
+                            1014.6882793017456,
+                            1239.3000000000002,
+                            1044.3142144638405
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 26,240.25"
+                    }
+                ]
+            }
+        ]
+    ]
+}

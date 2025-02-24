@@ -1,0 +1,273 @@
+{
+    "TD": [
+        [
+            [
+                62.187096774193556,
+                1368.0758668673086,
+                1784.1774193548388,
+                1453.1521197007482
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            104.32343083529734,
+                            1370.2054993079462,
+                            258.67952747935976,
+                            1395.7610885955967
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product Code"
+                    },
+                    {
+                        "bbox": [
+                            457.10694452996927,
+                            1370.2054993079462,
+                            583.7853962585447,
+                            1400.0203534768716
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            766.457859198103,
+                            1370.2054993079462,
+                            894.2008357311202,
+                            1395.7610885955967
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "UOM Code"
+                    },
+                    {
+                        "bbox": [
+                            974.2531018373121,
+                            1370.2054993079462,
+                            1127.5446736769327,
+                            1395.7610885955967
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CMDTY Code"
+                    },
+                    {
+                        "bbox": [
+                            1199.3225806451612,
+                            1370.2054993079462,
+                            1251.1451612903224,
+                            1398.3441396508729
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY"
+                    },
+                    {
+                        "bbox": [
+                            1383.4564362586598,
+                            1369.1406830876276,
+                            1445.198874916285,
+                            1394.6962723752779
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMT"
+                    },
+                    {
+                        "bbox": [
+                            1604.451782006024,
+                            1368.0758668673086,
+                            1717.2914112768556,
+                            1396.8259048159152
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EXT AMT"
+                    },
+                    {
+                        "bbox": [
+                            62.187096774193556,
+                            1420.563591022444,
+                            153.98709677419356,
+                            1453.1521197007482
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "81120-3"
+                    },
+                    {
+                        "bbox": [
+                            315.3774193548387,
+                            1420.563591022444,
+                            704.7870967741935,
+                            1453.1521197007482
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Joe Biden for President FL est 7768"
+                    },
+                    {
+                        "bbox": [
+                            812.8741935483871,
+                            1420.563591022444,
+                            851.3709677419355,
+                            1453.1521197007482
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EA"
+                    },
+                    {
+                        "bbox": [
+                            992.0322580645161,
+                            1420.563591022444,
+                            1103.0806451612902,
+                            1453.1521197007482
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "80140000"
+                    },
+                    {
+                        "bbox": [
+                            1199.3225806451612,
+                            1420.563591022444,
+                            1251.1451612903224,
+                            1453.1521197007482
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.00"
+                    },
+                    {
+                        "bbox": [
+                            1421.4193548387098,
+                            1420.563591022444,
+                            1538.390322580645,
+                            1453.1521197007482
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$2,620.55"
+                    },
+                    {
+                        "bbox": [
+                            1661.283870967742,
+                            1420.563591022444,
+                            1784.1774193548388,
+                            1453.1521197007482
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$2,620.55"
+                    }
+                ]
+            }
+        ]
+    ]
+}

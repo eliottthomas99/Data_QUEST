@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                17.31290322580645,
+                714.0890919474587,
+                1063.9425517146371,
+                796.317532838378
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            17.31290322580645,
+                            714.0890919474587,
+                            297.1072024288924,
+                            753.697806629004
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WORK CATEGORY"
+                    },
+                    {
+                        "bbox": [
+                            929.49739307363,
+                            714.0890919474587,
+                            1057.303284621254,
+                            755.3572029559373
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            17.31290322580645,
+                            753.0394060536836,
+                            323.17419354838705,
+                            796.317532838378
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MA ART OTHER"
+                    },
+                    {
+                        "bbox": [
+                            882.958064516129,
+                            760.335391936737,
+                            1063.9425517146371,
+                            796.317532838378
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "20000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

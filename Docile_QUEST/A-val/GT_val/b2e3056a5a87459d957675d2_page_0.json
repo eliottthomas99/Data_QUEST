@@ -1,0 +1,831 @@
+{
+    "TD": [
+        [
+            [
+                93.71370967741936,
+                902.9106382978724,
+                1705.282258064516,
+                2031.548936170213
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            902.9106382978724,
+                            263.68393544917245,
+                            944.8018300706523
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Billing Code"
+                    },
+                    {
+                        "bbox": [
+                            296.3046284944309,
+                            912.1912204037839,
+                            350.6724502365283,
+                            943.895979802128
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Qty"
+                    },
+                    {
+                        "bbox": [
+                            763.8678954764687,
+                            909.4736695982116,
+                            924.2529696156561,
+                            951.142781950321
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1352.8526310158572,
+                            916.7204717464045,
+                            1426.2491903676887,
+                            946.6135306077002
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            1541.3277463884617,
+                            915.8146214778805,
+                            1658.218563133971,
+                            944.8018300706523
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1008.8644376899696,
+                            248.8790322580645,
+                            1042.6468085106383
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "D2PM-10"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1008.8644376899696,
+                            348.73790322580646,
+                            1042.6468085106383
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            397.8991935483871,
+                            1008.8644376899696,
+                            889.5120967741935,
+                            1144.59375
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "d2 protection master-up to 10 minutes 0200 Title: \"MOM -"
+                    },
+                    {
+                        "bbox": [
+                            1368.8346774193549,
+                            1008.8644376899696,
+                            1456.4032258064517,
+                            1042.6468085106383
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "130.00"
+                    },
+                    {
+                        "bbox": [
+                            1614.641129032258,
+                            1008.8644376899696,
+                            1705.282258064516,
+                            1042.6468085106383
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "130.00"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1143.9939209726442,
+                            248.8790322580645,
+                            1180.8474164133738
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "NCI CS"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1143.9939209726442,
+                            348.73790322580646,
+                            1180.8474164133738
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            397.8991935483871,
+                            1143.9939209726442,
+                            889.5120967741935,
+                            1240.798828125
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CS W/CH2 JAM SYNC TC OFF MA 0200 Title: \"MOM\""
+                    },
+                    {
+                        "bbox": [
+                            1368.8346774193549,
+                            1143.9939209726442,
+                            1456.4032258064517,
+                            1180.8474164133738
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "50.00"
+                    },
+                    {
+                        "bbox": [
+                            1614.641129032258,
+                            1143.9939209726442,
+                            1705.282258064516,
+                            1180.8474164133738
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "50.00"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1243.80547112462,
+                            254.8681640625,
+                            1334.537109375
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SSENGER CASSETTE"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1243.80547112462,
+                            348.73790322580646,
+                            1286.8012158054712
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            397.8991935483871,
+                            1243.80547112462,
+                            889.5120967741935,
+                            1286.8012158054712
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "messenger midtown"
+                    },
+                    {
+                        "bbox": [
+                            1368.8346774193549,
+                            1243.80547112462,
+                            1456.4032258064517,
+                            1286.8012158054712
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "20.00"
+                    },
+                    {
+                        "bbox": [
+                            1614.641129032258,
+                            1243.80547112462,
+                            1705.282258064516,
+                            1286.8012158054712
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "20.00"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1382.0060790273556,
+                            248.8790322580645,
+                            1420.3951367781156
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CAPTION"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1382.0060790273556,
+                            348.73790322580646,
+                            1420.3951367781156
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            397.8991935483871,
+                            1382.0060790273556,
+                            889.5120967741935,
+                            1475.14453125
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "create captioned master 0200 CC Title: \"MOM"
+                    },
+                    {
+                        "bbox": [
+                            1368.8346774193549,
+                            1382.0060790273556,
+                            1456.4032258064517,
+                            1420.3951367781156
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "325.00"
+                    },
+                    {
+                        "bbox": [
+                            1614.641129032258,
+                            1382.0060790273556,
+                            1705.282258064516,
+                            1420.3951367781156
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "325.00"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1529.4200607902735,
+                            248.8790322580645,
+                            1615.751953125
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TAX NASSAU NASSAU"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1529.4200607902735,
+                            348.73790322580646,
+                            1561.666869300912
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            397.8991935483871,
+                            1529.4200607902735,
+                            889.5120967741935,
+                            1618.21875
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "#2804- 8 1/2% $16.50"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1616.947112462006,
+                            248.8790322580645,
+                            1785.9609375
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "C53 10 GREAT OPEN"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1616.947112462006,
+                            348.73790322580646,
+                            1652.2650455927053
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            396.2548828125,
+                            1616.947112462006,
+                            889.5120967741935,
+                            1855.03125
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3/4\" 10 min cs OF EACH 0200 CC APPROVAL Title: \"MOM CS SENT 70 KAREN SURGEON, GCI, CAPTIONING"
+                    },
+                    {
+                        "bbox": [
+                            1368.8346774193549,
+                            1616.947112462006,
+                            1456.4032258064517,
+                            1652.2650455927053
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    },
+                    {
+                        "bbox": [
+                            1614.641129032258,
+                            1616.947112462006,
+                            1705.282258064516,
+                            1652.2650455927053
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1851.8881458966564,
+                            248.8790322580645,
+                            1890.2772036474164
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PM1"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1851.8881458966564,
+                            348.73790322580646,
+                            1890.2772036474164
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            397.8991935483871,
+                            1851.8881458966564,
+                            889.5120967741935,
+                            1990.705078125
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1\" protection master of Each spot to :60 MASTER - 0200 CC Title: \"MOM"
+                    },
+                    {
+                        "bbox": [
+                            1368.8346774193549,
+                            1851.8881458966564,
+                            1456.4032258064517,
+                            1890.2772036474164
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "40.00"
+                    },
+                    {
+                        "bbox": [
+                            1614.641129032258,
+                            1851.8881458966564,
+                            1705.282258064516,
+                            1890.2772036474164
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "40.00"
+                    },
+                    {
+                        "bbox": [
+                            93.71370967741936,
+                            1988.5531914893618,
+                            248.8790322580645,
+                            2031.548936170213
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "FREIGHT-2"
+                    },
+                    {
+                        "bbox": [
+                            319.5483870967742,
+                            1988.5531914893618,
+                            348.73790322580646,
+                            2031.548936170213
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            397.8991935483871,
+                            1988.5531914893618,
+                            889.5120967741935,
+                            2031.548936170213
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2 Ib domestic freight"
+                    },
+                    {
+                        "bbox": [
+                            1368.8346774193549,
+                            1988.5531914893618,
+                            1456.4032258064517,
+                            2031.548936170213
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "16.50"
+                    },
+                    {
+                        "bbox": [
+                            1614.641129032258,
+                            1988.5531914893618,
+                            1705.282258064516,
+                            2031.548936170213
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "16.50"
+                    },
+                    {
+                        "bbox": [
+                            1352.8526310158572,
+                            1529.4200607902735,
+                            1456.4032258064517,
+                            1618.21875
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            1541.3277463884617,
+                            1529.4200607902735,
+                            1705.282258064516,
+                            1618.21875
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

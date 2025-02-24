@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                390.4475806451613,
+                1192.3206205559147,
+                1391.5908000826616,
+                1345.5979314802844
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            390.4475806451613,
+                            1195.7761793289785,
+                            644.6104248704376,
+                            1236.535229476406
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            919.7295352269739,
+                            1192.3206205559147,
+                            1038.7379032258066,
+                            1240.5844461625877
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PRICE"
+                    },
+                    {
+                        "bbox": [
+                            1230.0382992337652,
+                            1203.777655549266,
+                            1391.5908000826616,
+                            1240.5844461625877
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            390.4475806451613,
+                            1298.4356819650936,
+                            679.2314516129032,
+                            1345.5979314802844
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EVENT SUPERVISOR"
+                    },
+                    {
+                        "bbox": [
+                            929.7072580645162,
+                            1298.4356819650936,
+                            1038.7379032258066,
+                            1345.5979314802844
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "400.00"
+                    },
+                    {
+                        "bbox": [
+                            1245.0120967741934,
+                            1298.4356819650936,
+                            1354.0427419354837,
+                            1345.5979314802844
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "400.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

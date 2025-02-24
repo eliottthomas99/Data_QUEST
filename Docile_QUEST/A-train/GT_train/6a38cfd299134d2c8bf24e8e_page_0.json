@@ -1,0 +1,471 @@
+{
+    "TD": [
+        [
+            [
+                195.44516129032257,
+                962.8539225280059,
+                1646.4774193548387,
+                1148.0049875311722
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            266.618418853418,
+                            966.6150706628811,
+                            339.08393782383416,
+                            998.071945972745
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item"
+                    },
+                    {
+                        "bbox": [
+                            641.2514791910413,
+                            963.8796902011537,
+                            780.7134213605216,
+                            1000.8073264344723
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1077.4118669563763,
+                            962.8539225280059,
+                            1184.0592344977435,
+                            998.4138685304608
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quantity"
+                    },
+                    {
+                        "bbox": [
+                            1296.175697810463,
+                            966.6150706628811,
+                            1367.273942838041,
+                            994.31079783787
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            1483.4922279792745,
+                            963.8796902011537,
+                            1590.139595520642,
+                            994.31079783787
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            195.44516129032257,
+                            1002.8379052369078,
+                            368.68064516129033,
+                            1041.3516209476309
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Record review"
+                    },
+                    {
+                        "bbox": [
+                            398.2935483870968,
+                            1002.8379052369078,
+                            1017.2032258064517,
+                            1041.3516209476309
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Literature regarding Sarcoidosis - #22 joumal articles"
+                    },
+                    {
+                        "bbox": [
+                            1191.9193548387098,
+                            1002.8379052369078,
+                            1224.4935483870968,
+                            1041.3516209476309
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4"
+                    },
+                    {
+                        "bbox": [
+                            1335.541935483871,
+                            1002.8379052369078,
+                            1430.3032258064516,
+                            1041.3516209476309
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "500.00"
+                    },
+                    {
+                        "bbox": [
+                            1511.7387096774194,
+                            1002.8379052369078,
+                            1646.4774193548387,
+                            1041.3516209476309
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,000.00"
+                    },
+                    {
+                        "bbox": [
+                            195.44516129032257,
+                            1041.3516209476309,
+                            368.68064516129033,
+                            1076.9027431421446
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Record review"
+                    },
+                    {
+                        "bbox": [
+                            398.2935483870968,
+                            1041.3516209476309,
+                            1017.2032258064517,
+                            1076.9027431421446
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Review of medical records in prep for depostion"
+                    },
+                    {
+                        "bbox": [
+                            1191.9193548387098,
+                            1041.3516209476309,
+                            1224.4935483870968,
+                            1076.9027431421446
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            1335.541935483871,
+                            1041.3516209476309,
+                            1430.3032258064516,
+                            1076.9027431421446
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "500.00"
+                    },
+                    {
+                        "bbox": [
+                            1511.7387096774194,
+                            1041.3516209476309,
+                            1646.4774193548387,
+                            1076.9027431421446
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,000.00"
+                    },
+                    {
+                        "bbox": [
+                            195.44516129032257,
+                            1076.9027431421446,
+                            368.68064516129033,
+                            1112.4538653366583
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Meeting"
+                    },
+                    {
+                        "bbox": [
+                            398.2935483870968,
+                            1076.9027431421446,
+                            1017.2032258064517,
+                            1112.4538653366583
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Predeposition meeting Nov 22, 2015"
+                    },
+                    {
+                        "bbox": [
+                            1191.9193548387098,
+                            1076.9027431421446,
+                            1224.4935483870968,
+                            1112.4538653366583
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            1335.541935483871,
+                            1076.9027431421446,
+                            1430.3032258064516,
+                            1112.4538653366583
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "500.00"
+                    },
+                    {
+                        "bbox": [
+                            1511.7387096774194,
+                            1076.9027431421446,
+                            1646.4774193548387,
+                            1112.4538653366583
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,000.00"
+                    },
+                    {
+                        "bbox": [
+                            195.44516129032257,
+                            1112.4538653366583,
+                            368.68064516129033,
+                            1148.0049875311722
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Deposition"
+                    },
+                    {
+                        "bbox": [
+                            398.2935483870968,
+                            1112.4538653366583,
+                            1017.2032258064517,
+                            1148.0049875311722
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Deposition held on November 23, 2015"
+                    },
+                    {
+                        "bbox": [
+                            1191.9193548387098,
+                            1112.4538653366583,
+                            1224.4935483870968,
+                            1148.0049875311722
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            1335.541935483871,
+                            1112.4538653366583,
+                            1430.3032258064516,
+                            1148.0049875311722
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "500.00"
+                    },
+                    {
+                        "bbox": [
+                            1511.7387096774194,
+                            1112.4538653366583,
+                            1646.4774193548387,
+                            1148.0049875311722
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

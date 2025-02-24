@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                47.16053769555861,
+                687.2876660225345,
+                2222.4397977883123,
+                830.6652763295099
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            47.16053769555861,
+                            749.9358715044813,
+                            273.75212963104246,
+                            781.2599742454547
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "January NCOA"
+                    },
+                    {
+                        "bbox": [
+                            2036.376783272183,
+                            687.2876660225345,
+                            2222.4397977883123,
+                            722.2969573212695
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ITEM PRICE"
+                    },
+                    {
+                        "bbox": [
+                            84.5225806451613,
+                            801.822732012513,
+                            729.9677419354839,
+                            830.6652763295099
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Anchor Computer - 6,100,000 @ .55/M"
+                    },
+                    {
+                        "bbox": [
+                            2032.383870967742,
+                            801.822732012513,
+                            2201.4290322580646,
+                            830.6652763295099
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3,355.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

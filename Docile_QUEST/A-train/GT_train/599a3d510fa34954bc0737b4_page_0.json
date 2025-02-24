@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                141.44516129032257,
+                1039.1166641478783,
+                1656.0870967741937,
+                1211.9175839866934
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            601.5308997562083,
+                            1039.1166641478783,
+                            807.9072092419956,
+                            1072.7168430054255
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1407.8383414681214,
+                            1040.7166726649043,
+                            1535.8236496763614,
+                            1069.5168259713735
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            141.44516129032257,
+                            1150.8474164133738,
+                            294.6774193548387,
+                            1180.3185410334345
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Facility rental"
+                    },
+                    {
+                        "bbox": [
+                            1564.6203440232157,
+                            1149.5172518226768,
+                            1655.8098761215867,
+                            1181.517422163198
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,000.00"
+                    },
+                    {
+                        "bbox": [
+                            141.44516129032257,
+                            1180.3185410334345,
+                            294.6774193548387,
+                            1211.2632218844985
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Recruiting"
+                    },
+                    {
+                        "bbox": [
+                            1563.0205276706126,
+                            1180.3185410334345,
+                            1656.0870967741937,
+                            1211.9175839866934
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "200.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

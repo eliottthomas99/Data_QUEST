@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                323.88870424371953,
+                919.2171045633444,
+                1007.0489123544221,
+                1133.1647416413373
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            323.88870424371953,
+                            919.2171045633444,
+                            487.1939332741664,
+                            954.5912318064851
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY. SHIPPED"
+                    },
+                    {
+                        "bbox": [
+                            846.4654371411494,
+                            919.2171045633444,
+                            1007.0489123544221,
+                            951.8701450954743
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            388.97419354838706,
+                            1006.438905775076,
+                            439.06935483870967,
+                            1044.751367781155
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "18"
+                    },
+                    {
+                        "bbox": [
+                            559.8870967741935,
+                            1006.438905775076,
+                            676.2846774193549,
+                            1044.751367781155
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SOLIDS"
+                    },
+                    {
+                        "bbox": [
+                            388.97419354838706,
+                            1097.7993920972644,
+                            439.06935483870967,
+                            1133.1647416413373
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            559.8870967741935,
+                            1097.7993920972644,
+                            676.2846774193549,
+                            1133.1647416413373
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SOLIDS"
+                    }
+                ]
+            }
+        ]
+    ]
+}

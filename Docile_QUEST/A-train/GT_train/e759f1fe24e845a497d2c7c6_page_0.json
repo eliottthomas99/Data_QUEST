@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                30.450000000000003,
+                704.3235800344233,
+                1075.9,
+                770.987951807229
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            38.18603805260213,
+                            704.3235800344233,
+                            297.00251818690543,
+                            733.8029469795558
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ORK CATEGORY"
+                    },
+                    {
+                        "bbox": [
+                            934.8507834359262,
+                            704.3235800344233,
+                            1066.3804700615556,
+                            735.2168254901138
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            30.450000000000003,
+                            737.6557659208262,
+                            320.45,
+                            770.987951807229
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "A ART OTHER"
+                    },
+                    {
+                        "bbox": [
+                            888.85,
+                            737.6557659208262,
+                            1075.9,
+                            770.987951807229
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,1821 @@
+{
+    "TD": [
+        [
+            [
+                238.68870967741935,
+                450.3838195453945,
+                1504.3282258064517,
+                1569.3373860182369
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 1,
+                "data": [
+                    {
+                        "bbox": [
+                            271.361531245045,
+                            450.90820668693004,
+                            361.37413673120625,
+                            487.74711246200604
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DATE"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            450.90820668693004,
+                            1009.994382146192,
+                            483.1544287696578
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            450.3838195453945,
+                            1227.083607142228,
+                            487.74711246200604
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "REFERENCE"
+                    },
+                    {
+                        "bbox": [
+                            1272.0899098853085,
+                            451.70788456455665,
+                            1396.519099822061,
+                            485.93186203250957
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            542.2686930091186,
+                            397.81451612903226,
+                            576.1604863221885
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/15/99"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            542.2686930091186,
+                            951.8080645161291,
+                            576.1604863221885
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            542.2686930091186,
+                            1209.6508064516129,
+                            576.1604863221885
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44997B"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            542.2686930091186,
+                            1504.3282258064517,
+                            576.1604863221885
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$240.66"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            576.1604863221885,
+                            951.8080645161291,
+                            608.5787234042552
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV-CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            576.1604863221885,
+                            1209.6508064516129,
+                            608.5787234042552
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44895A"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            576.1604863221885,
+                            1504.3282258064517,
+                            608.5787234042552
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$2026.60"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            608.5787234042552,
+                            951.8080645161291,
+                            638.049848024316
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            608.5787234042552,
+                            1209.6508064516129,
+                            638.049848024316
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44897A"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            608.5787234042552,
+                            1504.3282258064517,
+                            638.049848024316
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$38.00"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            638.049848024316,
+                            951.8080645161291,
+                            673.415197568389
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            638.049848024316,
+                            1209.6508064516129,
+                            673.415197568389
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44898A"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            638.049848024316,
+                            1504.3282258064517,
+                            673.415197568389
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$38.00"
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            755.9343465045592,
+                            397.81451612903226,
+                            792.7732522796352
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/16/99"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            755.9343465045592,
+                            951.8080645161291,
+                            792.7732522796352
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LOCAL"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            755.9343465045592,
+                            1209.6508064516129,
+                            792.7732522796352
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4469-L0C"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            755.9343465045592,
+                            1504.3282258064517,
+                            792.7732522796352
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$.90"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            792.7732522796352,
+                            951.8080645161291,
+                            822.2443768996961
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            792.7732522796352,
+                            1209.6508064516129,
+                            822.2443768996961
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44996A"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            792.7732522796352,
+                            1504.3282258064517,
+                            822.2443768996961
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$38.00"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            822.2443768996961,
+                            951.8080645161291,
+                            856.1361702127659
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            822.2443768996961,
+                            1209.6508064516129,
+                            856.1361702127659
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44997A"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            822.2443768996961,
+                            1504.3282258064517,
+                            856.1361702127659
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$240.66"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            856.1361702127659,
+                            951.8080645161291,
+                            884.1337386018237
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            856.1361702127659,
+                            1209.6508064516129,
+                            884.1337386018237
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "45037A"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            856.1361702127659,
+                            1504.3282258064517,
+                            884.1337386018237
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$297.66"
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            978.4413373860183,
+                            397.81451612903226,
+                            1007.9124620060791
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/17/99"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            978.4413373860183,
+                            951.8080645161291,
+                            1007.9124620060791
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            978.4413373860183,
+                            1209.6508064516129,
+                            1007.9124620060791
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44895B"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            978.4413373860183,
+                            1504.3282258064517,
+                            1007.9124620060791
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$2324.26"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1007.9124620060791,
+                            951.8080645161291,
+                            1040.3306990881458
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1007.9124620060791,
+                            1209.6508064516129,
+                            1040.3306990881458
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44896B"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1007.9124620060791,
+                            1504.3282258064517,
+                            1040.3306990881458
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$38.00"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1040.3306990881458,
+                            951.8080645161291,
+                            1071.2753799392096
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1040.3306990881458,
+                            1209.6508064516129,
+                            1071.2753799392096
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44897B"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1040.3306990881458,
+                            1504.3282258064517,
+                            1071.2753799392096
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$38.00"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1071.2753799392096,
+                            951.8080645161291,
+                            1105.1671732522796
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1071.2753799392096,
+                            1209.6508064516129,
+                            1105.1671732522796
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44898B"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1071.2753799392096,
+                            1504.3282258064517,
+                            1105.1671732522796
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$38.00"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1105.1671732522796,
+                            951.8080645161291,
+                            1139.0589665653495
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1105.1671732522796,
+                            1209.6508064516129,
+                            1139.0589665653495
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "45073B"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1105.1671732522796,
+                            1504.3282258064517,
+                            1139.0589665653495
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$69.66"
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1224.5252279635258,
+                            397.81451612903226,
+                            1256.9434650455926
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/18/99"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1224.5252279635258,
+                            951.8080645161291,
+                            1256.9434650455926
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LNG DIST"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1224.5252279635258,
+                            1209.6508064516129,
+                            1256.9434650455926
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1036-202"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1224.5252279635258,
+                            1504.3282258064517,
+                            1256.9434650455926
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.12"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1256.9434650455926,
+                            951.8080645161291,
+                            1286.4145896656535
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LNG DIST"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1256.9434650455926,
+                            1209.6508064516129,
+                            1286.4145896656535
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1053-650"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1256.9434650455926,
+                            1504.3282258064517,
+                            1286.4145896656535
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.12"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1286.4145896656535,
+                            951.8080645161291,
+                            1317.3592705167173
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LNG DIST"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1286.4145896656535,
+                            1209.6508064516129,
+                            1317.3592705167173
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1076-415"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1286.4145896656535,
+                            1504.3282258064517,
+                            1317.3592705167173
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$7.90"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1317.3592705167173,
+                            951.8080645161291,
+                            1351.2510638297872
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LNG DIST"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1317.3592705167173,
+                            1209.6508064516129,
+                            1351.2510638297872
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1092-415"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1317.3592705167173,
+                            1504.3282258064517,
+                            1351.2510638297872
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$7.01"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1351.2510638297872,
+                            951.8080645161291,
+                            1379.248632218845
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LNG DIST"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1351.2510638297872,
+                            1209.6508064516129,
+                            1379.248632218845
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1119-415"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1351.2510638297872,
+                            1504.3282258064517,
+                            1379.248632218845
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.12"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1379.248632218845,
+                            951.8080645161291,
+                            1411.666869300912
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LNG DIST"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1379.248632218845,
+                            1209.6508064516129,
+                            1411.666869300912
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1790-415"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1379.248632218845,
+                            1504.3282258064517,
+                            1411.666869300912
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$7.01"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1411.666869300912,
+                            951.8080645161291,
+                            1439.6644376899696
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LNG DIST"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1411.666869300912,
+                            1209.6508064516129,
+                            1439.6644376899696
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1808-210"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1411.666869300912,
+                            1504.3282258064517,
+                            1439.6644376899696
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.79"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1439.6644376899696,
+                            951.8080645161291,
+                            1472.0826747720364
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "RM SERVI"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1439.6644376899696,
+                            1209.6508064516129,
+                            1472.0826747720364
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "26730"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1439.6644376899696,
+                            1504.3282258064517,
+                            1472.0826747720364
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$54.44"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1472.0826747720364,
+                            951.8080645161291,
+                            1504.5009118541034
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "RM SERVI"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1472.0826747720364,
+                            1209.6508064516129,
+                            1504.5009118541034
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "26950"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1472.0826747720364,
+                            1504.3282258064517,
+                            1504.5009118541034
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$64.02"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1504.5009118541034,
+                            951.8080645161291,
+                            1533.972036474164
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1504.5009118541034,
+                            1209.6508064516129,
+                            1533.972036474164
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "450828"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1504.5009118541034,
+                            1504.3282258064517,
+                            1533.972036474164
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$38.00"
+                    },
+                    {
+                        "bbox": [
+                            786.7887096774194,
+                            1533.972036474164,
+                            951.8080645161291,
+                            1569.3373860182369
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AV CHARG"
+                    },
+                    {
+                        "bbox": [
+                            1049.0516129032258,
+                            1533.972036474164,
+                            1209.6508064516129,
+                            1569.3373860182369
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "45083A"
+                    },
+                    {
+                        "bbox": [
+                            1334.8887096774192,
+                            1533.972036474164,
+                            1504.3282258064517,
+                            1569.3373860182369
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$189.99"
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            576.1604863221885,
+                            397.81451612903226,
+                            608.5787234042552
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            608.5787234042552,
+                            397.81451612903226,
+                            638.049848024316
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            638.049848024316,
+                            397.81451612903226,
+                            673.415197568389
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            792.7732522796352,
+                            397.81451612903226,
+                            822.2443768996961
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            822.2443768996961,
+                            397.81451612903226,
+                            856.1361702127659
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            856.1361702127659,
+                            397.81451612903226,
+                            884.1337386018237
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1007.9124620060791,
+                            397.81451612903226,
+                            1040.3306990881458
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1040.3306990881458,
+                            397.81451612903226,
+                            1071.2753799392096
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1071.2753799392096,
+                            397.81451612903226,
+                            1105.1671732522796
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1105.1671732522796,
+                            397.81451612903226,
+                            1139.0589665653495
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1256.9434650455926,
+                            397.81451612903226,
+                            1286.4145896656535
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1286.4145896656535,
+                            397.81451612903226,
+                            1317.3592705167173
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1317.3592705167173,
+                            397.81451612903226,
+                            1351.2510638297872
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1351.2510638297872,
+                            397.81451612903226,
+                            1379.248632218845
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1379.248632218845,
+                            397.81451612903226,
+                            1411.666869300912
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1411.666869300912,
+                            397.81451612903226,
+                            1439.6644376899696
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1439.6644376899696,
+                            397.81451612903226,
+                            1472.0826747720364
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1472.0826747720364,
+                            397.81451612903226,
+                            1504.5009118541034
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1504.5009118541034,
+                            397.81451612903226,
+                            1533.972036474164
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            238.68870967741935,
+                            1533.972036474164,
+                            397.81451612903226,
+                            1569.3373860182369
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

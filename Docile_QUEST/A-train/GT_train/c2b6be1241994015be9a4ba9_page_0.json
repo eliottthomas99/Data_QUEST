@@ -1,0 +1,1893 @@
+{
+    "TD": [
+        [
+            [
+                256.15161290322584,
+                929.9208507762182,
+                1251.1451612903224,
+                2189.356608478803
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            273.1680125714784,
+                            931.7356608478802,
+                            332.6222270723297,
+                            962.5966579613957
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            634.7139115631411,
+                            931.7356608478802,
+                            716.6643153345847,
+                            958.3112756486919
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            793.7941071194728,
+                            929.9208507762182,
+                            854.8551922825089,
+                            962.0609729118241
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            931.7356608478802,
+                            1083.030826312803,
+                            960.4539668050439
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            979.1371571072319,
+                            352.39354838709676,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/02/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            979.1371571072319,
+                            726.9967741935484,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855862"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            979.1371571072319,
+                            913.558064516129,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            979.1371571072319,
+                            1251.1451612903224,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1029.501246882793,
+                            352.39354838709676,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/02/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1029.501246882793,
+                            726.9967741935484,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855862"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1029.501246882793,
+                            913.558064516129,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1029.501246882793,
+                            1251.1451612903224,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1075.4214463840399,
+                            352.39354838709676,
+                            1108.0099750623442
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/02/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1075.4214463840399,
+                            726.9967741935484,
+                            1108.0099750623442
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855863"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1075.4214463840399,
+                            913.558064516129,
+                            1108.0099750623442
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1075.4214463840399,
+                            1251.1451612903224,
+                            1108.0099750623442
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1122.8229426433916,
+                            352.39354838709676,
+                            1156.8927680798006
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/02/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1122.8229426433916,
+                            726.9967741935484,
+                            1156.8927680798006
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855863"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1122.8229426433916,
+                            913.558064516129,
+                            1156.8927680798006
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1122.8229426433916,
+                            1251.1451612903224,
+                            1156.8927680798006
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1176.149625935162,
+                            352.39354838709676,
+                            1205.7755610972567
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/02/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1176.149625935162,
+                            726.9967741935484,
+                            1205.7755610972567
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855864"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1176.149625935162,
+                            913.558064516129,
+                            1205.7755610972567
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1176.149625935162,
+                            1251.1451612903224,
+                            1205.7755610972567
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1223.5511221945137,
+                            352.39354838709676,
+                            1257.6209476309227
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/03/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1223.5511221945137,
+                            726.9967741935484,
+                            1257.6209476309227
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855865"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1223.5511221945137,
+                            913.558064516129,
+                            1257.6209476309227
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1223.5511221945137,
+                            1251.1451612903224,
+                            1257.6209476309227
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1273.9152119700748,
+                            352.39354838709676,
+                            1303.5411471321697
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/03/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1273.9152119700748,
+                            726.9967741935484,
+                            1303.5411471321697
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855865"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1273.9152119700748,
+                            913.558064516129,
+                            1303.5411471321697
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1273.9152119700748,
+                            1251.1451612903224,
+                            1303.5411471321697
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1319.8354114713218,
+                            352.39354838709676,
+                            1350.9426433915212
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/03/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1319.8354114713218,
+                            726.9967741935484,
+                            1350.9426433915212
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855866"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1319.8354114713218,
+                            913.558064516129,
+                            1350.9426433915212
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1319.8354114713218,
+                            1251.1451612903224,
+                            1350.9426433915212
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1365.7556109725685,
+                            352.39354838709676,
+                            1404.2693266832919
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/03/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1365.7556109725685,
+                            726.9967741935484,
+                            1404.2693266832919
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855866"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1365.7556109725685,
+                            913.558064516129,
+                            1404.2693266832919
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1365.7556109725685,
+                            1251.1451612903224,
+                            1404.2693266832919
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1416.1197007481296,
+                            352.39354838709676,
+                            1451.6708229426436
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/03/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1416.1197007481296,
+                            726.9967741935484,
+                            1451.6708229426436
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855867"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1416.1197007481296,
+                            913.558064516129,
+                            1451.6708229426436
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1416.1197007481296,
+                            1251.1451612903224,
+                            1451.6708229426436
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1462.0399002493764,
+                            352.39354838709676,
+                            1499.072319201995
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1462.0399002493764,
+                            726.9967741935484,
+                            1499.072319201995
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855868"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1462.0399002493764,
+                            913.558064516129,
+                            1499.072319201995
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1462.0399002493764,
+                            1251.1451612903224,
+                            1499.072319201995
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1513.8852867830424,
+                            352.39354838709676,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1513.8852867830424,
+                            726.9967741935484,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855868"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1513.8852867830424,
+                            913.558064516129,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1513.8852867830424,
+                            1251.1451612903224,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1562.7680798004988,
+                            352.39354838709676,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1562.7680798004988,
+                            726.9967741935484,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855869"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1562.7680798004988,
+                            913.558064516129,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1562.7680798004988,
+                            1251.1451612903224,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1611.6508728179551,
+                            352.39354838709676,
+                            1644.2394014962595
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1611.6508728179551,
+                            726.9967741935484,
+                            1644.2394014962595
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855869"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1611.6508728179551,
+                            913.558064516129,
+                            1644.2394014962595
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1611.6508728179551,
+                            1251.1451612903224,
+                            1644.2394014962595
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1662.0149625935162,
+                            352.39354838709676,
+                            1693.1221945137156
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1662.0149625935162,
+                            726.9967741935484,
+                            1693.1221945137156
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855870"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1662.0149625935162,
+                            913.558064516129,
+                            1693.1221945137156
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1662.0149625935162,
+                            1251.1451612903224,
+                            1693.1221945137156
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1712.3790523690773,
+                            352.39354838709676,
+                            1740.5236907730673
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1712.3790523690773,
+                            726.9967741935484,
+                            1740.5236907730673
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855871"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1712.3790523690773,
+                            913.558064516129,
+                            1740.5236907730673
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1712.3790523690773,
+                            1251.1451612903224,
+                            1740.5236907730673
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1755.6329177057364,
+                            352.39354838709676,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1755.6329177057364,
+                            726.9967741935484,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855871"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1755.6329177057364,
+                            913.558064516129,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1755.6329177057364,
+                            1251.1451612903224,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1804.8119700748139,
+                            352.39354838709676,
+                            1839.7705735660847
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1804.8119700748139,
+                            726.9967741935484,
+                            1839.7705735660847
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855872"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1804.8119700748139,
+                            913.558064516129,
+                            1839.7705735660847
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1804.8119700748139,
+                            1251.1451612903224,
+                            1839.7705735660847
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1853.991022443891,
+                            352.39354838709676,
+                            1885.6907730673317
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1853.991022443891,
+                            726.9967741935484,
+                            1885.6907730673317
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855872"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1853.991022443891,
+                            913.558064516129,
+                            1885.6907730673317
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1853.991022443891,
+                            1251.1451612903224,
+                            1885.6907730673317
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1903.1700748129686,
+                            352.39354838709676,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1903.1700748129686,
+                            726.9967741935484,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855873"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1903.1700748129686,
+                            913.558064516129,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1903.1700748129686,
+                            1251.1451612903224,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1953.8304239401498,
+                            352.39354838709676,
+                            1987.9002493765586
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1953.8304239401498,
+                            726.9967741935484,
+                            1987.9002493765586
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855874"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            1953.8304239401498,
+                            913.558064516129,
+                            1987.9002493765586
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            1953.8304239401498,
+                            1251.1451612903224,
+                            1987.9002493765586
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2001.5281795511232,
+                            352.39354838709676,
+                            2033.8204488778056
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            2001.5281795511232,
+                            726.9967741935484,
+                            2033.8204488778056
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855875"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            2001.5281795511232,
+                            913.558064516129,
+                            2033.8204488778056
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            2001.5281795511232,
+                            1251.1451612903224,
+                            2033.8204488778056
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2050.7072319202007,
+                            352.39354838709676,
+                            2085.665835411471
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            2050.7072319202007,
+                            726.9967741935484,
+                            2085.665835411471
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855876"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            2050.7072319202007,
+                            913.558064516129,
+                            2085.665835411471
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            2050.7072319202007,
+                            1251.1451612903224,
+                            2085.665835411471
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2097.516209476309,
+                            352.39354838709676,
+                            2133.067331670823
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            2097.516209476309,
+                            726.9967741935484,
+                            2133.067331670823
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855877"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            2097.516209476309,
+                            913.558064516129,
+                            2133.067331670823
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$40.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            2097.516209476309,
+                            1251.1451612903224,
+                            2133.067331670823
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2149.361596009975,
+                            352.39354838709676,
+                            2189.356608478803
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            2149.361596009975,
+                            726.9967741935484,
+                            2189.356608478803
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2855878"
+                    },
+                    {
+                        "bbox": [
+                            829.1612903225806,
+                            2149.361596009975,
+                            913.558064516129,
+                            2189.356608478803
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$40.00"
+                    },
+                    {
+                        "bbox": [
+                            986.1096774193549,
+                            2149.361596009975,
+                            1251.1451612903224,
+                            2189.356608478803
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SAME OLD_BTP1801R"
+                    }
+                ]
+            }
+        ]
+    ]
+}

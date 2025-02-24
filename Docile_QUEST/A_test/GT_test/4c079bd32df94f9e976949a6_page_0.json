@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                110.61290322580646,
+                778.5300911854104,
+                1786.7056451612902,
+                895.2328267477203
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            490.8986705547809,
+                            778.5300911854104,
+                            1020.2442787669123,
+                            815.5859652775736
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EXPLANATION OF CHARGES"
+                    },
+                    {
+                        "bbox": [
+                            1514.0481855970731,
+                            780.141116721399,
+                            1690.001301823912,
+                            815.5859652775736
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            110.61290322580646,
+                            847.6303951367781,
+                            781.9717741935483,
+                            895.2328267477203
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Service Fee for the month of March 1999."
+                    },
+                    {
+                        "bbox": [
+                            1556.2620967741934,
+                            847.6303951367781,
+                            1786.7056451612902,
+                            895.2328267477203
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 113,900.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

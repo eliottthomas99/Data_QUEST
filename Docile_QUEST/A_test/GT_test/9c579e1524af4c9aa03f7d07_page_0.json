@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                79.35080645161291,
+                1012.6191955760963,
+                1679.3516129032257,
+                1128.116504854369
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            604.9578990740275,
+                            1012.6191955760963,
+                            835.5118866690152,
+                            1057.9309494637425
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1452.2930671581703,
+                            1014.5892718320807,
+                            1617.8190069699565,
+                            1053.9907969517733
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            79.35080645161291,
+                            1080.510565391205,
+                            611.7225806451613,
+                            1128.116504854369
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1999 Membership Dues (Affiliate)"
+                    },
+                    {
+                        "bbox": [
+                            1552.3903225806453,
+                            1080.510565391205,
+                            1679.3516129032257,
+                            1128.116504854369
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "500.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

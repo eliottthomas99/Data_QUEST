@@ -1,0 +1,1461 @@
+{
+    "TD": [
+        [
+            [
+                116.88387096774194,
+                735.74921085595,
+                1804.9935483870968,
+                1652.0167014613778
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            133.0182328190743,
+                            741.4526931106471,
+                            237.5325586054899,
+                            769.9701043841336
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Channel"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            738.125661795407,
+                            1039.4424764576236,
+                            770.4300626304802
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            735.9331941544885,
+                            1434.696653977159,
+                            770.9206847599164
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Ad-ID"
+                    },
+                    {
+                        "bbox": [
+                            1645.6255660188338,
+                            735.74921085595,
+                            1706.4339010218393,
+                            773.7724258872651
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            778.1484375,
+                            201.8671875,
+                            864.3382045929019
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            831.7578288100209,
+                            1082.6129032258063,
+                            864.3382045929019
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/14/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            831.7578288100209,
+                            1567.3935483870966,
+                            864.3382045929019
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            831.7578288100209,
+                            1804.9935483870968,
+                            864.3382045929019
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$500.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            864.3382045929019,
+                            195.44516129032257,
+                            893.0855949895616
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            864.3382045929019,
+                            1082.6129032258063,
+                            893.0855949895616
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/15/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            864.3382045929019,
+                            1567.3935483870966,
+                            893.0855949895616
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            864.3382045929019,
+                            1804.9935483870968,
+                            893.0855949895616
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$500.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            893.0855949895616,
+                            195.44516129032257,
+                            916.0835073068894
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            893.0855949895616,
+                            1082.6129032258063,
+                            916.0835073068894
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/16/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            893.0855949895616,
+                            1567.3935483870966,
+                            916.0835073068894
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            893.0855949895616,
+                            1804.9935483870968,
+                            916.0835073068894
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$500.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            916.0835073068894,
+                            195.44516129032257,
+                            944.830897703549
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            916.0835073068894,
+                            1082.6129032258063,
+                            944.830897703549
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/17/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            916.0835073068894,
+                            1567.3935483870966,
+                            944.830897703549
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            916.0835073068894,
+                            1804.9935483870968,
+                            944.830897703549
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$500.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            944.830897703549,
+                            195.44516129032257,
+                            977.41127348643
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            944.830897703549,
+                            1082.6129032258063,
+                            977.41127348643
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/18/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            944.830897703549,
+                            1567.3935483870966,
+                            977.41127348643
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            944.830897703549,
+                            1804.9935483870968,
+                            977.41127348643
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$500.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            986.1328125,
+                            201.8671875,
+                            1069.4029227557412
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1038.7390396659707,
+                            1082.6129032258063,
+                            1069.4029227557412
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/14/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1038.7390396659707,
+                            1567.3935483870966,
+                            1069.4029227557412
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1038.7390396659707,
+                            1804.9935483870968,
+                            1069.4029227557412
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$425.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1069.4029227557412,
+                            195.44516129032257,
+                            1098.1503131524007
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1069.4029227557412,
+                            1082.6129032258063,
+                            1098.1503131524007
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/15/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1069.4029227557412,
+                            1567.3935483870966,
+                            1098.1503131524007
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1069.4029227557412,
+                            1804.9935483870968,
+                            1098.1503131524007
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$425.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1098.1503131524007,
+                            195.44516129032257,
+                            1126.8977035490605
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1098.1503131524007,
+                            1082.6129032258063,
+                            1126.8977035490605
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/16/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1098.1503131524007,
+                            1567.3935483870966,
+                            1126.8977035490605
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1098.1503131524007,
+                            1804.9935483870968,
+                            1126.8977035490605
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$425.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1126.8977035490605,
+                            195.44516129032257,
+                            1151.812108559499
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1126.8977035490605,
+                            1082.6129032258063,
+                            1151.812108559499
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/17/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1126.8977035490605,
+                            1567.3935483870966,
+                            1151.812108559499
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1126.8977035490605,
+                            1804.9935483870968,
+                            1151.812108559499
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$425.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1151.812108559499,
+                            195.44516129032257,
+                            1180.5594989561587
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1151.812108559499,
+                            1082.6129032258063,
+                            1180.5594989561587
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/18/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1151.812108559499,
+                            1567.3935483870966,
+                            1180.5594989561587
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1151.812108559499,
+                            1804.9935483870968,
+                            1180.5594989561587
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$425.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1192.32421875,
+                            201.8671875,
+                            1274.4676409185804
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1245.7202505219207,
+                            1082.6129032258063,
+                            1274.4676409185804
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/15/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1245.7202505219207,
+                            1567.3935483870966,
+                            1274.4676409185804
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1245.7202505219207,
+                            1804.9935483870968,
+                            1274.4676409185804
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$750.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1274.4676409185804,
+                            195.44516129032257,
+                            1301.2985386221294
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1274.4676409185804,
+                            1082.6129032258063,
+                            1301.2985386221294
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/16/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1274.4676409185804,
+                            1567.3935483870966,
+                            1301.2985386221294
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1274.4676409185804,
+                            1804.9935483870968,
+                            1301.2985386221294
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$750.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1301.2985386221294,
+                            195.44516129032257,
+                            1330.0459290187891
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1301.2985386221294,
+                            1082.6129032258063,
+                            1330.0459290187891
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/17/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1301.2985386221294,
+                            1567.3935483870966,
+                            1330.0459290187891
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1301.2985386221294,
+                            1804.9935483870968,
+                            1330.0459290187891
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$750.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1342.93359375,
+                            201.8671875,
+                            1429.7035490605429
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1397.1231732776619,
+                            1082.6129032258063,
+                            1429.7035490605429
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/15/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1397.1231732776619,
+                            1567.3935483870966,
+                            1429.7035490605429
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1397.1231732776619,
+                            1804.9935483870968,
+                            1429.7035490605429
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$450.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1429.7035490605429,
+                            195.44516129032257,
+                            1456.5344467640919
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1429.7035490605429,
+                            1082.6129032258063,
+                            1456.5344467640919
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/16/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1429.7035490605429,
+                            1567.3935483870966,
+                            1456.5344467640919
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1429.7035490605429,
+                            1804.9935483870968,
+                            1456.5344467640919
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$450.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1456.5344467640919,
+                            195.44516129032257,
+                            1481.4488517745303
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1456.5344467640919,
+                            1082.6129032258063,
+                            1481.4488517745303
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/17/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1456.5344467640919,
+                            1567.3935483870966,
+                            1481.4488517745303
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1456.5344467640919,
+                            1804.9935483870968,
+                            1481.4488517745303
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$450.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1481.4488517745303,
+                            195.44516129032257,
+                            1514.029227557411
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1481.4488517745303,
+                            1082.6129032258063,
+                            1514.029227557411
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/18/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1481.4488517745303,
+                            1567.3935483870966,
+                            1514.029227557411
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1481.4488517745303,
+                            1804.9935483870968,
+                            1514.029227557411
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$450.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1524.0234375,
+                            201.8671875,
+                            1607.937369519833
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1579.1899791231733,
+                            1082.6129032258063,
+                            1607.937369519833
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/14/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1579.1899791231733,
+                            1567.3935483870966,
+                            1607.937369519833
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1579.1899791231733,
+                            1804.9935483870968,
+                            1607.937369519833
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$600.00"
+                    },
+                    {
+                        "bbox": [
+                            116.88387096774194,
+                            1607.937369519833,
+                            195.44516129032257,
+                            1652.0167014613778
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KTVT"
+                    },
+                    {
+                        "bbox": [
+                            971.4774193548387,
+                            1607.937369519833,
+                            1082.6129032258063,
+                            1652.0167014613778
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/15/20"
+                    },
+                    {
+                        "bbox": [
+                            1360.4516129032259,
+                            1607.937369519833,
+                            1567.3935483870966,
+                            1652.0167014613778
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SPRINGGEN090320"
+                    },
+                    {
+                        "bbox": [
+                            1703.4387096774194,
+                            1607.937369519833,
+                            1804.9935483870968,
+                            1652.0167014613778
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$600.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

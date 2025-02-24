@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                147.33870967741936,
+                728.0672268907563,
+                1529.3758064516128,
+                806.1797026502909
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            147.33870967741936,
+                            734.9951699564069,
+                            321.14736831969185,
+                            769.3341952165482
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "STOCKID#"
+                    },
+                    {
+                        "bbox": [
+                            366.8733870967742,
+                            728.0672268907563,
+                            650.4595002407318,
+                            769.3341952165482
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SUBJECT/USAGE"
+                    },
+                    {
+                        "bbox": [
+                            1416.586484833895,
+                            732.273595617295,
+                            1525.4499995185365,
+                            769.3341952165482
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PRICE"
+                    },
+                    {
+                        "bbox": [
+                            147.33870967741936,
+                            769.3341952165482,
+                            276.9967741935484,
+                            806.1797026502909
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "31014-01"
+                    },
+                    {
+                        "bbox": [
+                            366.8733870967742,
+                            769.3341952165482,
+                            455.27661290322584,
+                            806.1797026502909
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BOY"
+                    },
+                    {
+                        "bbox": [
+                            1405.6112903225808,
+                            769.3341952165482,
+                            1529.3758064516128,
+                            806.1797026502909
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2150.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

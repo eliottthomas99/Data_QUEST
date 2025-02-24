@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                296.15080645161294,
+                1575.1408484207745,
+                1651.666935483871,
+                1657.7507598784193
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            365.34528109088984,
+                            1577.7889784590986,
+                            501.6879041066929,
+                            1606.176291793313
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "G/L CODE"
+                    },
+                    {
+                        "bbox": [
+                            1351.5127970789802,
+                            1575.1408484207745,
+                            1475.9419870157326,
+                            1608.7389982820139
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            296.15080645161294,
+                            1620.9118541033433,
+                            574.6209677419355,
+                            1657.7507598784193
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04-90-0247-9091-557"
+                    },
+                    {
+                        "bbox": [
+                            1511.6951612903226,
+                            1620.9118541033433,
+                            1651.666935483871,
+                            1657.7507598784193
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

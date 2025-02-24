@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                235.80725806451613,
+                854.4778540237056,
+                1604.7530734906811,
+                1008.7585776668747
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            516.6757305767536,
+                            860.6888663564254,
+                            1062.3239839019332,
+                            894.5150657002565
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION/SERVICES RENDERED"
+                    },
+                    {
+                        "bbox": [
+                            1385.182258064516,
+                            854.4778540237056,
+                            1604.7530734906811,
+                            891.2935229056058
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT DUE"
+                    },
+                    {
+                        "bbox": [
+                            235.80725806451613,
+                            961.2875857766688,
+                            613.9887096774194,
+                            1008.7585776668747
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LEGAL BILL REVIEW"
+                    },
+                    {
+                        "bbox": [
+                            1385.182258064516,
+                            961.2875857766688,
+                            1573.531451612903,
+                            1008.7585776668747
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5,530.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

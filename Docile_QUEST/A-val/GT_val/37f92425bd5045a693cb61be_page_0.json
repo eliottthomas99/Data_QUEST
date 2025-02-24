@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                234.19677419354838,
+                879.3268870867124,
+                1636.0545832253874,
+                1143.2732376793513
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            481.0032302212595,
+                            881.9737698500501,
+                            1092.3117457387643,
+                            920.6160266518215
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION/SERVICES RENDERED"
+                    },
+                    {
+                        "bbox": [
+                            1397.7693548387097,
+                            879.3268870867124,
+                            1636.0545832253874,
+                            922.2261206852288
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT DUE"
+                    },
+                    {
+                        "bbox": [
+                            234.19677419354838,
+                            999.4373050530255,
+                            618.1016129032258,
+                            1039.4741110417967
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LEGAL BILL REVIEW"
+                    },
+                    {
+                        "bbox": [
+                            1397.7693548387097,
+                            999.4373050530255,
+                            1593.4274193548388,
+                            1039.4741110417967
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25,000.00"
+                    },
+                    {
+                        "bbox": [
+                            234.19677419354838,
+                            1106.2021210230816,
+                            618.1016129032258,
+                            1143.2732376793513
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "RETAINER FEE"
+                    },
+                    {
+                        "bbox": [
+                            1397.7693548387097,
+                            1106.2021210230816,
+                            1636.0545832253874,
+                            1143.2732376793513
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

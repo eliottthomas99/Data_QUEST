@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                85.74032258064516,
+                752.1738009861049,
+                1666.307751564757,
+                1008.8041237113401
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            673.8360500058108,
+                            752.1738009861049,
+                            834.4597596002192,
+                            795.2764455401166
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1548.7782079590922,
+                            760.0106454504707,
+                            1666.307751564757,
+                            796.5825862841775
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            85.74032258064516,
+                            966.6494845360825,
+                            590.0096774193548,
+                            1008.8041237113401
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5673-299 Monthly Summary Report Aug Data"
+                    },
+                    {
+                        "bbox": [
+                            1094.2790322580645,
+                            966.6494845360825,
+                            1213.4435483870966,
+                            1008.8041237113401
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1,986.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

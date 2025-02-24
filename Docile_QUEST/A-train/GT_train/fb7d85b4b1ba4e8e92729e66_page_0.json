@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                97.24354838709677,
+                796.4391726592038,
+                1620.127188325106,
+                1027.0686930091185
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            648.3383868097807,
+                            803.6272518348284,
+                            819.4077172540467,
+                            838.1300318778264
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1503.6850390311101,
+                            796.4391726592038,
+                            1620.127188325106,
+                            830.9419527022017
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            97.24354838709677,
+                            987.2826747720364,
+                            570.2008064516128,
+                            1027.0686930091185
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Direct Line Charges - Circuit #AREC259296"
+                    },
+                    {
+                        "bbox": [
+                            1091.7798387096773,
+                            987.2826747720364,
+                            1186.0766129032259,
+                            1027.0686930091185
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$760.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "pages": [
+        {
+            "page_idx": 0,
+            "dimensions": [
+                2376,
+                1836
+            ],
+            "orientation": {
+                "value": null,
+                "confidence": null
+            },
+            "language": {
+                "value": null,
+                "confidence": null
+            },
+            "blocks": [
+                {
+                    "geometry": [
+                        [
+                            0.15625,
+                            0.0947265625
+                        ],
+                        [
+                            0.3597196691176471,
+                            0.1123046875
+                        ]
+                    ],
+                    "lines": [
+                        {
+                            "geometry": [
+                                [
+                                    0.15625,
+                                    0.0947265625
+                                ],
+                                [
+                                    0.3597196691176471,
+                                    0.1123046875
+                                ]
+                            ],
+                            "words": [
+                                {
+                                    "value": "Kixxtm@gmall.com",
+                                    "confidence": 0.8827974796295166,
+                                    "geometry": [
+                                        [
+                                            0.15625,
+                                            0.0947265625
+                                        ],
+                                        [
+                                            0.3597196691176471,
+                                            0.1123046875
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "artefacts": []
+                }
+            ]
+        }
+    ]
+}

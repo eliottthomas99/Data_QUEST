@@ -1,0 +1,2397 @@
+{
+    "TD": [
+        [
+            [
+                379.7693548387097,
+                772.1397379912663,
+                1549.0177419354839,
+                2064.291952588896
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            772.1397379912663,
+                            479.0723303670745,
+                            803.9366129868389
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            765.0008753687672,
+                            772.1397379912663,
+                            908.9119311312086,
+                            808.1021107184126
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1209.9890083184212,
+                            772.1397379912663,
+                            1325.4965662330126,
+                            807.7234080948487
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "UNIT PRICE"
+                    },
+                    {
+                        "bbox": [
+                            1405.026360206993,
+                            772.1397379912663,
+                            1497.8111198433041,
+                            807.3447054712846
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            816.2620087336244,
+                            458.55967741935484,
+                            865.1116656269495
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            816.2620087336244,
+                            879.3000000000001,
+                            865.1116656269495
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7369 Mohanty travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            816.2620087336244,
+                            1359.9209677419353,
+                            865.1116656269495
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "87.22"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            816.2620087336244,
+                            1549.0177419354839,
+                            865.1116656269495
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$87.22"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            865.1116656269495,
+                            458.55967741935484,
+                            902.930754834685
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            865.1116656269495,
+                            879.3000000000001,
+                            902.930754834685
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7498 Mohanty travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            865.1116656269495,
+                            1359.9209677419353,
+                            902.930754834685
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "21.74"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            865.1116656269495,
+                            1549.0177419354839,
+                            902.930754834685
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$21.74"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            902.930754834685,
+                            458.55967741935484,
+                            940.7498440424205
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            902.930754834685,
+                            879.3000000000001,
+                            940.7498440424205
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7602 Fed Ex"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            902.930754834685,
+                            1359.9209677419353,
+                            940.7498440424205
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "59.93"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            902.930754834685,
+                            1549.0177419354839,
+                            940.7498440424205
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$59.93"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            940.7498440424205,
+                            458.55967741935484,
+                            980.1447286338116
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            940.7498440424205,
+                            879.3000000000001,
+                            980.1447286338116
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7734 Kinko's"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            940.7498440424205,
+                            1359.9209677419353,
+                            980.1447286338116
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "81.54"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            940.7498440424205,
+                            1549.0177419354839,
+                            980.1447286338116
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$81.54"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            980.1447286338116,
+                            458.55967741935484,
+                            1022.691203992514
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            980.1447286338116,
+                            879.3000000000001,
+                            1022.691203992514
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7782 Fed Ex"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            980.1447286338116,
+                            1359.9209677419353,
+                            1022.691203992514
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "414.50"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            980.1447286338116,
+                            1549.0177419354839,
+                            1022.691203992514
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "414.50"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1022.691203992514,
+                            458.55967741935484,
+                            1060.5102932002496
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1022.691203992514,
+                            879.3000000000001,
+                            1060.5102932002496
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10028 Copy Stop"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1022.691203992514,
+                            1359.9209677419353,
+                            1060.5102932002496
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "37.42"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1022.691203992514,
+                            1549.0177419354839,
+                            1060.5102932002496
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "37.42"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1060.5102932002496,
+                            458.55967741935484,
+                            1098.329382407985
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1060.5102932002496,
+                            879.3000000000001,
+                            1098.329382407985
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10032 Career Futures"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1060.5102932002496,
+                            1359.9209677419353,
+                            1098.329382407985
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "240.00"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1060.5102932002496,
+                            1549.0177419354839,
+                            1098.329382407985
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "240.00"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1098.329382407985,
+                            458.55967741935484,
+                            1134.5726762320649
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1098.329382407985,
+                            879.3000000000001,
+                            1134.5726762320649
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10126 Fed Ex"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1098.329382407985,
+                            1359.9209677419353,
+                            1134.5726762320649
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44.25"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1098.329382407985,
+                            1549.0177419354839,
+                            1134.5726762320649
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44.25"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1134.5726762320649,
+                            458.55967741935484,
+                            1173.967560823456
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1134.5726762320649,
+                            879.3000000000001,
+                            1173.967560823456
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10462 Fed Ex"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1134.5726762320649,
+                            1359.9209677419353,
+                            1173.967560823456
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "27.75"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1134.5726762320649,
+                            1549.0177419354839,
+                            1173.967560823456
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "27.75"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1173.967560823456,
+                            458.55967741935484,
+                            1214.9382407985029
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1173.967560823456,
+                            879.3000000000001,
+                            1214.9382407985029
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10482 Kinko's"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1173.967560823456,
+                            1359.9209677419353,
+                            1214.9382407985029
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "94.70"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1173.967560823456,
+                            1549.0177419354839,
+                            1214.9382407985029
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "94.70"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1214.9382407985029,
+                            458.55967741935484,
+                            1249.605739238927
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1214.9382407985029,
+                            879.3000000000001,
+                            1249.605739238927
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10575 Leader travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1214.9382407985029,
+                            1359.9209677419353,
+                            1249.605739238927
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "546.05"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1214.9382407985029,
+                            1549.0177419354839,
+                            1249.605739238927
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "546.05"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1249.605739238927,
+                            458.55967741935484,
+                            1296.8796007485964
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1249.605739238927,
+                            879.3000000000001,
+                            1296.8796007485964
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10601 Fed Ex"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1249.605739238927,
+                            1359.9209677419353,
+                            1296.8796007485964
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "27.00"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1249.605739238927,
+                            1549.0177419354839,
+                            1296.8796007485964
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "27.00"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1296.8796007485964,
+                            458.55967741935484,
+                            1334.698689956332
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1296.8796007485964,
+                            879.3000000000001,
+                            1334.698689956332
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10611Mohanty travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1296.8796007485964,
+                            1359.9209677419353,
+                            1334.698689956332
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "387.96"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1296.8796007485964,
+                            1549.0177419354839,
+                            1334.698689956332
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "387.96"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1334.698689956332,
+                            458.55967741935484,
+                            1372.5177791640674
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1334.698689956332,
+                            879.3000000000001,
+                            1372.5177791640674
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10612 Edmondson travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1334.698689956332,
+                            1359.9209677419353,
+                            1372.5177791640674
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,054.09"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1334.698689956332,
+                            1549.0177419354839,
+                            1372.5177791640674
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,054.09"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1372.5177791640674,
+                            458.55967741935484,
+                            1410.336868371803
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1372.5177791640674,
+                            879.3000000000001,
+                            1410.336868371803
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10668 Edmondson travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1372.5177791640674,
+                            1359.9209677419353,
+                            1410.336868371803
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,421.07"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1372.5177791640674,
+                            1549.0177419354839,
+                            1410.336868371803
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,421.07"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1410.336868371803,
+                            458.55967741935484,
+                            1449.731752963194
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1410.336868371803,
+                            879.3000000000001,
+                            1449.731752963194
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10688 Mohanty travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1410.336868371803,
+                            1359.9209677419353,
+                            1449.731752963194
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "821.00"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1410.336868371803,
+                            1549.0177419354839,
+                            1449.731752963194
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "821.00"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1449.731752963194,
+                            458.55967741935484,
+                            1493.8540237055522
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1449.731752963194,
+                            879.3000000000001,
+                            1493.8540237055522
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10759 Comprehensive Office suppy"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1449.731752963194,
+                            1359.9209677419353,
+                            1493.8540237055522
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "13.75"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1449.731752963194,
+                            1549.0177419354839,
+                            1493.8540237055522
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "13.75"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1493.8540237055522,
+                            458.55967741935484,
+                            1525.3699313786651
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1493.8540237055522,
+                            879.3000000000001,
+                            1525.3699313786651
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10778 Edmondson travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1493.8540237055522,
+                            1359.9209677419353,
+                            1525.3699313786651
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "488.66"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1493.8540237055522,
+                            1549.0177419354839,
+                            1525.3699313786651
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "488.66"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1525.3699313786651,
+                            458.55967741935484,
+                            1563.1890205864006
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1525.3699313786651,
+                            879.3000000000001,
+                            1563.1890205864006
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10779 Adams travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1525.3699313786651,
+                            1359.9209677419353,
+                            1563.1890205864006
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "563.29"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1525.3699313786651,
+                            1549.0177419354839,
+                            1563.1890205864006
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "563.29"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1563.1890205864006,
+                            458.55967741935484,
+                            1599.4323144104803
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1563.1890205864006,
+                            879.3000000000001,
+                            1599.4323144104803
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10780 Edmondson travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1563.1890205864006,
+                            1359.9209677419353,
+                            1599.4323144104803
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "432.57"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1563.1890205864006,
+                            1549.0177419354839,
+                            1599.4323144104803
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "432.57"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1599.4323144104803,
+                            458.55967741935484,
+                            1646.7061759201497
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1599.4323144104803,
+                            879.3000000000001,
+                            1646.7061759201497
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TRAVEL AGENTS (Mohanty airfare)"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1599.4323144104803,
+                            1359.9209677419353,
+                            1646.7061759201497
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "318.35"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1599.4323144104803,
+                            1549.0177419354839,
+                            1646.7061759201497
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "318.35"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1646.7061759201497,
+                            458.55967741935484,
+                            1684.5252651278854
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1646.7061759201497,
+                            879.3000000000001,
+                            1684.5252651278854
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Mohanty travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1646.7061759201497,
+                            1359.9209677419353,
+                            1684.5252651278854
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "509.25"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1646.7061759201497,
+                            1549.0177419354839,
+                            1684.5252651278854
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "509.25"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1684.5252651278854,
+                            458.55967741935484,
+                            1722.3443543356207
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1684.5252651278854,
+                            879.3000000000001,
+                            1722.3443543356207
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Leader travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1684.5252651278854,
+                            1359.9209677419353,
+                            1722.3443543356207
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "310.00"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1684.5252651278854,
+                            1549.0177419354839,
+                            1722.3443543356207
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "310.00"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1722.3443543356207,
+                            458.55967741935484,
+                            1758.5876481597006
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1722.3443543356207,
+                            879.3000000000001,
+                            1758.5876481597006
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Leader travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1722.3443543356207,
+                            1359.9209677419353,
+                            1758.5876481597006
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "386.96"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1722.3443543356207,
+                            1549.0177419354839,
+                            1758.5876481597006
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "386.96"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1758.5876481597006,
+                            458.55967741935484,
+                            1794.8309419837806
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,434"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1758.5876481597006,
+                            879.3000000000001,
+                            1794.8309419837806
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Mohanty vicinity travel"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1758.5876481597006,
+                            1359.9209677419353,
+                            1794.8309419837806
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.325"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1758.5876481597006,
+                            1549.0177419354839,
+                            1794.8309419837806
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,441.05"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1794.8309419837806,
+                            458.55967741935484,
+                            1837.3774173424829
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1794.8309419837806,
+                            879.3000000000001,
+                            1837.3774173424829
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TRAVEL AGENTS (Mohanty airfare)"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1794.8309419837806,
+                            1359.9209677419353,
+                            1837.3774173424829
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "173.43"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1794.8309419837806,
+                            1549.0177419354839,
+                            1837.3774173424829
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "173.43"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1837.3774173424829,
+                            458.55967741935484,
+                            1879.9238927011854
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1837.3774173424829,
+                            879.3000000000001,
+                            1879.9238927011854
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TRAVEL AGENTS (WAE airfare)"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1837.3774173424829,
+                            1359.9209677419353,
+                            1879.9238927011854
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,507.54"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1837.3774173424829,
+                            1549.0177419354839,
+                            1879.9238927011854
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,507.54"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1879.9238927011854,
+                            458.55967741935484,
+                            1920.8945726762322
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1879.9238927011854,
+                            879.3000000000001,
+                            1920.8945726762322
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TRAVEL AGENTS (NL airfare)"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1879.9238927011854,
+                            1359.9209677419353,
+                            1920.8945726762322
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,050.18"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1879.9238927011854,
+                            1549.0177419354839,
+                            1920.8945726762322
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,050.18"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1920.8945726762322,
+                            458.55967741935484,
+                            1957.137866500312
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,560"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1920.8945726762322,
+                            879.3000000000001,
+                            1957.137866500312
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "In house copies 1996"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1920.8945726762322,
+                            1359.9209677419353,
+                            1957.137866500312
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.25"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1920.8945726762322,
+                            1549.0177419354839,
+                            1957.137866500312
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,140.00"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1957.137866500312,
+                            458.55967741935484,
+                            1996.532751091703
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "15,120"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1957.137866500312,
+                            879.3000000000001,
+                            1996.532751091703
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "In house copies 1997"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1957.137866500312,
+                            1359.9209677419353,
+                            1996.532751091703
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.25"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1957.137866500312,
+                            1549.0177419354839,
+                            1996.532751091703
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3,780.00"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            1996.532751091703,
+                            458.55967741935484,
+                            2034.3518402994384
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "13,560"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            1996.532751091703,
+                            879.3000000000001,
+                            2034.3518402994384
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "In house copies 1998"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            1996.532751091703,
+                            1359.9209677419353,
+                            2034.3518402994384
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.25"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            1996.532751091703,
+                            1549.0177419354839,
+                            2034.3518402994384
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3,390.00"
+                    },
+                    {
+                        "bbox": [
+                            379.7693548387097,
+                            2034.3518402994384,
+                            458.55967741935484,
+                            2064.291952588896
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            491.6516129032258,
+                            2034.3518402994384,
+                            879.3000000000001,
+                            2064.291952588896
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "phone calls (itemized attached)"
+                    },
+                    {
+                        "bbox": [
+                            1255.9177419354837,
+                            2034.3518402994384,
+                            1359.9209677419353,
+                            2064.291952588896
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,469.59"
+                    },
+                    {
+                        "bbox": [
+                            1432.408064516129,
+                            2034.3518402994384,
+                            1549.0177419354839,
+                            2064.291952588896
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,469.59"
+                    }
+                ]
+            }
+        ]
+    ]
+}

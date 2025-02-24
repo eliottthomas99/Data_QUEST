@@ -1,0 +1,165 @@
+{
+    "TD": [
+        [
+            [
+                59.87493307655273,
+                777.3496706088358,
+                1659.033870967742,
+                837.1299288946348
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            59.87493307655273,
+                            782.7928192870596,
+                            172.8208295618681,
+                            812.7301370172904
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quantity"
+                    },
+                    {
+                        "bbox": [
+                            229.84838709677416,
+                            777.3496706088358,
+                            379.6615074626866,
+                            811.3693498477345
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1292.7542368801157,
+                            781.4320321175037,
+                            1373.0410789600385,
+                            815.4517113564024
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Charge"
+                    },
+                    {
+                        "bbox": [
+                            1481.9045936446798,
+                            781.4320321175037,
+                            1552.665878189697,
+                            810.0085626781785
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Total"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            809.1273432449904,
+                            197.43387096774194,
+                            837.1299288946348
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4"
+                    },
+                    {
+                        "bbox": [
+                            229.84838709677416,
+                            809.1273432449904,
+                            792.6822580645162,
+                            837.1299288946348
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "NETWORK/NEW YORK TV COMMERCIAL"
+                    },
+                    {
+                        "bbox": [
+                            1308.367741935484,
+                            809.1273432449904,
+                            1411.5048387096774,
+                            837.1299288946348
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "50.00"
+                    },
+                    {
+                        "bbox": [
+                            1532.3225806451615,
+                            809.1273432449904,
+                            1659.033870967742,
+                            837.1299288946348
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "200.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

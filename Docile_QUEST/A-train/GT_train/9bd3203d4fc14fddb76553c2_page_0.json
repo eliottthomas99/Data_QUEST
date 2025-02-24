@@ -1,0 +1,381 @@
+{
+    "TD": [
+        [
+            [
+                219.2751906688976,
+                1070.0140158054712,
+                1542.2355077045802,
+                1320.3063829787234
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            219.2751906688976,
+                            1070.37945775076,
+                            359.6113126969921,
+                            1095.229510030395
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            689.9859333047979,
+                            1070.0140158054712,
+                            874.1770934666717,
+                            1096.3258358662615
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1200.1662102610996,
+                            1071.841225531915,
+                            1356.5825129382465,
+                            1098.1530455927052
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "UNIT PRICE"
+                    },
+                    {
+                        "bbox": [
+                            1415.0558971166192,
+                            1071.841225531915,
+                            1542.2355077045802,
+                            1099.6148133738602
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            309.4112903225806,
+                            1114.0085106382978,
+                            332.98548387096776,
+                            1146.4267477203646
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            387.5008064516129,
+                            1114.0085106382978,
+                            888.4524193548386,
+                            1146.4267477203646
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "NEC 4210 42* Plasma Monitor"
+                    },
+                    {
+                        "bbox": [
+                            1234.6983870967742,
+                            1114.0085106382978,
+                            1317.208064516129,
+                            1146.4267477203646
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$7615"
+                    },
+                    {
+                        "bbox": [
+                            1440.9725806451613,
+                            1114.0085106382978,
+                            1523.4822580645161,
+                            1146.4267477203646
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$7615"
+                    },
+                    {
+                        "bbox": [
+                            309.4112903225806,
+                            1171.4772036474164,
+                            332.98548387096776,
+                            1202.4218844984803
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            387.5008064516129,
+                            1171.4772036474164,
+                            888.4524193548386,
+                            1202.4218844984803
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Pioneer 7200 Professional DVD Player"
+                    },
+                    {
+                        "bbox": [
+                            1234.6983870967742,
+                            1171.4772036474164,
+                            1317.208064516129,
+                            1202.4218844984803
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$995"
+                    },
+                    {
+                        "bbox": [
+                            1440.9725806451613,
+                            1171.4772036474164,
+                            1523.4822580645161,
+                            1202.4218844984803
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$995"
+                    },
+                    {
+                        "bbox": [
+                            309.4112903225806,
+                            1230.419452887538,
+                            332.98548387096776,
+                            1262.837689969605
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            387.5008064516129,
+                            1230.419452887538,
+                            888.4524193548386,
+                            1262.837689969605
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Table Mount for Plasma Monitor"
+                    },
+                    {
+                        "bbox": [
+                            1234.6983870967742,
+                            1230.419452887538,
+                            1317.208064516129,
+                            1262.837689969605
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$290"
+                    },
+                    {
+                        "bbox": [
+                            1440.9725806451613,
+                            1230.419452887538,
+                            1523.4822580645161,
+                            1262.837689969605
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$290"
+                    },
+                    {
+                        "bbox": [
+                            309.4112903225806,
+                            1289.3617021276596,
+                            332.98548387096776,
+                            1320.3063829787234
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            387.5008064516129,
+                            1289.3617021276596,
+                            888.4524193548386,
+                            1320.3063829787234
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DVD Sample Discs with Marlboro Content"
+                    },
+                    {
+                        "bbox": [
+                            1234.6983870967742,
+                            1289.3617021276596,
+                            1317.208064516129,
+                            1320.3063829787234
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1000"
+                    },
+                    {
+                        "bbox": [
+                            1440.9725806451613,
+                            1289.3617021276596,
+                            1523.4822580645161,
+                            1320.3063829787234
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1000"
+                    }
+                ]
+            }
+        ]
+    ]
+}

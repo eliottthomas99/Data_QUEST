@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                176.80645161290323,
+                1098.575478484318,
+                1625.1459677419355,
+                1181.7920972644376
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            557.2061398403724,
+                            1098.575478484318,
+                            813.3210695876288,
+                            1134.8197206641191
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1326.895204938477,
+                            1100.0752402296891,
+                            1494.2119803791154,
+                            1131.0703163006915
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            176.80645161290323,
+                            1136.1118541033436,
+                            944.4411290322581,
+                            1181.7920972644376
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ADVANCE PAYMENT INVOICE FOR ERD-99-1735"
+                    },
+                    {
+                        "bbox": [
+                            1463.0733870967742,
+                            1136.1118541033436,
+                            1625.1459677419355,
+                            1181.7920972644376
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$97,440"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "TD": [
+        [
+            [
+                287.31048387096774,
+                1159.181850455927,
+                1417.398387096774,
+                1441.1379939209728
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            543.8024728588662,
+                            1162.105386018237,
+                            650.5163989843962,
+                            1224.961400607903
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Budget Detail"
+                    },
+                    {
+                        "bbox": [
+                            1089.0667803221916,
+                            1159.181850455927,
+                            1227.9410677458266,
+                            1230.8084717325228
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Approved Budget"
+                    },
+                    {
+                        "bbox": [
+                            287.31048387096774,
+                            1261.3641337386018,
+                            521.5790322580644,
+                            1301.150151975684
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Salaries"
+                    },
+                    {
+                        "bbox": [
+                            1261.2193548387097,
+                            1261.3641337386018,
+                            1417.398387096774,
+                            1301.150151975684
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "166,000.00"
+                    },
+                    {
+                        "bbox": [
+                            287.31048387096774,
+                            1301.150151975684,
+                            521.5790322580644,
+                            1336.5155015197568
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Fringe Benefits"
+                    },
+                    {
+                        "bbox": [
+                            1261.2193548387097,
+                            1301.150151975684,
+                            1417.398387096774,
+                            1336.5155015197568
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "41,500.00"
+                    },
+                    {
+                        "bbox": [
+                            287.31048387096774,
+                            1336.5155015197568,
+                            521.5790322580644,
+                            1365.9866261398176
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Travel - Domestic"
+                    },
+                    {
+                        "bbox": [
+                            1261.2193548387097,
+                            1336.5155015197568,
+                            1417.398387096774,
+                            1365.9866261398176
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3,000.00"
+                    },
+                    {
+                        "bbox": [
+                            287.31048387096774,
+                            1365.9866261398176,
+                            521.5790322580644,
+                            1402.8255319148934
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Supplies"
+                    },
+                    {
+                        "bbox": [
+                            1261.2193548387097,
+                            1365.9866261398176,
+                            1417.398387096774,
+                            1402.8255319148934
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "45,000.00"
+                    },
+                    {
+                        "bbox": [
+                            287.31048387096774,
+                            1402.8255319148934,
+                            521.5790322580644,
+                            1441.1379939209728
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Other Expense"
+                    },
+                    {
+                        "bbox": [
+                            1261.2193548387097,
+                            1402.8255319148934,
+                            1417.398387096774,
+                            1441.1379939209728
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

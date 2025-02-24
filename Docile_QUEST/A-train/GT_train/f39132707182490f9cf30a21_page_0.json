@@ -1,0 +1,291 @@
+{
+    "TD": [
+        [
+            [
+                262.30645161290323,
+                897.8623853211009,
+                1173.092741935484,
+                1352.6238532110092
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            262.30645161290323,
+                            897.8623853211009,
+                            395.5576754110707,
+                            969.2832568807339
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHARGE TYPE"
+                    },
+                    {
+                        "bbox": [
+                            463.9977720597465,
+                            934.9496354120909,
+                            708.2954625329484,
+                            970.449710714241
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            989.8808146102675,
+                            897.8623853211009,
+                            1166.8951424626584,
+                            969.2832568807339
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ORIGINAL ESTIMATE"
+                    },
+                    {
+                        "bbox": [
+                            262.30645161290323,
+                            1045.0768348623853,
+                            308.93870967741935,
+                            1087.3463302752293
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SY"
+                    },
+                    {
+                        "bbox": [
+                            361.40000000000003,
+                            1045.0768348623853,
+                            830.6370967741935,
+                            1087.3463302752293
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SYQUEST DISK/PHOTO CDS"
+                    },
+                    {
+                        "bbox": [
+                            1008.4225806451614,
+                            1045.0768348623853,
+                            1173.092741935484,
+                            1087.3463302752293
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "212.25"
+                    },
+                    {
+                        "bbox": [
+                            361.40000000000003,
+                            1125.2431192660551,
+                            830.6370967741935,
+                            1161.6823394495414
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SUPPLIER CHARGES"
+                    },
+                    {
+                        "bbox": [
+                            1008.4225806451614,
+                            1125.2431192660551,
+                            1173.092741935484,
+                            1161.6823394495414
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "212.25"
+                    },
+                    {
+                        "bbox": [
+                            262.30645161290323,
+                            1241.848623853211,
+                            308.93870967741935,
+                            1278.2878440366974
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ZS"
+                    },
+                    {
+                        "bbox": [
+                            361.40000000000003,
+                            1241.848623853211,
+                            830.6370967741935,
+                            1278.2878440366974
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SHIPPING/COURIER"
+                    },
+                    {
+                        "bbox": [
+                            1008.4225806451614,
+                            1241.848623853211,
+                            1173.092741935484,
+                            1278.2878440366974
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11.00"
+                    },
+                    {
+                        "bbox": [
+                            361.40000000000003,
+                            1313.2694954128442,
+                            830.6370967741935,
+                            1352.6238532110092
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MISCELLANEOUS CHARGES"
+                    },
+                    {
+                        "bbox": [
+                            1008.4225806451614,
+                            1313.2694954128442,
+                            1173.092741935484,
+                            1352.6238532110092
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11.00"
+                    },
+                    {
+                        "bbox": [
+                            262.30645161290323,
+                            1125.2431192660551,
+                            395.5576754110707,
+                            1161.6823394495414
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            262.30645161290323,
+                            1313.2694954128442,
+                            395.5576754110707,
+                            1352.6238532110092
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

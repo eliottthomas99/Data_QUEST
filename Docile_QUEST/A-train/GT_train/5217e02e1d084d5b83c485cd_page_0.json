@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                79.26209677419355,
+                749.9022303306728,
+                1652.753287841191,
+                995.9224629418471
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            658.5263605606057,
+                            751.8760478457295,
+                            824.331109442752,
+                            786.3051535975065
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1536.9461803021456,
+                            749.9022303306728,
+                            1652.753287841191,
+                            787.0756488027366
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            79.26209677419355,
+                            957.0079817559864,
+                            611.0387096774193,
+                            995.9224629418471
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5673-399 Total U.S. All Brands Report Aug Data"
+                    },
+                    {
+                        "bbox": [
+                            1108.2282258064515,
+                            957.0079817559864,
+                            1207.666129032258,
+                            995.9224629418471
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$493.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

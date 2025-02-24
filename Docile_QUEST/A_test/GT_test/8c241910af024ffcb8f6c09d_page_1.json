@@ -1,0 +1,309 @@
+{
+    "TD": [
+        [
+            [
+                215.16129032258064,
+                489.7504678727386,
+                1360.7096774193549,
+                835.5439800374298
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 1,
+                "data": [
+                    {
+                        "bbox": [
+                            215.16129032258064,
+                            489.7504678727386,
+                            277.48387096774195,
+                            553.5664379288834
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "LINE NO."
+                    },
+                    {
+                        "bbox": [
+                            406.1101494885917,
+                            489.7504678727386,
+                            571.6256305826814,
+                            553.5664379288834
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            952.1406025824964,
+                            489.7504678727386,
+                            1071.584764196788,
+                            553.5664379288834
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            1175.6718193178135,
+                            489.7504678727386,
+                            1319.0048132549637,
+                            553.5664379288834
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TOTAL COST"
+                    },
+                    {
+                        "bbox": [
+                            215.16129032258064,
+                            596.6051154086089,
+                            277.48387096774195,
+                            629.2551466001248
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1."
+                    },
+                    {
+                        "bbox": [
+                            277.48387096774195,
+                            596.6051154086089,
+                            541.6129032258065,
+                            629.2551466001248
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ColorQuest XE Sensor"
+                    },
+                    {
+                        "bbox": [
+                            1028.3225806451612,
+                            596.6051154086089,
+                            1056.516129032258,
+                            629.2551466001248
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1240.516129032258,
+                            596.6051154086089,
+                            1360.7096774193549,
+                            629.2551466001248
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$13,750.00"
+                    },
+                    {
+                        "bbox": [
+                            215.16129032258064,
+                            682.6824703680599,
+                            277.48387096774195,
+                            713.8484092326888
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2."
+                    },
+                    {
+                        "bbox": [
+                            277.48387096774195,
+                            682.6824703680599,
+                            541.6129032258065,
+                            713.8484092326888
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Retroviewer Option"
+                    },
+                    {
+                        "bbox": [
+                            1028.3225806451612,
+                            682.6824703680599,
+                            1056.516129032258,
+                            713.8484092326888
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1240.516129032258,
+                            682.6824703680599,
+                            1360.7096774193549,
+                            713.8484092326888
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$595.00"
+                    },
+                    {
+                        "bbox": [
+                            215.16129032258064,
+                            768.7598253275108,
+                            277.48387096774195,
+                            835.5439800374298
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3."
+                    },
+                    {
+                        "bbox": [
+                            277.48387096774195,
+                            768.7598253275108,
+                            541.6129032258065,
+                            835.5439800374298
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COXE/US PRO: reflectance holder t/cig filter"
+                    },
+                    {
+                        "bbox": [
+                            1240.516129032258,
+                            768.7598253275108,
+                            1360.7096774193549,
+                            835.5439800374298
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$975.00"
+                    },
+                    {
+                        "bbox": [
+                            952.1406025824964,
+                            768.7598253275108,
+                            1071.584764196788,
+                            835.5439800374298
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

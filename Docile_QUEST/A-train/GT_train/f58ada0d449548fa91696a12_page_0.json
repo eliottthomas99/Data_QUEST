@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                58.932867494824016,
+                658.5181795407098,
+                2248.565322580645,
+                798.1294363256785
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            58.932867494824016,
+                            660.4214112734865,
+                            315.57600013357376,
+                            694.6795824634655
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "September 1999"
+                    },
+                    {
+                        "bbox": [
+                            2015.1238562746275,
+                            658.5181795407098,
+                            2201.427759967942,
+                            690.8731189979123
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ITEM PRICE"
+                    },
+                    {
+                        "bbox": [
+                            103.51451612903226,
+                            761.6764091858038,
+                            414.05806451612904,
+                            798.1294363256785
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Shipping Expenses"
+                    },
+                    {
+                        "bbox": [
+                            2053.0379032258065,
+                            761.6764091858038,
+                            2248.565322580645,
+                            798.1294363256785
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$246.51"
+                    }
+                ]
+            }
+        ]
+    ]
+}

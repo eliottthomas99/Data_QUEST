@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                299.2219583128729,
+                1097.1192166682088,
+                1432.132258064516,
+                1277.5732522796352
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            299.2219583128729,
+                            1097.1192166682088,
+                            454.4916344721471,
+                            1131.201885140735
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            761.243921518518,
+                            1099.0126982500155,
+                            967.6389788521875,
+                            1131.201885140735
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1303.9475806451615,
+                            1097.1192166682088,
+                            1432.132258064516,
+                            1131.6911854103344
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            368.34677419354836,
+                            1170.0036474164135,
+                            388.97419354838706,
+                            1277.5732522796352
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            568.7274193548387,
+                            1170.0036474164135,
+                            1163.975806451613,
+                            1277.5732522796352
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Travel expenses to attend and present a lecture at PM Biomarker meeting in Cologne, Germany"
+                    },
+                    {
+                        "bbox": [
+                            1303.9475806451615,
+                            1170.0036474164135,
+                            1432.132258064516,
+                            1277.5732522796352
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6682.13"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,1173 @@
+{
+    "TD": [
+        [
+            [
+                190.61566508713844,
+                520.4989491632961,
+                2170.445855225331,
+                1218.408993576017
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            190.61566508713844,
+                            528.6865730827186,
+                            245.5784642226937,
+                            555.5887659608215
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item"
+                    },
+                    {
+                        "bbox": [
+                            273.64457441957296,
+                            528.6865730827186,
+                            371.8759601086504,
+                            560.2674082004917
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Shipped"
+                    },
+                    {
+                        "bbox": [
+                            470.1073457977279,
+                            533.3652153223887,
+                            535.5949362571129,
+                            559.0977476405742
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Units"
+                    },
+                    {
+                        "bbox": [
+                            682.9420147907291,
+                            531.0258942025538,
+                            748.429605250114,
+                            557.9280870806566
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cat #"
+                    },
+                    {
+                        "bbox": [
+                            853.6775184884114,
+                            528.6865730827186,
+                            1038.4460772845332,
+                            559.0977476405742
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Chemical Name"
+                    },
+                    {
+                        "bbox": [
+                            1680.4583480381468,
+                            528.6865730827186,
+                            1793.892210083867,
+                            557.9280870806566
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Unit Price"
+                    },
+                    {
+                        "bbox": [
+                            1845.3467454448123,
+                            524.0079308430486,
+                            1964.6277137815496,
+                            554.4191054009041
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item Price"
+                    },
+                    {
+                        "bbox": [
+                            2003.2186153022583,
+                            520.4989491632961,
+                            2170.445855225331,
+                            553.2494448409866
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Back-Ordered"
+                    },
+                    {
+                        "bbox": [
+                            197.59838709677422,
+                            580.6798715203427,
+                            234.26612903225808,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            311.6758064516129,
+                            580.6798715203427,
+                            342.23225806451615,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            460.3838709677419,
+                            580.6798715203427,
+                            547.9790322580645,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "50mg"
+                    },
+                    {
+                        "bbox": [
+                            666.1306451612904,
+                            580.6798715203427,
+                            778.1709677419354,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "H924500"
+                    },
+                    {
+                        "bbox": [
+                            845.3951612903226,
+                            580.6798715203427,
+                            1334.2983870967741,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "(3'R,5'S)-3'-Hydroxycotinine"
+                    },
+                    {
+                        "bbox": [
+                            1686.716129032258,
+                            580.6798715203427,
+                            1806.9048387096775,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$342.00"
+                    },
+                    {
+                        "bbox": [
+                            1831.35,
+                            580.6798715203427,
+                            2002.466129032258,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$684.00U.S."
+                    },
+                    {
+                        "bbox": [
+                            197.59838709677422,
+                            674.4036402569593,
+                            234.26612903225808,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2."
+                    },
+                    {
+                        "bbox": [
+                            460.3838709677419,
+                            674.4036402569593,
+                            547.9790322580645,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            666.1306451612904,
+                            674.4036402569593,
+                            778.1709677419354,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "H924510"
+                    },
+                    {
+                        "bbox": [
+                            845.3951612903226,
+                            674.4036402569593,
+                            1334.2983870967741,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "(+/-)trans-3'-Hydroxycotinine, methyi-d3"
+                    },
+                    {
+                        "bbox": [
+                            1686.716129032258,
+                            674.4036402569593,
+                            1806.9048387096775,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$4875.00"
+                    },
+                    {
+                        "bbox": [
+                            1831.35,
+                            674.4036402569593,
+                            2002.466129032258,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            2047.282258064516,
+                            674.4036402569593,
+                            2136.914516129032,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            197.59838709677422,
+                            774.2398286937902,
+                            234.26612903225808,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3."
+                    },
+                    {
+                        "bbox": [
+                            460.3838709677419,
+                            774.2398286937902,
+                            547.9790322580645,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            666.1306451612904,
+                            774.2398286937902,
+                            778.1709677419354,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "N424575"
+                    },
+                    {
+                        "bbox": [
+                            845.3951612903226,
+                            774.2398286937902,
+                            1334.2983870967741,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "NICOTINE-N-\u00df-GLUCURONIDE"
+                    },
+                    {
+                        "bbox": [
+                            1686.716129032258,
+                            774.2398286937902,
+                            1806.9048387096775,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$4875.00"
+                    },
+                    {
+                        "bbox": [
+                            1831.35,
+                            774.2398286937902,
+                            2002.466129032258,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            2047.282258064516,
+                            774.2398286937902,
+                            2136.914516129032,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            197.59838709677422,
+                            874.076017130621,
+                            234.26612903225808,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4."
+                    },
+                    {
+                        "bbox": [
+                            311.6758064516129,
+                            874.076017130621,
+                            342.23225806451615,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            460.3838709677419,
+                            874.076017130621,
+                            547.9790322580645,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "50mg"
+                    },
+                    {
+                        "bbox": [
+                            666.1306451612904,
+                            874.076017130621,
+                            778.1709677419354,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "C725175"
+                    },
+                    {
+                        "bbox": [
+                            845.3951612903226,
+                            874.076017130621,
+                            1334.2983870967741,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COTININE-N-\u00df-D-GLUCURONIDE"
+                    },
+                    {
+                        "bbox": [
+                            1686.716129032258,
+                            874.076017130621,
+                            1806.9048387096775,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$2437.50"
+                    },
+                    {
+                        "bbox": [
+                            1831.35,
+                            874.076017130621,
+                            2002.466129032258,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$4875.00"
+                    },
+                    {
+                        "bbox": [
+                            197.59838709677422,
+                            977.9871520342613,
+                            234.26612903225808,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5."
+                    },
+                    {
+                        "bbox": [
+                            460.3838709677419,
+                            977.9871520342613,
+                            547.9790322580645,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            845.3951612903226,
+                            977.9871520342613,
+                            1334.2983870967741,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "NICOTINE-N-\u00df-GLUCURONIDE, METHYL-D3"
+                    },
+                    {
+                        "bbox": [
+                            1686.716129032258,
+                            977.9871520342613,
+                            1806.9048387096775,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8750.00"
+                    },
+                    {
+                        "bbox": [
+                            1831.35,
+                            977.9871520342613,
+                            2002.466129032258,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            2047.282258064516,
+                            977.9871520342613,
+                            2136.914516129032,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            197.59838709677422,
+                            1077.823340471092,
+                            234.26612903225808,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "6."
+                    },
+                    {
+                        "bbox": [
+                            460.3838709677419,
+                            1077.823340471092,
+                            547.9790322580645,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            845.3951612903226,
+                            1077.823340471092,
+                            1334.2983870967741,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COTININE-N-\u00df-D-GLUCURONIDE, METHYL-D3"
+                    },
+                    {
+                        "bbox": [
+                            1686.716129032258,
+                            1077.823340471092,
+                            1806.9048387096775,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$9975.00"
+                    },
+                    {
+                        "bbox": [
+                            1831.35,
+                            1077.823340471092,
+                            2002.466129032258,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            2047.282258064516,
+                            1077.823340471092,
+                            2136.914516129032,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100mg"
+                    },
+                    {
+                        "bbox": [
+                            197.59838709677422,
+                            1179.6970021413276,
+                            234.26612903225808,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7."
+                    },
+                    {
+                        "bbox": [
+                            460.3838709677419,
+                            1179.6970021413276,
+                            547.9790322580645,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "250mg"
+                    },
+                    {
+                        "bbox": [
+                            845.3951612903226,
+                            1179.6970021413276,
+                            1334.2983870967741,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3-Aminobiphenyl-D9"
+                    },
+                    {
+                        "bbox": [
+                            1686.716129032258,
+                            1179.6970021413276,
+                            1806.9048387096775,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$4500.00"
+                    },
+                    {
+                        "bbox": [
+                            1831.35,
+                            1179.6970021413276,
+                            2002.466129032258,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            2047.282258064516,
+                            1179.6970021413276,
+                            2136.914516129032,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "250mg"
+                    },
+                    {
+                        "bbox": [
+                            2003.2186153022583,
+                            580.6798715203427,
+                            2170.445855225331,
+                            617.3543897216274
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            273.64457441957296,
+                            674.4036402569593,
+                            371.8759601086504,
+                            713.1156316916488
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            273.64457441957296,
+                            774.2398286937902,
+                            371.8759601086504,
+                            821.1017130620985
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            2003.2186153022583,
+                            874.076017130621,
+                            2170.445855225331,
+                            918.9004282655246
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            273.64457441957296,
+                            977.9871520342613,
+                            371.8759601086504,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            666.1306451612904,
+                            977.9871520342613,
+                            778.1709677419354,
+                            1022.8115631691647
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            273.64457441957296,
+                            1077.823340471092,
+                            371.8759601086504,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            666.1306451612904,
+                            1077.823340471092,
+                            778.1709677419354,
+                            1120.610278372591
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            273.64457441957296,
+                            1179.6970021413276,
+                            371.8759601086504,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            666.1306451612904,
+                            1179.6970021413276,
+                            778.1709677419354,
+                            1218.408993576017
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

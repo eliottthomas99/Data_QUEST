@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                451.6693548387097,
+                982.5762785780363,
+                1722.524620778351,
+                1062.6091185410335
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            680.4524343299097,
+                            982.5762785780363,
+                            893.0075558041614,
+                            1015.6910136117351
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1576.220446257113,
+                            989.4751817100569,
+                            1722.524620778351,
+                            1022.4174441654553
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            451.6693548387097,
+                            1025.755623100304,
+                            752.7822580645161,
+                            1062.6091185410335
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Minimum Charge"
+                    },
+                    {
+                        "bbox": [
+                            1559.3346774193549,
+                            1025.755623100304,
+                            1663.8024193548388,
+                            1062.6091185410335
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "90.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

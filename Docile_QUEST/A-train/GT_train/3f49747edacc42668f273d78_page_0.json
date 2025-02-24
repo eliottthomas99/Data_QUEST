@@ -1,0 +1,381 @@
+{
+    "TD": [
+        [
+            [
+                212.1677419354839,
+                1207.0588235294117,
+                1395.2975806451611,
+                1457.6082740788622
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            212.1677419354839,
+                            1207.0588235294117,
+                            291.2099017814155,
+                            1247.3315392942216
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY"
+                    },
+                    {
+                        "bbox": [
+                            386.4654771304767,
+                            1207.0588235294117,
+                            635.4907669715936,
+                            1250.0531136333336
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            907.649553683197,
+                            1211.951072885767,
+                            1027.3994198363025,
+                            1251.4139008028894
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PRICE"
+                    },
+                    {
+                        "bbox": [
+                            1219.2713644679827,
+                            1207.0588235294117,
+                            1385.2882243620609,
+                            1247.3315392942216
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            212.1677419354839,
+                            1305.8047834518422,
+                            279.94354838709677,
+                            1348.545572074984
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11"
+                    },
+                    {
+                        "bbox": [
+                            394.8677419354839,
+                            1305.8047834518422,
+                            867.8249999999999,
+                            1348.545572074984
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2\" GRAFFERS TAPE BLACK"
+                    },
+                    {
+                        "bbox": [
+                            926.7604838709676,
+                            1305.8047834518422,
+                            1050.5249999999999,
+                            1348.545572074984
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            1246.4854838709678,
+                            1305.8047834518422,
+                            1395.2975806451611,
+                            1348.545572074984
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "275.00"
+                    },
+                    {
+                        "bbox": [
+                            212.1677419354839,
+                            1348.545572074984,
+                            279.94354838709677,
+                            1380.9696186166773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "6"
+                    },
+                    {
+                        "bbox": [
+                            394.8677419354839,
+                            1348.545572074984,
+                            867.8249999999999,
+                            1380.9696186166773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2\" GRAFFERS TAPE WHITE"
+                    },
+                    {
+                        "bbox": [
+                            926.7604838709676,
+                            1348.545572074984,
+                            1050.5249999999999,
+                            1380.9696186166773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            1246.4854838709678,
+                            1348.545572074984,
+                            1395.2975806451611,
+                            1380.9696186166773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "150.00"
+                    },
+                    {
+                        "bbox": [
+                            212.1677419354839,
+                            1380.9696186166773,
+                            279.94354838709677,
+                            1414.8674854557207
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8"
+                    },
+                    {
+                        "bbox": [
+                            394.8677419354839,
+                            1380.9696186166773,
+                            867.8249999999999,
+                            1414.8674854557207
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ELECTRIC TAPE"
+                    },
+                    {
+                        "bbox": [
+                            926.7604838709676,
+                            1380.9696186166773,
+                            1050.5249999999999,
+                            1414.8674854557207
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.00"
+                    },
+                    {
+                        "bbox": [
+                            1246.4854838709678,
+                            1380.9696186166773,
+                            1395.2975806451611,
+                            1414.8674854557207
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "56.00"
+                    },
+                    {
+                        "bbox": [
+                            212.1677419354839,
+                            1414.8674854557207,
+                            279.94354838709677,
+                            1457.6082740788622
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            394.8677419354839,
+                            1414.8674854557207,
+                            867.8249999999999,
+                            1457.6082740788622
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "RUBBER TAPE"
+                    },
+                    {
+                        "bbox": [
+                            926.7604838709676,
+                            1414.8674854557207,
+                            1050.5249999999999,
+                            1457.6082740788622
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.00"
+                    },
+                    {
+                        "bbox": [
+                            1246.4854838709678,
+                            1414.8674854557207,
+                            1395.2975806451611,
+                            1457.6082740788622
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "14.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

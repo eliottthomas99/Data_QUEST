@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                113.4508064516129,
+                792.6716277119799,
+                1647.643217829814,
+                1009.386018237082
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            662.3078779439203,
+                            794.7041190650876,
+                            839.058753346132,
+                            835.3539461272405
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1521.682823865019,
+                            792.6716277119799,
+                            1647.643217829814,
+                            837.386437480348
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            113.4508064516129,
+                            972.5471124620061,
+                            698.3854838709677,
+                            1009.386018237082
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Database Expansion to 120 Weeks (Year 2000 Pre-bill)"
+                    },
+                    {
+                        "bbox": [
+                            1062.3120967741936,
+                            972.5471124620061,
+                            1208.1774193548385,
+                            1009.386018237082
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$172,000 00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

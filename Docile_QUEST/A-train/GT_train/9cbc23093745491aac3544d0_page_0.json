@@ -1,0 +1,2325 @@
+{
+    "TD": [
+        [
+            [
+                254.67096774193547,
+                933.4803893139926,
+                1302.967741935484,
+                2184.9127182044886
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            277.55950256733934,
+                            935.9931225288352,
+                            331.5642926596271,
+                            961.1204546772605
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            641.7778543525358,
+                            933.4803893139926,
+                            715.8774500605585,
+                            962.3768212846816
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            797.5125978744818,
+                            937.2494891362564,
+                            851.5173879667695,
+                            958.6077214624179
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            988.413251223964,
+                            934.7367559214141,
+                            1082.6076525477217,
+                            959.8640880698392
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            971.7306733167082,
+                            352.39354838709676,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            971.7306733167082,
+                            718.1129032258065,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            971.7306733167082,
+                            907.6354838709678,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            971.7306733167082,
+                            1302.967741935484,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1008.7630922693266,
+                            352.39354838709676,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1008.7630922693266,
+                            718.1129032258065,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1008.7630922693266,
+                            907.6354838709678,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1008.7630922693266,
+                            1302.967741935484,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1047.2768079800499,
+                            352.39354838709676,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1047.2768079800499,
+                            718.1129032258065,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1047.2768079800499,
+                            907.6354838709678,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1047.2768079800499,
+                            1302.967741935484,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1085.790523690773,
+                            352.39354838709676,
+                            1130.2294264339153
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1085.790523690773,
+                            718.1129032258065,
+                            1130.2294264339153
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1085.790523690773,
+                            907.6354838709678,
+                            1130.2294264339153
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1085.790523690773,
+                            1302.967741935484,
+                            1130.2294264339153
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1130.2294264339153,
+                            352.39354838709676,
+                            1168.7431421446383
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1130.2294264339153,
+                            718.1129032258065,
+                            1168.7431421446383
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1130.2294264339153,
+                            907.6354838709678,
+                            1168.7431421446383
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1130.2294264339153,
+                            1302.967741935484,
+                            1168.7431421446383
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1168.7431421446383,
+                            352.39354838709676,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1168.7431421446383,
+                            718.1129032258065,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1168.7431421446383,
+                            907.6354838709678,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1168.7431421446383,
+                            1302.967741935484,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1202.8129675810474,
+                            352.39354838709676,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1202.8129675810474,
+                            718.1129032258065,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1202.8129675810474,
+                            907.6354838709678,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1202.8129675810474,
+                            1302.967741935484,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1245.7705735660847,
+                            352.39354838709676,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1245.7705735660847,
+                            718.1129032258065,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1245.7705735660847,
+                            907.6354838709678,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1245.7705735660847,
+                            1302.967741935484,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1281.3216957605985,
+                            352.39354838709676,
+                            1324.2793017456358
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1281.3216957605985,
+                            718.1129032258065,
+                            1324.2793017456358
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606407"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1281.3216957605985,
+                            907.6354838709678,
+                            1324.2793017456358
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1281.3216957605985,
+                            1302.967741935484,
+                            1324.2793017456358
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1324.2793017456358,
+                            352.39354838709676,
+                            1361.3117206982545
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1324.2793017456358,
+                            718.1129032258065,
+                            1361.3117206982545
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606407"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1324.2793017456358,
+                            907.6354838709678,
+                            1361.3117206982545
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1324.2793017456358,
+                            1302.967741935484,
+                            1361.3117206982545
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1361.3117206982545,
+                            352.39354838709676,
+                            1399.8254364089776
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1361.3117206982545,
+                            718.1129032258065,
+                            1399.8254364089776
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606407"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1361.3117206982545,
+                            907.6354838709678,
+                            1399.8254364089776
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1361.3117206982545,
+                            1302.967741935484,
+                            1399.8254364089776
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WELFARE BUDGET RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1399.8254364089776,
+                            352.39354838709676,
+                            1439.8204488778056
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1399.8254364089776,
+                            718.1129032258065,
+                            1439.8204488778056
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1399.8254364089776,
+                            907.6354838709678,
+                            1439.8204488778056
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1399.8254364089776,
+                            1302.967741935484,
+                            1439.8204488778056
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1439.8204488778056,
+                            352.39354838709676,
+                            1478.334164588529
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1439.8204488778056,
+                            718.1129032258065,
+                            1478.334164588529
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1439.8204488778056,
+                            907.6354838709678,
+                            1478.334164588529
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1439.8204488778056,
+                            1302.967741935484,
+                            1478.334164588529
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1478.334164588529,
+                            352.39354838709676,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1478.334164588529,
+                            718.1129032258065,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1478.334164588529,
+                            907.6354838709678,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1478.334164588529,
+                            1302.967741935484,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1516.8478802992518,
+                            352.39354838709676,
+                            1556.8428927680798
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1516.8478802992518,
+                            718.1129032258065,
+                            1556.8428927680798
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1516.8478802992518,
+                            907.6354838709678,
+                            1556.8428927680798
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1516.8478802992518,
+                            1302.967741935484,
+                            1556.8428927680798
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1556.8428927680798,
+                            352.39354838709676,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1556.8428927680798,
+                            718.1129032258065,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1556.8428927680798,
+                            907.6354838709678,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1556.8428927680798,
+                            1302.967741935484,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1596.8379052369078,
+                            352.39354838709676,
+                            1636.8329177057356
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1596.8379052369078,
+                            718.1129032258065,
+                            1636.8329177057356
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606403"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1596.8379052369078,
+                            907.6354838709678,
+                            1636.8329177057356
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1596.8379052369078,
+                            1302.967741935484,
+                            1636.8329177057356
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60 MG"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1636.8329177057356,
+                            352.39354838709676,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1636.8329177057356,
+                            718.1129032258065,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1636.8329177057356,
+                            907.6354838709678,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1636.8329177057356,
+                            1302.967741935484,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1672.3840399002495,
+                            352.39354838709676,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1672.3840399002495,
+                            718.1129032258065,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1672.3840399002495,
+                            907.6354838709678,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1672.3840399002495,
+                            1302.967741935484,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1712.3790523690773,
+                            352.39354838709676,
+                            1752.3740648379053
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1712.3790523690773,
+                            718.1129032258065,
+                            1752.3740648379053
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1712.3790523690773,
+                            907.6354838709678,
+                            1752.3740648379053
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1712.3790523690773,
+                            1302.967741935484,
+                            1752.3740648379053
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1752.3740648379053,
+                            352.39354838709676,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1752.3740648379053,
+                            718.1129032258065,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606407"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1752.3740648379053,
+                            907.6354838709678,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1752.3740648379053,
+                            1302.967741935484,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1789.4064837905235,
+                            352.39354838709676,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1789.4064837905235,
+                            718.1129032258065,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606407"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1789.4064837905235,
+                            907.6354838709678,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1789.4064837905235,
+                            1302.967741935484,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1829.4014962593515,
+                            352.39354838709676,
+                            1870.8778054862844
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1829.4014962593515,
+                            718.1129032258065,
+                            1870.8778054862844
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606404"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1829.4014962593515,
+                            907.6354838709678,
+                            1870.8778054862844
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1829.4014962593515,
+                            1302.967741935484,
+                            1870.8778054862844
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60 MG"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1870.8778054862844,
+                            352.39354838709676,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1870.8778054862844,
+                            718.1129032258065,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606407"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1870.8778054862844,
+                            907.6354838709678,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1870.8778054862844,
+                            1302.967741935484,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1907.9102244389026,
+                            352.39354838709676,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1907.9102244389026,
+                            718.1129032258065,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606407"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1907.9102244389026,
+                            907.6354838709678,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1907.9102244389026,
+                            1302.967741935484,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1947.9052369077306,
+                            352.39354838709676,
+                            1986.418952618454
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1947.9052369077306,
+                            718.1129032258065,
+                            1986.418952618454
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1947.9052369077306,
+                            907.6354838709678,
+                            1986.418952618454
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1947.9052369077306,
+                            1302.967741935484,
+                            1986.418952618454
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1986.418952618454,
+                            352.39354838709676,
+                            2023.4513715710723
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            1986.418952618454,
+                            718.1129032258065,
+                            2023.4513715710723
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            1986.418952618454,
+                            907.6354838709678,
+                            2023.4513715710723
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            1986.418952618454,
+                            1302.967741935484,
+                            2023.4513715710723
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2023.4513715710723,
+                            352.39354838709676,
+                            2063.4463840399003
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            2023.4513715710723,
+                            718.1129032258065,
+                            2063.4463840399003
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            2023.4513715710723,
+                            907.6354838709678,
+                            2063.4463840399003
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            2023.4513715710723,
+                            1302.967741935484,
+                            2063.4463840399003
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2063.4463840399003,
+                            352.39354838709676,
+                            2101.9600997506236
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            2063.4463840399003,
+                            718.1129032258065,
+                            2101.9600997506236
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606405"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            2063.4463840399003,
+                            907.6354838709678,
+                            2101.9600997506236
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            2063.4463840399003,
+                            1302.967741935484,
+                            2101.9600997506236
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2101.9600997506236,
+                            352.39354838709676,
+                            2140.4738154613465
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            2101.9600997506236,
+                            718.1129032258065,
+                            2140.4738154613465
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            2101.9600997506236,
+                            907.6354838709678,
+                            2140.4738154613465
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            2101.9600997506236,
+                            1302.967741935484,
+                            2140.4738154613465
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2140.4738154613465,
+                            352.39354838709676,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            635.1967741935483,
+                            2140.4738154613465,
+                            718.1129032258065,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "606406"
+                    },
+                    {
+                        "bbox": [
+                            830.641935483871,
+                            2140.4738154613465,
+                            907.6354838709678,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            993.5129032258064,
+                            2140.4738154613465,
+                            1302.967741935484,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HUCKABEE RADIO 60"
+                    }
+                ]
+            }
+        ]
+    ]
+}

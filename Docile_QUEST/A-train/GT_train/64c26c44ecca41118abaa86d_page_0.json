@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                125.74596774193549,
+                956.6127420131048,
+                1855.1612903225807,
+                1062.9773755656108
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            519.5408101528913,
+                            956.6127420131048,
+                            700.1537098197763,
+                            998.9802061115872
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1667.8820858127153,
+                            958.8426085446039,
+                            1790.5204744754153,
+                            994.5204730485892
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            125.74596774193549,
+                            1007.4608920491274,
+                            369.0725806451613,
+                            1062.9773755656108
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Time & Material"
+                    },
+                    {
+                        "bbox": [
+                            1716.350806451613,
+                            1007.4608920491274,
+                            1855.1612903225807,
+                            1062.9773755656108
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,404.43"
+                    }
+                ]
+            }
+        ]
+    ]
+}

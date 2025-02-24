@@ -1,0 +1,165 @@
+{
+    "TD": [
+        [
+            [
+                168.2939970317804,
+                418.3700802712781,
+                1667.8688661060028,
+                564.1086067321437
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            168.2939970317804,
+                            433.44647956033316,
+                            325.2846659047099,
+                            464.8556447458645
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Order details"
+                    },
+                    {
+                        "bbox": [
+                            1130.3328158850923,
+                            418.3700802712781,
+                            1233.318694665734,
+                            449.7792454568094
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quantity"
+                    },
+                    {
+                        "bbox": [
+                            1400.356766346531,
+                            419.2069825436409,
+                            1464.3580645161292,
+                            448.5228788493881
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Price"
+                    },
+                    {
+                        "bbox": [
+                            1562.3711366233945,
+                            420.88281348612054,
+                            1667.8688661060028,
+                            448.5228788493881
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Subtotal"
+                    },
+                    {
+                        "bbox": [
+                            1212.6483870967743,
+                            497.715710723192,
+                            1231.8967741935485,
+                            527.3416458852868
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1300.0064516129032,
+                            497.715710723192,
+                            1464.3580645161292,
+                            527.3416458852868
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$999.60 USD"
+                    },
+                    {
+                        "bbox": [
+                            1507.2967741935483,
+                            497.715710723192,
+                            1662.7645161290322,
+                            527.3416458852868
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$999.60 USD"
+                    },
+                    {
+                        "bbox": [
+                            174.5736237866976,
+                            537.7249079762972,
+                            394.36056020879886,
+                            564.1086067321437
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Advertising - 33004"
+                    }
+                ]
+            }
+        ]
+    ]
+}

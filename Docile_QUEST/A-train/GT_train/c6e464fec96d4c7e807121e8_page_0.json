@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                96.1258064516129,
+                755.5327603498838,
+                1659.3554535645717,
+                1001.6645533141211
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            664.5662560325121,
+                            755.5327603498838,
+                            831.7026797053594,
+                            793.309398367378
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1545.0028680005712,
+                            761.6411716988206,
+                            1659.3554535645717,
+                            792.7032096963254
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            96.1258064516129,
+                            957.9873198847262,
+                            833.0903225806452,
+                            1001.6645533141211
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5673-499 Lorillard Market Overview 3Q99"
+                    },
+                    {
+                        "bbox": [
+                            1085.0564516129032,
+                            957.9873198847262,
+                            1210.3112903225806,
+                            1001.6645533141211
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$2,079.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

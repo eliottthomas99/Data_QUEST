@@ -1,0 +1,2325 @@
+{
+    "TD": [
+        [
+            [
+                254.67096774193547,
+                927.291770573566,
+                1357.7516129032258,
+                2181.950124688279
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            271.5611419092933,
+                            930.7243538296084,
+                            334.2290977345148,
+                            961.2574698584341
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            636.3207822253262,
+                            930.7243538296084,
+                            719.5935483870967,
+                            961.2574698584341
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            795.4009777816577,
+                            927.291770573566,
+                            853.2483216203238,
+                            961.5252878622528
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            930.992171833427,
+                            1083.030826312803,
+                            959.9182817554723
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            970.2493765586036,
+                            353.8741935483871,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            970.2493765586036,
+                            719.5935483870967,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362615"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            970.2493765586036,
+                            909.1161290322581,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            970.2493765586036,
+                            1357.7516129032258,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1008.7630922693266,
+                            353.8741935483871,
+                            1044.3142144638405
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1008.7630922693266,
+                            719.5935483870967,
+                            1044.3142144638405
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362615"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1008.7630922693266,
+                            909.1161290322581,
+                            1044.3142144638405
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1008.7630922693266,
+                            1357.7516129032258,
+                            1044.3142144638405
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1044.3142144638405,
+                            353.8741935483871,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1044.3142144638405,
+                            719.5935483870967,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362616"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1044.3142144638405,
+                            909.1161290322581,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1044.3142144638405,
+                            1357.7516129032258,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1085.790523690773,
+                            353.8741935483871,
+                            1125.785536159601
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1085.790523690773,
+                            719.5935483870967,
+                            1125.785536159601
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362616"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1085.790523690773,
+                            909.1161290322581,
+                            1125.785536159601
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1085.790523690773,
+                            1357.7516129032258,
+                            1125.785536159601
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1125.785536159601,
+                            353.8741935483871,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1125.785536159601,
+                            719.5935483870967,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362617"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1125.785536159601,
+                            909.1161290322581,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1125.785536159601,
+                            1357.7516129032258,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1165.780548628429,
+                            353.8741935483871,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1165.780548628429,
+                            719.5935483870967,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362617"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1165.780548628429,
+                            909.1161290322581,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1165.780548628429,
+                            1357.7516129032258,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1198.3690773067333,
+                            353.8741935483871,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1198.3690773067333,
+                            719.5935483870967,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362618"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1198.3690773067333,
+                            909.1161290322581,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1198.3690773067333,
+                            1357.7516129032258,
+                            1245.7705735660847
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1245.7705735660847,
+                            353.8741935483871,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1245.7705735660847,
+                            719.5935483870967,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362618"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1245.7705735660847,
+                            909.1161290322581,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1245.7705735660847,
+                            1357.7516129032258,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1281.3216957605985,
+                            353.8741935483871,
+                            1318.354114713217
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1281.3216957605985,
+                            719.5935483870967,
+                            1318.354114713217
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362619"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1281.3216957605985,
+                            909.1161290322581,
+                            1318.354114713217
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1281.3216957605985,
+                            1357.7516129032258,
+                            1318.354114713217
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1318.354114713217,
+                            353.8741935483871,
+                            1359.8304239401498
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1318.354114713217,
+                            719.5935483870967,
+                            1359.8304239401498
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362619"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1318.354114713217,
+                            909.1161290322581,
+                            1359.8304239401498
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1318.354114713217,
+                            1357.7516129032258,
+                            1359.8304239401498
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1359.8304239401498,
+                            353.8741935483871,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1359.8304239401498,
+                            719.5935483870967,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362620"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1359.8304239401498,
+                            909.1161290322581,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1359.8304239401498,
+                            1357.7516129032258,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1396.862842892768,
+                            353.8741935483871,
+                            1436.857855361596
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1396.862842892768,
+                            719.5935483870967,
+                            1436.857855361596
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362620"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1396.862842892768,
+                            909.1161290322581,
+                            1436.857855361596
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1396.862842892768,
+                            1357.7516129032258,
+                            1436.857855361596
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1436.857855361596,
+                            353.8741935483871,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1436.857855361596,
+                            719.5935483870967,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362621"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1436.857855361596,
+                            909.1161290322581,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1436.857855361596,
+                            1357.7516129032258,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1476.8528678304237,
+                            353.8741935483871,
+                            1512.4039900249377
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1476.8528678304237,
+                            719.5935483870967,
+                            1512.4039900249377
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362621"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1476.8528678304237,
+                            909.1161290322581,
+                            1512.4039900249377
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1476.8528678304237,
+                            1357.7516129032258,
+                            1512.4039900249377
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1512.4039900249377,
+                            353.8741935483871,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1512.4039900249377,
+                            719.5935483870967,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362622"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1512.4039900249377,
+                            909.1161290322581,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1512.4039900249377,
+                            1357.7516129032258,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1553.8802992518704,
+                            353.8741935483871,
+                            1590.9127182044888
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1553.8802992518704,
+                            719.5935483870967,
+                            1590.9127182044888
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362622"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1553.8802992518704,
+                            909.1161290322581,
+                            1590.9127182044888
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1553.8802992518704,
+                            1357.7516129032258,
+                            1590.9127182044888
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1590.9127182044888,
+                            353.8741935483871,
+                            1630.9077306733168
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1590.9127182044888,
+                            719.5935483870967,
+                            1630.9077306733168
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362623"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1590.9127182044888,
+                            909.1161290322581,
+                            1630.9077306733168
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1590.9127182044888,
+                            1357.7516129032258,
+                            1630.9077306733168
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1630.9077306733168,
+                            353.8741935483871,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1630.9077306733168,
+                            719.5935483870967,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362623"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1630.9077306733168,
+                            909.1161290322581,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1630.9077306733168,
+                            1357.7516129032258,
+                            1672.3840399002495
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1672.3840399002495,
+                            353.8741935483871,
+                            1703.491271820449
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/14/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1672.3840399002495,
+                            719.5935483870967,
+                            1703.491271820449
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362624"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1672.3840399002495,
+                            909.1161290322581,
+                            1703.491271820449
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1672.3840399002495,
+                            1357.7516129032258,
+                            1703.491271820449
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1703.491271820449,
+                            353.8741935483871,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/14/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1703.491271820449,
+                            719.5935483870967,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362624"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1703.491271820449,
+                            909.1161290322581,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1703.491271820449,
+                            1357.7516129032258,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1749.411471321696,
+                            353.8741935483871,
+                            1783.4812967581047
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/15/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1749.411471321696,
+                            719.5935483870967,
+                            1783.4812967581047
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362625"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1749.411471321696,
+                            909.1161290322581,
+                            1783.4812967581047
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1749.411471321696,
+                            1357.7516129032258,
+                            1783.4812967581047
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1783.4812967581047,
+                            353.8741935483871,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1783.4812967581047,
+                            719.5935483870967,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362626"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1783.4812967581047,
+                            909.1161290322581,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1783.4812967581047,
+                            1357.7516129032258,
+                            1829.4014962593515
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1829.4014962593515,
+                            353.8741935483871,
+                            1866.43391521197
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1829.4014962593515,
+                            719.5935483870967,
+                            1866.43391521197
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362626"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1829.4014962593515,
+                            909.1161290322581,
+                            1866.43391521197
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1829.4014962593515,
+                            1357.7516129032258,
+                            1866.43391521197
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1866.43391521197,
+                            353.8741935483871,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1866.43391521197,
+                            719.5935483870967,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362627"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1866.43391521197,
+                            909.1161290322581,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1866.43391521197,
+                            1357.7516129032258,
+                            1907.9102244389026
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1907.9102244389026,
+                            353.8741935483871,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1907.9102244389026,
+                            719.5935483870967,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362627"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1907.9102244389026,
+                            909.1161290322581,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1907.9102244389026,
+                            1357.7516129032258,
+                            1947.9052369077306
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1947.9052369077306,
+                            353.8741935483871,
+                            1983.4563591022445
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1947.9052369077306,
+                            719.5935483870967,
+                            1983.4563591022445
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362628"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1947.9052369077306,
+                            909.1161290322581,
+                            1983.4563591022445
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1947.9052369077306,
+                            1357.7516129032258,
+                            1983.4563591022445
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            1983.4563591022445,
+                            353.8741935483871,
+                            2019.0074812967582
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1983.4563591022445,
+                            719.5935483870967,
+                            2019.0074812967582
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362628"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            1983.4563591022445,
+                            909.1161290322581,
+                            2019.0074812967582
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1983.4563591022445,
+                            1357.7516129032258,
+                            2019.0074812967582
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2019.0074812967582,
+                            353.8741935483871,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/17/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            2019.0074812967582,
+                            719.5935483870967,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362629"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            2019.0074812967582,
+                            909.1161290322581,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2019.0074812967582,
+                            1357.7516129032258,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2060.483790523691,
+                            353.8741935483871,
+                            2096.0349127182044
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/17/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            2060.483790523691,
+                            719.5935483870967,
+                            2096.0349127182044
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362629"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            2060.483790523691,
+                            909.1161290322581,
+                            2096.0349127182044
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2060.483790523691,
+                            1357.7516129032258,
+                            2096.0349127182044
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2096.0349127182044,
+                            353.8741935483871,
+                            2136.703241895262
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/17/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            2096.0349127182044,
+                            719.5935483870967,
+                            2136.703241895262
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362630"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            2096.0349127182044,
+                            909.1161290322581,
+                            2136.703241895262
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2096.0349127182044,
+                            1357.7516129032258,
+                            2136.703241895262
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    },
+                    {
+                        "bbox": [
+                            254.67096774193547,
+                            2136.703241895262,
+                            353.8741935483871,
+                            2181.950124688279
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/17/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            2136.703241895262,
+                            719.5935483870967,
+                            2181.950124688279
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "362630"
+                    },
+                    {
+                        "bbox": [
+                            824.7193548387097,
+                            2136.703241895262,
+                            909.1161290322581,
+                            2181.950124688279
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2136.703241895262,
+                            1357.7516129032258,
+                            2181.950124688279
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GPIE18-101R-60 - TRUST RADIO"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                551.787474622152,
+                1325.1979820135991,
+                1662.8953586735843,
+                1561.9696048632218
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            551.787474622152,
+                            1327.0817033810672,
+                            743.877312203925,
+                            1366.6398520978912
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            1105.4581829460863,
+                            1325.1979820135991,
+                            1207.152802842319,
+                            1362.8724093629553
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ITEM"
+                    },
+                    {
+                        "bbox": [
+                            1504.703727723889,
+                            1328.9654247485348,
+                            1662.8953586735843,
+                            1364.7561307304234
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            627.6629032258065,
+                            1476.5033434650456,
+                            657.1306451612903,
+                            1561.9696048632218
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            808.8895161290322,
+                            1476.5033434650456,
+                            1398.2443548387098,
+                            1561.9696048632218
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Pledged Contribution toward Bethune- DuBois Institute's 2000 programs"
+                    },
+                    {
+                        "bbox": [
+                            1486.6475806451613,
+                            1476.5033434650456,
+                            1638.406451612903,
+                            1561.9696048632218
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$5,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

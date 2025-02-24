@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                237.2153225806452,
+                715.3320229308275,
+                1601.5717741935484,
+                837.1299288946348
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            237.2153225806452,
+                            715.3320229308275,
+                            495.8541617125429,
+                            747.2268907563025
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item Description"
+                    },
+                    {
+                        "bbox": [
+                            1497.1597610334259,
+                            716.932318174885,
+                            1585.1338951590621,
+                            745.7376325679197
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Price"
+                    },
+                    {
+                        "bbox": [
+                            237.2153225806452,
+                            800.284421460892,
+                            406.65483870967745,
+                            837.1299288946348
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Audio Visual"
+                    },
+                    {
+                        "bbox": [
+                            1507.2749999999999,
+                            800.284421460892,
+                            1601.5717741935484,
+                            837.1299288946348
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

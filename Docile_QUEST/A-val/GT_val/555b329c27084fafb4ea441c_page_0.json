@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                123.76451612903227,
+                826.8131868131868,
+                1669.3475806451613,
+                962.40465416936
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            561.8174016377504,
+                            826.8131868131868,
+                            809.1391925761079,
+                            867.3719112043856
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1380.1166605449087,
+                            826.8131868131868,
+                            1540.4178213382884,
+                            870.4254403083348
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            123.76451612903227,
+                            872.5016160310278,
+                            970.9620967741936,
+                            921.1376858435682
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Entertainment provided on September 28, 29, and 30, 1999"
+                    },
+                    {
+                        "bbox": [
+                            1527.9024193548387,
+                            872.5016160310278,
+                            1669.3475806451613,
+                            921.1376858435682
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,435.00"
+                    },
+                    {
+                        "bbox": [
+                            123.76451612903227,
+                            921.1376858435682,
+                            970.9620967741936,
+                            962.40465416936
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Additional Hour for DJ on September 30, 1999"
+                    },
+                    {
+                        "bbox": [
+                            1527.9024193548387,
+                            921.1376858435682,
+                            1669.3475806451613,
+                            962.40465416936
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "140.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

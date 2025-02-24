@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                220.76895807900019,
+                699.2157207498384,
+                1585.3645161290324,
+                868.0801551389786
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            220.76895807900019,
+                            705.063839689722,
+                            457.6204230379276,
+                            737.2284938590822
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item Description"
+                    },
+                    {
+                        "bbox": [
+                            1486.9008633532665,
+                            699.2157207498384,
+                            1568.7754438328955,
+                            734.3044343891403
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Price"
+                    },
+                    {
+                        "bbox": [
+                            222.48145161290324,
+                            789.967679379444,
+                            461.1701612903226,
+                            831.234647705236
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Digital Delivery"
+                    },
+                    {
+                        "bbox": [
+                            1485.174193548387,
+                            789.967679379444,
+                            1585.3645161290324,
+                            831.234647705236
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            222.48145161290324,
+                            831.234647705236,
+                            461.1701612903226,
+                            868.0801551389786
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Digital Production"
+                    },
+                    {
+                        "bbox": [
+                            1485.174193548387,
+                            831.234647705236,
+                            1585.3645161290324,
+                            868.0801551389786
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "150.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

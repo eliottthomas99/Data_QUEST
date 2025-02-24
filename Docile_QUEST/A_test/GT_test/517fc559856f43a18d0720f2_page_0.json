@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                287.23064516129034,
+                413.6070663811563,
+                1112.2548387096774,
+                546.0428265524625
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            287.23064516129034,
+                            439.53483058918886,
+                            439.4027849316862,
+                            466.5813704496788
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            990.3726832249336,
+                            413.6070663811563,
+                            1089.0666681216987,
+                            466.5813704496788
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CURRENT AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            287.23064516129034,
+                            517.5182012847965,
+                            576.4983870967742,
+                            546.0428265524625
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CONTRACT AUTHORIZATION"
+                    },
+                    {
+                        "bbox": [
+                            965.583870967742,
+                            517.5182012847965,
+                            1112.2548387096774,
+                            546.0428265524625
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "143,700.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

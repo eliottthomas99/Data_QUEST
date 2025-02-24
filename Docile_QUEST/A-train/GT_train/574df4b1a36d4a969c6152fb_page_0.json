@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                214.6,
+                586.9546850893972,
+                1537.0,
+                739.616704805492
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            409.21002082454663,
+                            589.0929535232384,
+                            581.3190887283847,
+                            628.6509195492998
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1319.9983801665965,
+                            586.9546850893972,
+                            1453.6234328869675,
+                            628.6509195492998
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            214.6,
+                            668.5554919908467,
+                            1131.0,
+                            739.616704805492
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Invoice for the support of Dr. Steven Dworkin's basic research project entitled, \"Quantitative Analysis of the Reinforcing Efficacy of Stimulants.\""
+                    },
+                    {
+                        "bbox": [
+                            1373.1499999999999,
+                            668.5554919908467,
+                            1537.0,
+                            739.616704805492
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$40,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

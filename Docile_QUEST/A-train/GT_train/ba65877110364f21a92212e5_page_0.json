@@ -1,0 +1,57 @@
+{
+    "TD": [
+        [
+            [
+                138.4983870967742,
+                1083.7907640019116,
+                475.90403225806455,
+                1267.258358662614
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            317.5263409602401,
+                            1083.7907640019116,
+                            475.90403225806455,
+                            1124.3234042553192
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            138.4983870967742,
+                            1224.5252279635258,
+                            475.90403225806455,
+                            1267.258358662614
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Article 3, Compensation:"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "TD": [
+        [
+            [
+                255.0241935483871,
+                851.2630814765176,
+                1679.1653225806451,
+                984.2954407294833
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            255.0241935483871,
+                            856.2607120918395,
+                            326.7353072601923,
+                            887.9123726555458
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item"
+                    },
+                    {
+                        "bbox": [
+                            340.07144225040423,
+                            852.9289583482915,
+                            523.4432983658184,
+                            889.5782495273198
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1376.955937739382,
+                            851.2630814765176,
+                            1521.9864057579368,
+                            884.5806189119977
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quantity"
+                    },
+                    {
+                        "bbox": [
+                            1585.3330469614434,
+                            852.9289583482915,
+                            1675.351958145374,
+                            879.5829882966758
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Price"
+                    },
+                    {
+                        "bbox": [
+                            255.0241935483871,
+                            947.4419452887538,
+                            299.5766129032258,
+                            984.2954407294833
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KC"
+                    },
+                    {
+                        "bbox": [
+                            324.15725806451616,
+                            947.4419452887538,
+                            588.3991935483872,
+                            984.2954407294833
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10 Tape Stock 3/4\""
+                    },
+                    {
+                        "bbox": [
+                            1437.967741935484,
+                            947.4419452887538,
+                            1462.5483870967741,
+                            984.2954407294833
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1588.524193548387,
+                            947.4419452887538,
+                            1679.1653225806451,
+                            984.2954407294833
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

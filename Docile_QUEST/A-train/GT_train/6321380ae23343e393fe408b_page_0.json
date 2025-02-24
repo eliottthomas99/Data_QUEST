@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                223.9548387096774,
+                1148.243219376998,
+                1474.8604838709678,
+                1564.916717325228
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            526.4458746435181,
+                            1148.243219376998,
+                            765.0309867906956,
+                            1180.4324062677174
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1192.969362546744,
+                            1149.014642079547,
+                            1346.3455060699293,
+                            1183.0973105520732
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            223.9548387096774,
+                            1268.731914893617,
+                            1059.3653225806452,
+                            1315.8857142857141
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "C Store 123 Corporate Sponsorship"
+                    },
+                    {
+                        "bbox": [
+                            1328.9951612903226,
+                            1268.731914893617,
+                            1474.8604838709678,
+                            1315.8857142857141
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$4,500.00"
+                    },
+                    {
+                        "bbox": [
+                            223.9548387096774,
+                            1525.130699088146,
+                            1059.3653225806452,
+                            1564.916717325228
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Outstanding Sponsorship Balance from February Seminar"
+                    },
+                    {
+                        "bbox": [
+                            1328.9951612903226,
+                            1525.130699088146,
+                            1474.8604838709678,
+                            1564.916717325228
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$4,500.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

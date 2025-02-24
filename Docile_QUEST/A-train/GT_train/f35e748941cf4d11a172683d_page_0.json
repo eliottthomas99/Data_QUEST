@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                95.69999999999999,
+                736.0469403673416,
+                1667.6515909090906,
+                983.2551487414187
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            655.2517045454546,
+                            736.0469403673416,
+                            833.8257954545453,
+                            772.0414110010568
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1542.3617045454546,
+                            736.0469403673416,
+                            1667.6515909090906,
+                            772.0414110010568
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            95.69999999999999,
+                            946.9994279176201,
+                            685.85,
+                            983.2551487414187
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5673-299 Monthly Summary Report June Data"
+                    },
+                    {
+                        "bbox": [
+                            1096.1999999999998,
+                            946.9994279176201,
+                            1212.2,
+                            983.2551487414187
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1,986.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

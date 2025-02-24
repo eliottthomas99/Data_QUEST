@@ -1,0 +1,1893 @@
+{
+    "TD": [
+        [
+            [
+                253.19032258064516,
+                930.992171833427,
+                1270.3935483870966,
+                2177.506234413965
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            271.5611419092933,
+                            933.4026809935974,
+                            331.0153564101445,
+                            962.3287909156428
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            634.7139115631411,
+                            932.5991779402074,
+                            715.0574446723995,
+                            963.1322939690328
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            795.4009777816577,
+                            930.992171833427,
+                            854.8551922825089,
+                            961.5252878622528
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            932.5991779402074,
+                            1084.6376969749879,
+                            961.5252878622528
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            979.1371571072319,
+                            352.39354838709676,
+                            1007.281795511222
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            979.1371571072319,
+                            728.4774193548387,
+                            1007.281795511222
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129201"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            979.1371571072319,
+                            913.558064516129,
+                            1007.281795511222
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            979.1371571072319,
+                            1270.3935483870966,
+                            1007.281795511222
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1023.5760598503741,
+                            352.39354838709676,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1023.5760598503741,
+                            728.4774193548387,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129201"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1023.5760598503741,
+                            913.558064516129,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1023.5760598503741,
+                            1270.3935483870966,
+                            1059.1271820448878
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1072.4588528678303,
+                            352.39354838709676,
+                            1105.0473815461346
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1072.4588528678303,
+                            728.4774193548387,
+                            1105.0473815461346
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129202"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1072.4588528678303,
+                            913.558064516129,
+                            1105.0473815461346
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$32.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1072.4588528678303,
+                            1270.3935483870966,
+                            1105.0473815461346
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1124.3042394014963,
+                            352.39354838709676,
+                            1155.411471321696
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1124.3042394014963,
+                            728.4774193548387,
+                            1155.411471321696
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129202"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1124.3042394014963,
+                            913.558064516129,
+                            1155.411471321696
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$32.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1124.3042394014963,
+                            1270.3935483870966,
+                            1155.411471321696
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1176.149625935162,
+                            352.39354838709676,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1176.149625935162,
+                            728.4774193548387,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129203"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1176.149625935162,
+                            913.558064516129,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1176.149625935162,
+                            1270.3935483870966,
+                            1202.8129675810474
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1214.6633416458853,
+                            352.39354838709676,
+                            1253.1770573566084
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/04/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1214.6633416458853,
+                            728.4774193548387,
+                            1253.1770573566084
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129203"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1214.6633416458853,
+                            913.558064516129,
+                            1253.1770573566084
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1214.6633416458853,
+                            1270.3935483870966,
+                            1253.1770573566084
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1270.9526184538654,
+                            352.39354838709676,
+                            1302.0598503740648
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1270.9526184538654,
+                            728.4774193548387,
+                            1302.0598503740648
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129205"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1270.9526184538654,
+                            913.558064516129,
+                            1302.0598503740648
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1270.9526184538654,
+                            1270.3935483870966,
+                            1302.0598503740648
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1319.8354114713218,
+                            352.39354838709676,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1319.8354114713218,
+                            728.4774193548387,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129205"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1319.8354114713218,
+                            913.558064516129,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1319.8354114713218,
+                            1270.3935483870966,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1368.718204488778,
+                            352.39354838709676,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1368.718204488778,
+                            728.4774193548387,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129205"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1368.718204488778,
+                            913.558064516129,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1368.718204488778,
+                            1270.3935483870966,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1417.6009975062343,
+                            352.39354838709676,
+                            1445.7456359102243
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1417.6009975062343,
+                            728.4774193548387,
+                            1445.7456359102243
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129205"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1417.6009975062343,
+                            913.558064516129,
+                            1445.7456359102243
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1417.6009975062343,
+                            1270.3935483870966,
+                            1445.7456359102243
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1465.0024937655862,
+                            352.39354838709676,
+                            1493.1471321695763
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1465.0024937655862,
+                            728.4774193548387,
+                            1493.1471321695763
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129205"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1465.0024937655862,
+                            913.558064516129,
+                            1493.1471321695763
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1465.0024937655862,
+                            1270.3935483870966,
+                            1493.1471321695763
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1515.366583541147,
+                            352.39354838709676,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/05/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1515.366583541147,
+                            728.4774193548387,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129205"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1515.366583541147,
+                            913.558064516129,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1515.366583541147,
+                            1270.3935483870966,
+                            1544.9925187032418
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1565.7306733167081,
+                            352.39354838709676,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1565.7306733167081,
+                            728.4774193548387,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129206"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1565.7306733167081,
+                            913.558064516129,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1565.7306733167081,
+                            1270.3935483870966,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1616.0947630922694,
+                            352.39354838709676,
+                            1641.27680798005
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1616.0947630922694,
+                            728.4774193548387,
+                            1641.27680798005
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129206"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1616.0947630922694,
+                            913.558064516129,
+                            1641.27680798005
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1616.0947630922694,
+                            1270.3935483870966,
+                            1641.27680798005
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1663.496259351621,
+                            352.39354838709676,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1663.496259351621,
+                            728.4774193548387,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129206"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1663.496259351621,
+                            913.558064516129,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1663.496259351621,
+                            1270.3935483870966,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1707.9351620947632,
+                            352.39354838709676,
+                            1739.0423940149626
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1707.9351620947632,
+                            728.4774193548387,
+                            1739.0423940149626
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129206"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1707.9351620947632,
+                            913.558064516129,
+                            1739.0423940149626
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1707.9351620947632,
+                            1270.3935483870966,
+                            1739.0423940149626
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1755.3366583541147,
+                            352.39354838709676,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1755.3366583541147,
+                            728.4774193548387,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129206"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1755.3366583541147,
+                            913.558064516129,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1755.3366583541147,
+                            1270.3935483870966,
+                            1789.4064837905235
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1804.219451371571,
+                            352.39354838709676,
+                            1835.3266832917707
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/06/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1804.219451371571,
+                            728.4774193548387,
+                            1835.3266832917707
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129206"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1804.219451371571,
+                            913.558064516129,
+                            1835.3266832917707
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1804.219451371571,
+                            1270.3935483870966,
+                            1835.3266832917707
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1855.3241895261845,
+                            352.39354838709676,
+                            1884.209476309227
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1855.3241895261845,
+                            728.4774193548387,
+                            1884.209476309227
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129201"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1855.3241895261845,
+                            913.558064516129,
+                            1884.209476309227
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1855.3241895261845,
+                            1270.3935483870966,
+                            1884.209476309227
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1905.6882793017455,
+                            352.39354838709676,
+                            1936.0548628428926
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1905.6882793017455,
+                            728.4774193548387,
+                            1936.0548628428926
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129201"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1905.6882793017455,
+                            913.558064516129,
+                            1936.0548628428926
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1905.6882793017455,
+                            1270.3935483870966,
+                            1936.0548628428926
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1949.3865336658353,
+                            352.39354838709676,
+                            1981.2344139650872
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1949.3865336658353,
+                            728.4774193548387,
+                            1981.2344139650872
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129202"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1949.3865336658353,
+                            913.558064516129,
+                            1981.2344139650872
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$32.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1949.3865336658353,
+                            1270.3935483870966,
+                            1981.2344139650872
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1999.7506234413966,
+                            352.39354838709676,
+                            2032.3391521197009
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            1999.7506234413966,
+                            728.4774193548387,
+                            2032.3391521197009
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129202"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1999.7506234413966,
+                            913.558064516129,
+                            2032.3391521197009
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$32.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1999.7506234413966,
+                            1270.3935483870966,
+                            2032.3391521197009
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2050.1147132169576,
+                            352.39354838709676,
+                            2081.9625935162094
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            2050.1147132169576,
+                            728.4774193548387,
+                            2081.9625935162094
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129203"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2050.1147132169576,
+                            913.558064516129,
+                            2081.9625935162094
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2050.1147132169576,
+                            1270.3935483870966,
+                            2081.9625935162094
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2097.516209476309,
+                            352.39354838709676,
+                            2128.6234413965085
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/07/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            2097.516209476309,
+                            728.4774193548387,
+                            2128.6234413965085
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129203"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2097.516209476309,
+                            913.558064516129,
+                            2128.6234413965085
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2097.516209476309,
+                            1270.3935483870966,
+                            2128.6234413965085
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2144.9177057356605,
+                            352.39354838709676,
+                            2177.506234413965
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "05/08/18"
+                    },
+                    {
+                        "bbox": [
+                            626.3129032258064,
+                            2144.9177057356605,
+                            728.4774193548387,
+                            2177.506234413965
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3129201"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2144.9177057356605,
+                            913.558064516129,
+                            2177.506234413965
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2144.9177057356605,
+                            1270.3935483870966,
+                            2177.506234413965
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Bruce Shell Primary 2018"
+                    }
+                ]
+            }
+        ]
+    ]
+}

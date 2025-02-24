@@ -1,0 +1,669 @@
+{
+    "TD": [
+        [
+            [
+                14.259677419354837,
+                581.6463560034639,
+                1986.3014051914017,
+                1536.328125
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            581.6463560034639,
+                            75.99761898123624,
+                            644.2851943422986
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line No"
+                    },
+                    {
+                        "bbox": [
+                            113.99642847185436,
+                            612.0709346251836,
+                            231.44729417012852,
+                            647.8645565330891
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Program"
+                    },
+                    {
+                        "bbox": [
+                            559.6188306800124,
+                            583.4360370988592,
+                            645.979761340508,
+                            647.8645565330891
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "STN Gross"
+                    },
+                    {
+                        "bbox": [
+                            1905.1221303705356,
+                            587.0153992896498,
+                            1986.3014051914017,
+                            649.6542376284843
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Total Spots"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            734.3119266055046,
+                            69.26129032258065,
+                            774.4036697247706
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "246"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            734.3119266055046,
+                            664.0935483870967,
+                            774.4036697247706
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            734.3119266055046,
+                            1978.0209677419355,
+                            774.4036697247706
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5"
+                    },
+                    {
+                        "bbox": [
+                            105.36033540580479,
+                            778.511276496944,
+                            293.62716424568544,
+                            812.5152173094542
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "FAMILY FEUD"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            839.8165137614678,
+                            69.26129032258065,
+                            873.5779816513761
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "247"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            839.8165137614678,
+                            664.0935483870967,
+                            873.5779816513761
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            839.8165137614678,
+                            1978.0209677419355,
+                            873.5779816513761
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5"
+                    },
+                    {
+                        "bbox": [
+                            101.90589817938495,
+                            880.5230989344745,
+                            281.5366339532161,
+                            914.5270397469848
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE JUDY"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            943.2110091743119,
+                            69.26129032258065,
+                            974.8623853211009
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "248"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            943.2110091743119,
+                            664.0935483870967,
+                            974.8623853211009
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$100.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            943.2110091743119,
+                            1978.0209677419355,
+                            974.8623853211009
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5"
+                    },
+                    {
+                        "bbox": [
+                            105.36033540580479,
+                            987.9039646581911,
+                            362.71590877408204,
+                            1016.5388621845153
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WDAY NEWS AT 6P"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            1046.605504587156,
+                            69.26129032258065,
+                            1082.4770642201834
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "249"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            1046.605504587156,
+                            664.0935483870967,
+                            1082.4770642201834
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            1046.605504587156,
+                            1978.0209677419355,
+                            1082.4770642201834
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5"
+                    },
+                    {
+                        "bbox": [
+                            108.8147726322246,
+                            1089.9157870957215,
+                            284.9910711796359,
+                            1123.9197279082318
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE JUDY"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            1141.5596330275228,
+                            69.26129032258065,
+                            1185.8715596330276
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "250"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            1141.5596330275228,
+                            664.0935483870967,
+                            1185.8715596330276
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$100.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            1141.5596330275228,
+                            1978.0209677419355,
+                            1185.8715596330276
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5"
+                    },
+                    {
+                        "bbox": [
+                            108.8147726322246,
+                            1190.137928437857,
+                            383.442532132601,
+                            1224.141869250367
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WDAY NEWS AT 10P"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            1242.8440366972477,
+                            69.26129032258065,
+                            1285.045871559633
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "251"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            1242.8440366972477,
+                            664.0935483870967,
+                            1285.045871559633
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$40.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            1242.8440366972477,
+                            1978.0209677419355,
+                            1285.045871559633
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            117.45086569827417,
+                            1292.1497508753876,
+                            284.9910711796359,
+                            1326.153691687898
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "FIRST NEWS"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            1344.1284403669724,
+                            69.26129032258065,
+                            1386.3302752293578
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "252"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            1344.1284403669724,
+                            664.0935483870967,
+                            1386.3302752293578
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$50.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            1344.1284403669724,
+                            1978.0209677419355,
+                            1386.3302752293578
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            118.40625,
+                            1395.9512544083134,
+                            509.5294908969247,
+                            1433.232421875
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WDAY NEWS AT 5:30 SUNDSY WDAY"
+                    },
+                    {
+                        "bbox": [
+                            14.259677419354837,
+                            1439.0825688073394,
+                            69.26129032258065,
+                            1489.7247706422017
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "253"
+                    },
+                    {
+                        "bbox": [
+                            556.1274193548387,
+                            1439.0825688073394,
+                            664.0935483870967,
+                            1489.7247706422017
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$80.00"
+                    },
+                    {
+                        "bbox": [
+                            1949.5016129032258,
+                            1439.0825688073394,
+                            1978.0209677419355,
+                            1489.7247706422017
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            118.40625,
+                            1494.3837146550534,
+                            492.2573047648256,
+                            1536.328125
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "WDAY NEWS AT 10 SUNDAY WDAYI"
+                    }
+                ]
+            }
+        ]
+    ]
+}

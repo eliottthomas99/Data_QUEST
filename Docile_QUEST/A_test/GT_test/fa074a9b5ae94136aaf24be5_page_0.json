@@ -1,0 +1,2325 @@
+{
+    "TD": [
+        [
+            [
+                250.2290322580645,
+                929.9208507762182,
+                1084.6376969749879,
+                2183.431421446384
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            271.5611419092933,
+                            931.5278568829987,
+                            329.4084857479593,
+                            962.0609729118241
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            636.3207822253262,
+                            929.9208507762182,
+                            715.0574446723995,
+                            962.0609729118241
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            795.4009777816577,
+                            930.4565358257898,
+                            854.8551922825089,
+                            960.9896518546154
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            930.4565358257898,
+                            1084.6376969749879,
+                            962.5966579613957
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            967.286783042394,
+                            352.39354838709676,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            967.286783042394,
+                            726.9967741935484,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            967.286783042394,
+                            912.0774193548386,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            967.286783042394,
+                            1074.9483870967742,
+                            1008.7630922693266
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1008.7630922693266,
+                            352.39354838709676,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1008.7630922693266,
+                            726.9967741935484,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1008.7630922693266,
+                            912.0774193548386,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1008.7630922693266,
+                            1074.9483870967742,
+                            1047.2768079800499
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1047.2768079800499,
+                            352.39354838709676,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1047.2768079800499,
+                            726.9967741935484,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1047.2768079800499,
+                            912.0774193548386,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1047.2768079800499,
+                            1074.9483870967742,
+                            1085.790523690773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1085.790523690773,
+                            352.39354838709676,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1085.790523690773,
+                            726.9967741935484,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337700"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1085.790523690773,
+                            912.0774193548386,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1085.790523690773,
+                            1074.9483870967742,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1127.2668329177059,
+                            352.39354838709676,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/07/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1127.2668329177059,
+                            726.9967741935484,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1127.2668329177059,
+                            912.0774193548386,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1127.2668329177059,
+                            1074.9483870967742,
+                            1165.780548628429
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1165.780548628429,
+                            352.39354838709676,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/07/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1165.780548628429,
+                            726.9967741935484,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1165.780548628429,
+                            912.0774193548386,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1165.780548628429,
+                            1074.9483870967742,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1204.294264339152,
+                            352.39354838709676,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/07/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1204.294264339152,
+                            726.9967741935484,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1204.294264339152,
+                            912.0774193548386,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1204.294264339152,
+                            1074.9483870967742,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1242.8079800498754,
+                            352.39354838709676,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/07/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1242.8079800498754,
+                            726.9967741935484,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337700"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1242.8079800498754,
+                            912.0774193548386,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1242.8079800498754,
+                            1074.9483870967742,
+                            1281.3216957605985
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1281.3216957605985,
+                            352.39354838709676,
+                            1319.8354114713218
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/08/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1281.3216957605985,
+                            726.9967741935484,
+                            1319.8354114713218
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1281.3216957605985,
+                            912.0774193548386,
+                            1319.8354114713218
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1281.3216957605985,
+                            1074.9483870967742,
+                            1319.8354114713218
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1319.8354114713218,
+                            352.39354838709676,
+                            1358.3491271820449
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/08/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1319.8354114713218,
+                            726.9967741935484,
+                            1358.3491271820449
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1319.8354114713218,
+                            912.0774193548386,
+                            1358.3491271820449
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1319.8354114713218,
+                            1074.9483870967742,
+                            1358.3491271820449
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1358.3491271820449,
+                            352.39354838709676,
+                            1398.3441396508729
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/08/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1358.3491271820449,
+                            726.9967741935484,
+                            1398.3441396508729
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1358.3491271820449,
+                            912.0774193548386,
+                            1398.3441396508729
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1358.3491271820449,
+                            1074.9483870967742,
+                            1398.3441396508729
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1398.3441396508729,
+                            352.39354838709676,
+                            1438.3391521197009
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/08/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1398.3441396508729,
+                            726.9967741935484,
+                            1438.3391521197009
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337700"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1398.3441396508729,
+                            912.0774193548386,
+                            1438.3391521197009
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1398.3441396508729,
+                            1074.9483870967742,
+                            1438.3391521197009
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1438.3391521197009,
+                            352.39354838709676,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1438.3391521197009,
+                            726.9967741935484,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337697"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1438.3391521197009,
+                            912.0774193548386,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1438.3391521197009,
+                            1074.9483870967742,
+                            1476.8528678304237
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1476.8528678304237,
+                            352.39354838709676,
+                            1518.3291770573564
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1476.8528678304237,
+                            726.9967741935484,
+                            1518.3291770573564
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337697"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1476.8528678304237,
+                            912.0774193548386,
+                            1518.3291770573564
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1476.8528678304237,
+                            1074.9483870967742,
+                            1518.3291770573564
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1518.3291770573564,
+                            352.39354838709676,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1518.3291770573564,
+                            726.9967741935484,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337697"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1518.3291770573564,
+                            912.0774193548386,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1518.3291770573564,
+                            1074.9483870967742,
+                            1553.8802992518704
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1553.8802992518704,
+                            352.39354838709676,
+                            1593.8753117206982
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1553.8802992518704,
+                            726.9967741935484,
+                            1593.8753117206982
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337698"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1553.8802992518704,
+                            912.0774193548386,
+                            1593.8753117206982
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1553.8802992518704,
+                            1074.9483870967742,
+                            1593.8753117206982
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1593.8753117206982,
+                            352.39354838709676,
+                            1633.8703241895262
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1593.8753117206982,
+                            726.9967741935484,
+                            1633.8703241895262
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337698"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1593.8753117206982,
+                            912.0774193548386,
+                            1633.8703241895262
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1593.8753117206982,
+                            1074.9483870967742,
+                            1633.8703241895262
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1633.8703241895262,
+                            352.39354838709676,
+                            1667.9401496259352
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1633.8703241895262,
+                            726.9967741935484,
+                            1667.9401496259352
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337698"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1633.8703241895262,
+                            912.0774193548386,
+                            1667.9401496259352
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1633.8703241895262,
+                            1074.9483870967742,
+                            1667.9401496259352
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1667.9401496259352,
+                            352.39354838709676,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1667.9401496259352,
+                            726.9967741935484,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337697"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1667.9401496259352,
+                            912.0774193548386,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1667.9401496259352,
+                            1074.9483870967742,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1712.3790523690773,
+                            352.39354838709676,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1712.3790523690773,
+                            726.9967741935484,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337699"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1712.3790523690773,
+                            912.0774193548386,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1712.3790523690773,
+                            1074.9483870967742,
+                            1749.411471321696
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1749.411471321696,
+                            352.39354838709676,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1749.411471321696,
+                            726.9967741935484,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337699"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1749.411471321696,
+                            912.0774193548386,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1749.411471321696,
+                            1074.9483870967742,
+                            1787.9251870324188
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1787.9251870324188,
+                            352.39354838709676,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1787.9251870324188,
+                            726.9967741935484,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337699"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1787.9251870324188,
+                            912.0774193548386,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1787.9251870324188,
+                            1074.9483870967742,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1827.9201995012468,
+                            352.39354838709676,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/09/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1827.9201995012468,
+                            726.9967741935484,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337699"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1827.9201995012468,
+                            912.0774193548386,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1827.9201995012468,
+                            1074.9483870967742,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1864.9526184538654,
+                            352.39354838709676,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/11/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1864.9526184538654,
+                            726.9967741935484,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1864.9526184538654,
+                            912.0774193548386,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1864.9526184538654,
+                            1074.9483870967742,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1903.4663341645885,
+                            352.39354838709676,
+                            1941.9800498753118
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/11/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1903.4663341645885,
+                            726.9967741935484,
+                            1941.9800498753118
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1903.4663341645885,
+                            912.0774193548386,
+                            1941.9800498753118
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1903.4663341645885,
+                            1074.9483870967742,
+                            1941.9800498753118
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1941.9800498753118,
+                            352.39354838709676,
+                            1981.9750623441396
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/11/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1941.9800498753118,
+                            726.9967741935484,
+                            1981.9750623441396
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1941.9800498753118,
+                            912.0774193548386,
+                            1981.9750623441396
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1941.9800498753118,
+                            1074.9483870967742,
+                            1981.9750623441396
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            1981.9750623441396,
+                            352.39354838709676,
+                            2021.9700748129676
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/11/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1981.9750623441396,
+                            726.9967741935484,
+                            2021.9700748129676
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337700"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1981.9750623441396,
+                            912.0774193548386,
+                            2021.9700748129676
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1981.9750623441396,
+                            1074.9483870967742,
+                            2021.9700748129676
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            2021.9700748129676,
+                            352.39354838709676,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/12/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2021.9700748129676,
+                            726.9967741935484,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2021.9700748129676,
+                            912.0774193548386,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2021.9700748129676,
+                            1074.9483870967742,
+                            2060.483790523691
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            2060.483790523691,
+                            352.39354838709676,
+                            2100.4788029925185
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/12/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2060.483790523691,
+                            726.9967741935484,
+                            2100.4788029925185
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2060.483790523691,
+                            912.0774193548386,
+                            2100.4788029925185
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2060.483790523691,
+                            1074.9483870967742,
+                            2100.4788029925185
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            2100.4788029925185,
+                            352.39354838709676,
+                            2136.0299251870324
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/12/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2100.4788029925185,
+                            726.9967741935484,
+                            2136.0299251870324
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337696"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2100.4788029925185,
+                            912.0774193548386,
+                            2136.0299251870324
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2100.4788029925185,
+                            1074.9483870967742,
+                            2136.0299251870324
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Smith"
+                    },
+                    {
+                        "bbox": [
+                            250.2290322580645,
+                            2136.0299251870324,
+                            352.39354838709676,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/12/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2136.0299251870324,
+                            726.9967741935484,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3337700"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2136.0299251870324,
+                            912.0774193548386,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$20.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2136.0299251870324,
+                            1074.9483870967742,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Clyburn"
+                    }
+                ]
+            }
+        ]
+    ]
+}

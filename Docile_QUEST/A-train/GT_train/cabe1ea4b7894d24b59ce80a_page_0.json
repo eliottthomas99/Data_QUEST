@@ -1,0 +1,273 @@
+{
+    "TD": [
+        [
+            [
+                253.42258064516128,
+                709.8857142857144,
+                1049.0516129032258,
+                938.6553191489362
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            296.15080645161294,
+                            710.2541033434651,
+                            545.1532258064516,
+                            736.4097264437689
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EXPENSE SUMMARY"
+                    },
+                    {
+                        "bbox": [
+                            811.8362903225806,
+                            709.8857142857144,
+                            940.0209677419355,
+                            737.8832826747721
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CURRENT"
+                    },
+                    {
+                        "bbox": [
+                            253.42258064516128,
+                            755.9343465045592,
+                            626.1895161290322,
+                            789.8261398176292
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Salaries and Wages"
+                    },
+                    {
+                        "bbox": [
+                            931.1806451612903,
+                            755.9343465045592,
+                            1049.0516129032258,
+                            789.8261398176292
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,757.55"
+                    },
+                    {
+                        "bbox": [
+                            253.42258064516128,
+                            789.8261398176292,
+                            626.1895161290322,
+                            819.2972644376899
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Salaries Cost-Shared"
+                    },
+                    {
+                        "bbox": [
+                            931.1806451612903,
+                            789.8261398176292,
+                            1049.0516129032258,
+                            819.2972644376899
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "(1,472.89)"
+                    },
+                    {
+                        "bbox": [
+                            253.42258064516128,
+                            819.2972644376899,
+                            626.1895161290322,
+                            848.7683890577507
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Fringe Benefits"
+                    },
+                    {
+                        "bbox": [
+                            931.1806451612903,
+                            819.2972644376899,
+                            1049.0516129032258,
+                            848.7683890577507
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4,804.86"
+                    },
+                    {
+                        "bbox": [
+                            253.42258064516128,
+                            848.7683890577507,
+                            626.1895161290322,
+                            876.7659574468086
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Salaries Cost-Sharing Contribution"
+                    },
+                    {
+                        "bbox": [
+                            931.1806451612903,
+                            848.7683890577507,
+                            1049.0516129032258,
+                            876.7659574468086
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "(2,713.57)"
+                    },
+                    {
+                        "bbox": [
+                            253.42258064516128,
+                            876.7659574468086,
+                            626.1895161290322,
+                            903.2899696048632
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Supplies and Materials"
+                    },
+                    {
+                        "bbox": [
+                            931.1806451612903,
+                            876.7659574468086,
+                            1049.0516129032258,
+                            903.2899696048632
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-"
+                    },
+                    {
+                        "bbox": [
+                            253.42258064516128,
+                            903.2899696048632,
+                            626.1895161290322,
+                            938.6553191489362
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Travel"
+                    },
+                    {
+                        "bbox": [
+                            931.1806451612903,
+                            903.2899696048632,
+                            1049.0516129032258,
+                            938.6553191489362
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-"
+                    }
+                ]
+            }
+        ]
+    ]
+}

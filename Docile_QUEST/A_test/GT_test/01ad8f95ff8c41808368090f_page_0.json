@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                107.54032258064515,
+                756.637201004361,
+                1788.241935483871,
+                875.2705167173252
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            492.74141796303803,
+                            758.5677811550152,
+                            1015.8478532795405,
+                            790.8145896656536
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EXPLANATION OF CHARGES"
+                    },
+                    {
+                        "bbox": [
+                            1515.490411550184,
+                            756.637201004361,
+                            1683.8782350557601,
+                            796.6508391700806
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            107.54032258064515,
+                            829.2036474164133,
+                            1365.7620967741934,
+                            875.2705167173252
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Credit due for incorrect payment of cash discount on invoice # MG11-004284."
+                    },
+                    {
+                        "bbox": [
+                            1573.1612903225807,
+                            829.2036474164133,
+                            1788.241935483871,
+                            875.2705167173252
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$( 5,020.24)"
+                    }
+                ]
+            }
+        ]
+    ]
+}

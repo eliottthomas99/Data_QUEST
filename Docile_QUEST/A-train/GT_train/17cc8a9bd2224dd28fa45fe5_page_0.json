@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                256.19746759119687,
+                1591.4407294832827,
+                1368.7766129032257,
+                1734.3756838905776
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            256.3693548387097,
+                            1591.4407294832827,
+                            464.7484549291529,
+                            1619.412468113695
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1208.1774193548385,
+                            1591.4407294832827,
+                            1348.1610642146518,
+                            1620.9748535146734
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            256.19746759119687,
+                            1656.128525036678,
+                            1103.679944226711,
+                            1734.2477950855778
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1s Quarter Payment: ($295,150.00 minus $17,500 for the equipment category X 22.5%)"
+                    },
+                    {
+                        "bbox": [
+                            1208.1774193548385,
+                            1657.7507598784193,
+                            1368.7766129032257,
+                            1734.3756838905776
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$62,471.25"
+                    }
+                ]
+            }
+        ]
+    ]
+}

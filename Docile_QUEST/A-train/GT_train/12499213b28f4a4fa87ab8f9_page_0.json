@@ -1,0 +1,57 @@
+{
+    "TD": [
+        [
+            [
+                345.6653225806452,
+                990.5533746797181,
+                970.9354838709677,
+                1322.1191489361702
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            345.6653225806452,
+                            990.5533746797181,
+                            611.1705595601633,
+                            1031.8978723404255
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            345.6653225806452,
+                            1226.9142857142856,
+                            970.9354838709677,
+                            1322.1191489361702
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Concept exploration, initial \"looks like\" prototypes and concept explanation"
+                    }
+                ]
+            }
+        ]
+    ]
+}

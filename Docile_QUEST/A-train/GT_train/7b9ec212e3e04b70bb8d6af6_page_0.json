@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                246.8322580645161,
+                885.4286827171026,
+                1817.4196903576676,
+                1320.73262366938
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            659.6305870485295,
+                            885.4286827171026,
+                            876.0718734238284,
+                            921.463570967217
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1657.6654075568517,
+                            885.4286827171026,
+                            1817.4196903576676,
+                            923.1795180267463
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            246.8322580645161,
+                            1281.1897307451472,
+                            431.9564516129032,
+                            1320.73262366938
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Mac outputs"
+                    },
+                    {
+                        "bbox": [
+                            643.9790322580645,
+                            1281.1897307451472,
+                            759.483870967742,
+                            1320.73262366938
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$24.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

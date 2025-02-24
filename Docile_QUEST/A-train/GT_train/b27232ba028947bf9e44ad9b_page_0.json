@@ -1,0 +1,111 @@
+{
+    "TD": [
+        [
+            [
+                244.8509345351044,
+                1165.7833062916895,
+                1627.8674003795063,
+                1199.3149450153237
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            244.8509345351044,
+                            1169.1364701640528,
+                            411.43901328273245,
+                            1197.079502433748
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Itemm Number"
+                    },
+                    {
+                        "bbox": [
+                            734.5528036053131,
+                            1169.1364701640528,
+                            875.4259440227703,
+                            1199.3149450153237
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Desciption"
+                    },
+                    {
+                        "bbox": [
+                            1149.3459392789373,
+                            1165.7833062916895,
+                            1197.8637096774194,
+                            1198.197223724536
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Qty"
+                    },
+                    {
+                        "bbox": [
+                            1321.524222011385,
+                            1165.7833062916895,
+                            1390.8427514231498,
+                            1198.197223724536
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Price"
+                    },
+                    {
+                        "bbox": [
+                            1504.8829127134725,
+                            1168.018748873265,
+                            1627.8674003795063,
+                            1198.197223724536
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Net Sales"
+                    }
+                ]
+            }
+        ]
+    ]
+}

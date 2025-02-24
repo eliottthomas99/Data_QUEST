@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                70.73387096774194,
+                740.3156712328768,
+                1658.377159975158,
+                978.6883561643835
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            662.3824884792626,
+                            742.8192014344968,
+                            825.8275181040158,
+                            775.7803100474146
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1543.8087896832644,
+                            740.3156712328768,
+                            1658.377159975158,
+                            774.6823561643836
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            70.73387096774194,
+                            936.8270547945206,
+                            612.0645161290322,
+                            978.6883561643835
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5673-1299 Monthly Military Database June Data"
+                    },
+                    {
+                        "bbox": [
+                            1089.8790322580646,
+                            936.8270547945206,
+                            1206.8064516129032,
+                            978.6883561643835
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1,024 00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,813 @@
+{
+    "TD": [
+        [
+            [
+                284.1532258064516,
+                1061.3445378151262,
+                1850.2620967741934,
+                1977.366515837104
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            601.5120967741934,
+                            1100.2072594924257,
+                            787.8341365066876,
+                            1138.3541356341868
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1179.550550747443,
+                            1096.3558921896517,
+                            1245.570171125098,
+                            1141.8387060509822
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Qty"
+                    },
+                    {
+                        "bbox": [
+                            1404.0172600314713,
+                            1061.3445378151262,
+                            1484.7079071597168,
+                            1136.4550743374273
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Unit Price"
+                    },
+                    {
+                        "bbox": [
+                            1640.2207907159716,
+                            1089.9369466850285,
+                            1775.1942368214004,
+                            1133.9525730024452
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1250.753716871364,
+                            1061.491935483871,
+                            1291.574660633484
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CARD PROOUCTION"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1250.753716871364,
+                            1316.25,
+                            1291.574660633484
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1250.753716871364,
+                            1556.3104838709678,
+                            1291.574660633484
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$5,280.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1250.753716871364,
+                            1850.2620967741934,
+                            1291.574660633484
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$5.280.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1327.49709114415,
+                            1061.491935483871,
+                            1368.3180349062702
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MSD MERCHANT SIGNING EXPENSES"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1327.49709114415,
+                            1316.25,
+                            1368.3180349062702
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1327.49709114415,
+                            1556.3104838709678,
+                            1368.3180349062702
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$11,491.740"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1327.49709114415,
+                            1850.2620967741934,
+                            1368.3180349062702
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$11.491.74"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1399.3419521654816,
+                            1061.491935483871,
+                            1443.4285714285713
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACCOUNT MANAGEMENT TRAVEL"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1399.3419521654816,
+                            1316.25,
+                            1443.4285714285713
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1399.3419521654816,
+                            1556.3104838709678,
+                            1443.4285714285713
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$284.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1399.3419521654816,
+                            1850.2620967741934,
+                            1443.4285714285713
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$284.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1471.1868131868132,
+                            1061.491935483871,
+                            1515.2734324499029
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PRE-PUB COORDINATIONADMINISTRATION"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1471.1868131868132,
+                            1316.25,
+                            1515.2734324499029
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1471.1868131868132,
+                            1556.3104838709678,
+                            1515.2734324499029
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$200.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1471.1868131868132,
+                            1850.2620967741934,
+                            1515.2734324499029
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$200.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1547.9301874595994,
+                            1061.491935483871,
+                            1593.6496444731738
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "FULFILLMENT COORDINATION/ADMINISTRATION"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1547.9301874595994,
+                            1316.25,
+                            1593.6496444731738
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1547.9301874595994,
+                            1556.3104838709678,
+                            1593.6496444731738
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1547.9301874595994,
+                            1850.2620967741934,
+                            1593.6496444731738
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1627.939237233355,
+                            1061.491935483871,
+                            1663.8616677440207
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PHONE LINE SETUP"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1627.939237233355,
+                            1316.25,
+                            1663.8616677440207
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1627.939237233355,
+                            1556.3104838709678,
+                            1663.8616677440207
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1627.939237233355,
+                            1850.2620967741934,
+                            1663.8616677440207
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1699.7840982546866,
+                            1061.491935483871,
+                            1742.2378797672916
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PHONE LINE PROGRAMMING"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1699.7840982546866,
+                            1316.25,
+                            1742.2378797672916
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1699.7840982546866,
+                            1556.3104838709678,
+                            1742.2378797672916
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$250.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1699.7840982546866,
+                            1850.2620967741934,
+                            1742.2378797672916
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$260.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1776.5274725274726,
+                            1061.491935483871,
+                            1820.6140917905623
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EXTERNAL CREATIVE"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1776.5274725274726,
+                            1316.25,
+                            1820.6140917905623
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1776.5274725274726,
+                            1556.3104838709678,
+                            1820.6140917905623
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$780.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1776.5274725274726,
+                            1850.2620967741934,
+                            1820.6140917905623
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$780.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1848.372333548804,
+                            1061.491935483871,
+                            1894.0917905623787
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "INTERNAL CREATIVE"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1848.372333548804,
+                            1316.25,
+                            1894.0917905623787
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1848.372333548804,
+                            1556.3104838709678,
+                            1894.0917905623787
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1,260.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1848.372333548804,
+                            1850.2620967741934,
+                            1894.0917905623787
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1.260.00"
+                    },
+                    {
+                        "bbox": [
+                            284.1532258064516,
+                            1926.7485455720748,
+                            1061.491935483871,
+                            1977.366515837104
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MSD MAILING EXPENSES"
+                    },
+                    {
+                        "bbox": [
+                            1281.9556451612902,
+                            1926.7485455720748,
+                            1316.25,
+                            1977.366515837104
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1361.975806451613,
+                            1926.7485455720748,
+                            1556.3104838709678,
+                            1977.366515837104
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.000"
+                    },
+                    {
+                        "bbox": [
+                            1668.991935483871,
+                            1926.7485455720748,
+                            1850.2620967741934,
+                            1977.366515837104
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

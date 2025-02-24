@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                540.733064516129,
+                1164.1094224924013,
+                1277.4266129032258,
+                1357.1452887537994
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            565.1998494177486,
+                            1164.1094224924013,
+                            639.6211819033597,
+                            1201.370271681641
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            677.758064516129,
+                            1164.1094224924013,
+                            836.7371436220051,
+                            1205.39496270905
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1146.2951612903225,
+                            1164.1094224924013,
+                            1265.1626522553877,
+                            1201.370271681641
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            540.733064516129,
+                            1279.0468085106384,
+                            658.6040322580645,
+                            1357.1452887537994
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/16/99"
+                    },
+                    {
+                        "bbox": [
+                            677.758064516129,
+                            1279.0468085106384,
+                            1049.0516129032258,
+                            1357.1452887537994
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Services for September 1999: Kekst and Company"
+                    },
+                    {
+                        "bbox": [
+                            1146.2951612903225,
+                            1279.0468085106384,
+                            1277.4266129032258,
+                            1357.1452887537994
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "14,179.32"
+                    }
+                ]
+            }
+        ]
+    ]
+}

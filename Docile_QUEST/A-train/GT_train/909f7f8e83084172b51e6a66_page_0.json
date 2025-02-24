@@ -1,0 +1,1209 @@
+{
+    "TD": [
+        [
+            [
+                50.29627974018391,
+                927.6732382443197,
+                1698.8153225806452,
+                1360.7387606318348
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            50.29627974018391,
+                            930.4151295888842,
+                            148.1454057801781,
+                            965.145753286701
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY UNREDED"
+                    },
+                    {
+                        "bbox": [
+                            178.32317362428844,
+                            927.6732382443197,
+                            269.7709549700774,
+                            966.0597170682227
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY SHIPPED"
+                    },
+                    {
+                        "bbox": [
+                            486.50219675959715,
+                            936.8128760595346,
+                            595.325056561086,
+                            958.7480068160505
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ITEM NO."
+                    },
+                    {
+                        "bbox": [
+                            938.2542366077945,
+                            937.7268398410562,
+                            1094.6299427090935,
+                            959.661970597572
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1349.7692526638448,
+                            939.5547674040992,
+                            1489.6843581229018,
+                            961.489898160615
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "UNIT PRICE"
+                    },
+                    {
+                        "bbox": [
+                            1513.460781272807,
+                            941.3826949671421,
+                            1696.3563439643847,
+                            963.3178257236581
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EXTENDED PRIC"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1024.9720534629405,
+                            135.5516129032258,
+                            1063.2612393681652
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "90"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1024.9720534629405,
+                            240.16209677419351,
+                            1063.2612393681652
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "90"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1024.9720534629405,
+                            671.8645161290323,
+                            1063.2612393681652
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACGZNS010000000"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1024.9720534629405,
+                            1302.4741935483871,
+                            1063.2612393681652
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BAILEY'S KS FULL FLAVOR SP"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1024.9720534629405,
+                            1532.3225806451615,
+                            1063.2612393681652
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.0500"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1024.9720534629405,
+                            1698.8153225806452,
+                            1063.2612393681652
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,534.5"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1063.2612393681652,
+                            135.5516129032258,
+                            1095.6597812879709
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1063.2612393681652,
+                            240.16209677419351,
+                            1095.6597812879709
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1063.2612393681652,
+                            671.8645161290323,
+                            1095.6597812879709
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACGZNS030000000"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1063.2612393681652,
+                            1302.4741935483871,
+                            1095.6597812879709
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BAILEY'S KS LIGHT SP"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1063.2612393681652,
+                            1532.3225806451615,
+                            1095.6597812879709
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.0500"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1063.2612393681652,
+                            1698.8153225806452,
+                            1095.6597812879709
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "511.5"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1095.6597812879709,
+                            135.5516129032258,
+                            1129.5309842041313
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1095.6597812879709,
+                            240.16209677419351,
+                            1129.5309842041313
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1095.6597812879709,
+                            671.8645161290323,
+                            1129.5309842041313
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACGZNS070000000"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1095.6597812879709,
+                            1302.4741935483871,
+                            1129.5309842041313
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BAILEY'S KS ULTRA LIGHT SP"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1095.6597812879709,
+                            1532.3225806451615,
+                            1129.5309842041313
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.0500"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1095.6597812879709,
+                            1698.8153225806452,
+                            1129.5309842041313
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "511.5"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1129.5309842041313,
+                            135.5516129032258,
+                            1161.929526123937
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "120"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1129.5309842041313,
+                            240.16209677419351,
+                            1161.929526123937
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "120"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1129.5309842041313,
+                            671.8645161290323,
+                            1161.929526123937
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACGZNS110000000"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1129.5309842041313,
+                            1302.4741935483871,
+                            1161.929526123937
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BAILEY'S 100'S FULL FLAVOR SP"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1129.5309842041313,
+                            1532.3225806451615,
+                            1161.929526123937
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.0500"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1129.5309842041313,
+                            1698.8153225806452,
+                            1161.929526123937
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,046.0"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1161.929526123937,
+                            135.5516129032258,
+                            1192.8554070473876
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1161.929526123937,
+                            240.16209677419351,
+                            1192.8554070473876
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1161.929526123937,
+                            671.8645161290323,
+                            1192.8554070473876
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACGZNS120000000"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1161.929526123937,
+                            1302.4741935483871,
+                            1192.8554070473876
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BAILEY'S 100'S MENTHOL SP"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1161.929526123937,
+                            1532.3225806451615,
+                            1192.8554070473876
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.0500"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1161.929526123937,
+                            1698.8153225806452,
+                            1192.8554070473876
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "511.5"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1192.8554070473876,
+                            135.5516129032258,
+                            1229.6719319562576
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1192.8554070473876,
+                            240.16209677419351,
+                            1229.6719319562576
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1192.8554070473876,
+                            671.8645161290323,
+                            1229.6719319562576
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACGZNSO90000000"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1192.8554070473876,
+                            1302.4741935483871,
+                            1229.6719319562576
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BAILEY'S 100'S MENTHOLLIGHT SP"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1192.8554070473876,
+                            1532.3225806451615,
+                            1229.6719319562576
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.0500"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1192.8554070473876,
+                            1698.8153225806452,
+                            1229.6719319562576
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "511.5"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1229.6719319562576,
+                            135.5516129032258,
+                            1262.0704738760633
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1229.6719319562576,
+                            240.16209677419351,
+                            1262.0704738760633
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "30"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1229.6719319562576,
+                            671.8645161290323,
+                            1262.0704738760633
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACGZNS100000000"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1229.6719319562576,
+                            1302.4741935483871,
+                            1262.0704738760633
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BAILEY'S 100'S ULTRA LIGHT SP"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1229.6719319562576,
+                            1532.3225806451615,
+                            1262.0704738760633
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.0500"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1229.6719319562576,
+                            1698.8153225806452,
+                            1262.0704738760633
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "511.5"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1262.0704738760633,
+                            135.5516129032258,
+                            1294.4690157958687
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "360"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1262.0704738760633,
+                            240.16209677419351,
+                            1294.4690157958687
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "360"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1262.0704738760633,
+                            671.8645161290323,
+                            1294.4690157958687
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BUYD"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1262.0704738760633,
+                            1302.4741935483871,
+                            1294.4690157958687
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PROMOTION-BUYDOWNS/DISCOUNTS"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1262.0704738760633,
+                            1532.3225806451615,
+                            1294.4690157958687
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.5000"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1262.0704738760633,
+                            1698.8153225806452,
+                            1294.4690157958687
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-100.0"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1294.4690157958687,
+                            135.5516129032258,
+                            1326.8675577156744
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "360"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1294.4690157958687,
+                            240.16209677419351,
+                            1326.8675577156744
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "360"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1294.4690157958687,
+                            671.8645161290323,
+                            1326.8675577156744
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACCR"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1294.4690157958687,
+                            1302.4741935483871,
+                            1326.8675577156744
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACCRUAL"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1294.4690157958687,
+                            1532.3225806451615,
+                            1326.8675577156744
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.1000"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1294.4690157958687,
+                            1698.8153225806452,
+                            1326.8675577156744
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-36.0"
+                    },
+                    {
+                        "bbox": [
+                            67.7758064516129,
+                            1326.8675577156744,
+                            135.5516129032258,
+                            1360.7387606318348
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "360"
+                    },
+                    {
+                        "bbox": [
+                            167.96612903225807,
+                            1326.8675577156744,
+                            240.16209677419351,
+                            1360.7387606318348
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "360"
+                    },
+                    {
+                        "bbox": [
+                            355.0862903225807,
+                            1326.8675577156744,
+                            671.8645161290323,
+                            1360.7387606318348
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BUYD"
+                    },
+                    {
+                        "bbox": [
+                            680.7048387096773,
+                            1326.8675577156744,
+                            1302.4741935483871,
+                            1360.7387606318348
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PROMOTION- BUYDOWNS/DISCOUNTS"
+                    },
+                    {
+                        "bbox": [
+                            1382.0370967741935,
+                            1326.8675577156744,
+                            1532.3225806451615,
+                            1360.7387606318348
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.3000"
+                    },
+                    {
+                        "bbox": [
+                            1541.1629032258063,
+                            1326.8675577156744,
+                            1698.8153225806452,
+                            1360.7387606318348
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-468.0"
+                    }
+                ]
+            }
+        ]
+    ]
+}

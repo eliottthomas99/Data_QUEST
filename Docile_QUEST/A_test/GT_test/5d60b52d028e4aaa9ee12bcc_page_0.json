@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                118.29435483870968,
+                834.4986898647941,
+                1707.3941743503776,
+                1102.5337386018239
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            688.4653928832166,
+                            836.6167068441464,
+                            872.7622826704163,
+                            878.9770464311919
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1584.5295811589112,
+                            834.4986898647941,
+                            1707.3941743503776,
+                            874.7410124724871
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            118.29435483870968,
+                            1027.2911854103343,
+                            712.8387096774194,
+                            1058.0024316109423
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quarterly Store Count Database"
+                    },
+                    {
+                        "bbox": [
+                            1133.7822580645163,
+                            1027.2911854103343,
+                            1258.2217741935485,
+                            1058.0024316109423
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$5,000.00"
+                    },
+                    {
+                        "bbox": [
+                            118.29435483870968,
+                            1071.8224924012159,
+                            712.8387096774194,
+                            1102.5337386018239
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quarterly Store Counts"
+                    },
+                    {
+                        "bbox": [
+                            1133.7822580645163,
+                            1071.8224924012159,
+                            1258.2217741935485,
+                            1102.5337386018239
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$650.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

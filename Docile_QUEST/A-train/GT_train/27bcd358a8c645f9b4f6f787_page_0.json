@@ -1,0 +1,831 @@
+{
+    "TD": [
+        [
+            [
+                137.7,
+                927.291770573566,
+                1688.4931546863095,
+                1962.718204488778
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            138.69486918973837,
+                            930.0984381152382,
+                            272.71463042926086,
+                            962.8428927680799
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ACTIVITY"
+                    },
+                    {
+                        "bbox": [
+                            417.64297688595383,
+                            931.6576978606116,
+                            612.439141478283,
+                            964.4021525134531
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1239.682791465583,
+                            927.291770573566,
+                            1308.890322580645,
+                            964.4021525134531
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            930.0984381152382,
+                            1507.722313944628,
+                            964.4021525134531
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "RATE"
+                    },
+                    {
+                        "bbox": [
+                            1563.8236093472187,
+                            930.0984381152382,
+                            1688.4931546863095,
+                            964.4021525134531
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            982.0997506234413,
+                            377.56451612903226,
+                            1097.640897755611
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:60 Radio"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            982.0997506234413,
+                            781.7806451612903,
+                            1097.640897755611
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KGAB 6A-10A 8/12-14, 17"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            982.0997506234413,
+                            1308.890322580645,
+                            1097.640897755611
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            982.0997506234413,
+                            1511.7387096774194,
+                            1097.640897755611
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "15.00"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            982.0997506234413,
+                            1687.9354838709676,
+                            1097.640897755611
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "180.00"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            1097.640897755611,
+                            377.56451612903226,
+                            1219.1072319201994
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:60 Radio"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            1097.640897755611,
+                            781.7806451612903,
+                            1219.1072319201994
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KGAB 10A-3P 8/12-14, 17"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            1097.640897755611,
+                            1308.890322580645,
+                            1219.1072319201994
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "16"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            1097.640897755611,
+                            1511.7387096774194,
+                            1219.1072319201994
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "18.00"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            1097.640897755611,
+                            1687.9354838709676,
+                            1219.1072319201994
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "288.00"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            1219.1072319201994,
+                            377.56451612903226,
+                            1339.0922693266832
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:60 Radio"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            1219.1072319201994,
+                            781.7806451612903,
+                            1339.0922693266832
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KGAB 3P-7P 8/12-14, 17"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            1219.1072319201994,
+                            1308.890322580645,
+                            1339.0922693266832
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            1219.1072319201994,
+                            1511.7387096774194,
+                            1339.0922693266832
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "20.00"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            1219.1072319201994,
+                            1687.9354838709676,
+                            1339.0922693266832
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "240.00"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            1339.0922693266832,
+                            377.56451612903226,
+                            1457.5960099750623
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:60 Radio"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            1339.0922693266832,
+                            781.7806451612903,
+                            1457.5960099750623
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KGAB 7P-12M 8/12-14, 17"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            1339.0922693266832,
+                            1308.890322580645,
+                            1457.5960099750623
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "16"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            1339.0922693266832,
+                            1511.7387096774194,
+                            1457.5960099750623
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5.00"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            1339.0922693266832,
+                            1687.9354838709676,
+                            1457.5960099750623
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "80.00"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            1457.5960099750623,
+                            377.56451612903226,
+                            1577.581047381546
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:60 Radio"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            1457.5960099750623,
+                            781.7806451612903,
+                            1577.581047381546
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KIGN 6A-10A 8/12-14, 17"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            1457.5960099750623,
+                            1308.890322580645,
+                            1577.581047381546
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            1457.5960099750623,
+                            1511.7387096774194,
+                            1577.581047381546
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9.00"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            1457.5960099750623,
+                            1687.9354838709676,
+                            1577.581047381546
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "108.00"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            1577.581047381546,
+                            377.56451612903226,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:60 Radio"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            1577.581047381546,
+                            781.7806451612903,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KIGN 10A-3P 8/15-16"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            1577.581047381546,
+                            1308.890322580645,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            1577.581047381546,
+                            1511.7387096774194,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5.00"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            1577.581047381546,
+                            1687.9354838709676,
+                            1688.6783042394015
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "40.00"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            1688.6783042394015,
+                            377.56451612903226,
+                            1813.1072319201994
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:60 Radio"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            1688.6783042394015,
+                            781.7806451612903,
+                            1813.1072319201994
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "KLEN 6A-10A 8/12-14, 17"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            1688.6783042394015,
+                            1308.890322580645,
+                            1813.1072319201994
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            1688.6783042394015,
+                            1511.7387096774194,
+                            1813.1072319201994
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8.00"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            1688.6783042394015,
+                            1687.9354838709676,
+                            1813.1072319201994
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "96.00"
+                    },
+                    {
+                        "bbox": [
+                            137.7,
+                            1813.1072319201994,
+                            377.56451612903226,
+                            1962.718204488778
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Radio and Television Airtime:Agency Commission"
+                    },
+                    {
+                        "bbox": [
+                            414.5806451612903,
+                            1813.1072319201994,
+                            781.7806451612903,
+                            1962.718204488778
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Agency Commission"
+                    },
+                    {
+                        "bbox": [
+                            1220.0516129032258,
+                            1813.1072319201994,
+                            1308.890322580645,
+                            1962.718204488778
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,032"
+                    },
+                    {
+                        "bbox": [
+                            1428.8225806451612,
+                            1813.1072319201994,
+                            1511.7387096774194,
+                            1962.718204488778
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-0.15"
+                    },
+                    {
+                        "bbox": [
+                            1582.8096774193548,
+                            1813.1072319201994,
+                            1687.9354838709676,
+                            1962.718204488778
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-154.80"
+                    }
+                ]
+            }
+        ]
+    ]
+}

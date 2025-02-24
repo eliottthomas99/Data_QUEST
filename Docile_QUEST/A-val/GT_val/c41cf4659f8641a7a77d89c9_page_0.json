@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                276.9967741935484,
+                981.7568389057751,
+                1554.4233870967741,
+                1068.3282674772036
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            465.59032258064514,
+                            983.2303951367782,
+                            534.8395161290322,
+                            1008.2808510638298
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DATE"
+                    },
+                    {
+                        "bbox": [
+                            960.6483870967741,
+                            981.7568389057751,
+                            1122.7209677419355,
+                            1008.2808510638298
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1396.7709677419355,
+                            982.8620060790274,
+                            1505.8016129032258,
+                            1012.3331306990882
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            276.9967741935484,
+                            1038.857142857143,
+                            458.22338709677416,
+                            1068.3282674772036
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "February 19, 2002"
+                    },
+                    {
+                        "bbox": [
+                            745.533870967742,
+                            1038.857142857143,
+                            1286.2669354838708,
+                            1068.3282674772036
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Invoicing for 3rd quarter at 22.5% excluding equipment"
+                    },
+                    {
+                        "bbox": [
+                            1424.765322580645,
+                            1038.857142857143,
+                            1554.4233870967741,
+                            1068.3282674772036
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$57,750.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

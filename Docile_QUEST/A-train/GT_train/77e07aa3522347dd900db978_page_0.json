@@ -1,0 +1,741 @@
+{
+    "TD": [
+        [
+            [
+                136.86693548387095,
+                700.8990595611285,
+                1552.1612903225807,
+                1120.5360501567397
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            701.787441512995,
+                            243.70793531317918,
+                            741.5090909090909
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Name"
+                    },
+                    {
+                        "bbox": [
+                            1034.8449033982854,
+                            700.8990595611285,
+                            1143.0645161290322,
+                            740.0667565046128
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Hours"
+                    },
+                    {
+                        "bbox": [
+                            1234.7558576993606,
+                            700.8990595611285,
+                            1320.5403225806451,
+                            740.0667565046128
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            1396.3859909640598,
+                            700.8990595611285,
+                            1541.0024259903694,
+                            737.9401278939674
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            773.0946708463949,
+                            348.93548387096774,
+                            818.2169278996865
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "C. Bogucki"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            773.0946708463949,
+                            1143.0645161290322,
+                            818.2169278996865
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3.75"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            773.0946708463949,
+                            1320.5403225806451,
+                            818.2169278996865
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "180.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            773.0946708463949,
+                            1552.1612903225807,
+                            818.2169278996865
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "675.00"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            818.2169278996865,
+                            348.93548387096774,
+                            855.8188087774295
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "S. Karnezis"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            818.2169278996865,
+                            1143.0645161290322,
+                            855.8188087774295
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "34.50"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            818.2169278996865,
+                            1320.5403225806451,
+                            855.8188087774295
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "185.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            818.2169278996865,
+                            1552.1612903225807,
+                            855.8188087774295
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "6,382.50"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            855.8188087774295,
+                            348.93548387096774,
+                            894.9247648902822
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "D. Meyer"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            855.8188087774295,
+                            1143.0645161290322,
+                            894.9247648902822
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "41.75"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            855.8188087774295,
+                            1320.5403225806451,
+                            894.9247648902822
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "410.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            855.8188087774295,
+                            1552.1612903225807,
+                            894.9247648902822
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17,117.50"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            894.9247648902822,
+                            348.93548387096774,
+                            932.526645768025
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "M. Ovalle"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            894.9247648902822,
+                            1143.0645161290322,
+                            932.526645768025
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5.25"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            894.9247648902822,
+                            1320.5403225806451,
+                            932.526645768025
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "165.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            894.9247648902822,
+                            1552.1612903225807,
+                            932.526645768025
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "866.25"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            932.526645768025,
+                            348.93548387096774,
+                            968.6244514106584
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "M. Pope, P.C."
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            932.526645768025,
+                            1143.0645161290322,
+                            968.6244514106584
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "15.50"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            932.526645768025,
+                            1320.5403225806451,
+                            968.6244514106584
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "485.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            932.526645768025,
+                            1552.1612903225807,
+                            968.6244514106584
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7,517.50"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            968.6244514106584,
+                            348.93548387096774,
+                            1007.7304075235111
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "L. Raynal"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            968.6244514106584,
+                            1143.0645161290322,
+                            1007.7304075235111
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "36.25"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            968.6244514106584,
+                            1320.5403225806451,
+                            1007.7304075235111
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "435.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            968.6244514106584,
+                            1552.1612903225807,
+                            1007.7304075235111
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "15,768.75"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            1007.7304075235111,
+                            348.93548387096774,
+                            1040.8200626959247
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "J. Smith"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            1007.7304075235111,
+                            1143.0645161290322,
+                            1040.8200626959247
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "28.00"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            1007.7304075235111,
+                            1320.5403225806451,
+                            1040.8200626959247
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "285.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            1007.7304075235111,
+                            1552.1612903225807,
+                            1040.8200626959247
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7,980.00"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            1040.8200626959247,
+                            348.93548387096774,
+                            1079.9260188087774
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "J. Stone"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            1040.8200626959247,
+                            1143.0645161290322,
+                            1079.9260188087774
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "14.75"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            1040.8200626959247,
+                            1320.5403225806451,
+                            1079.9260188087774
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "485.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            1040.8200626959247,
+                            1552.1612903225807,
+                            1079.9260188087774
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7,153.75"
+                    },
+                    {
+                        "bbox": [
+                            136.86693548387095,
+                            1079.9260188087774,
+                            348.93548387096774,
+                            1120.5360501567397
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "G. Vance"
+                    },
+                    {
+                        "bbox": [
+                            1046.8064516129032,
+                            1079.9260188087774,
+                            1143.0645161290322,
+                            1120.5360501567397
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "33.50"
+                    },
+                    {
+                        "bbox": [
+                            1206.233870967742,
+                            1079.9260188087774,
+                            1320.5403225806451,
+                            1120.5360501567397
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "285.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.717741935484,
+                            1079.9260188087774,
+                            1552.1612903225807,
+                            1120.5360501567397
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9,547.50"
+                    }
+                ]
+            }
+        ]
+    ]
+}

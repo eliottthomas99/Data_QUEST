@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                240.25645161290322,
+                620.0399471167701,
+                1357.0040322580646,
+                747.76953125
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            282.807722748531,
+                            620.0399471167701,
+                            357.92852410360956,
+                            652.4410844957938
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            651.0469450773473,
+                            621.512726088544,
+                            821.9099442379182,
+                            653.9138634675676
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1212.2435199064635,
+                            624.4582840320916,
+                            1352.174424391414,
+                            659.8049793546628
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Payment"
+                    },
+                    {
+                        "bbox": [
+                            240.25645161290322,
+                            652.7261384903306,
+                            398.9443548387097,
+                            695.7467248908297
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5/20/2000"
+                    },
+                    {
+                        "bbox": [
+                            550.216935483871,
+                            652.7261384903306,
+                            694.0741935483871,
+                            747.76953125
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DEPOSIT For"
+                    },
+                    {
+                        "bbox": [
+                            1210.1806451612904,
+                            652.7261384903306,
+                            1357.0040322580646,
+                            695.7467248908297
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-$6,700.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

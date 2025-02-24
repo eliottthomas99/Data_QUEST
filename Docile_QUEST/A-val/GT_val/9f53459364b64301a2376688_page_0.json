@@ -1,0 +1,453 @@
+{
+    "TD": [
+        [
+            [
+                138.26612903225808,
+                1319.7140722942993,
+                1745.225806451613,
+                1792.001215805471
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            241.39187136365203,
+                            1323.3004343084299,
+                            319.6082319172376,
+                            1356.989345568828
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DATE"
+                    },
+                    {
+                        "bbox": [
+                            524.4312656676125,
+                            1319.7140722942993,
+                            602.1247865072588,
+                            1356.3727965246965
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ITEM"
+                    },
+                    {
+                        "bbox": [
+                            992.7505440621469,
+                            1321.8704678372637,
+                            1184.8261928046059,
+                            1356.3727965246965
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1540.9214966529848,
+                            1321.8704678372637,
+                            1670.4106980523954,
+                            1360.6855876106256
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            138.26612903225808,
+                            1615.4115501519755,
+                            245.80645161290323,
+                            1655.3361702127659
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4/26/99"
+                    },
+                    {
+                        "bbox": [
+                            416.3346774193548,
+                            1615.4115501519755,
+                            619.125,
+                            1655.3361702127659
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Full Day"
+                    },
+                    {
+                        "bbox": [
+                            702.0846774193548,
+                            1615.4115501519755,
+                            1126.100806451613,
+                            1655.3361702127659
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Full Day Casting Rate"
+                    },
+                    {
+                        "bbox": [
+                            1599.2782258064515,
+                            1615.4115501519755,
+                            1745.225806451613,
+                            1655.3361702127659
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,300.00"
+                    },
+                    {
+                        "bbox": [
+                            416.3346774193548,
+                            1655.3361702127659,
+                            619.125,
+                            1692.1896656534955
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MESS-RUSH"
+                    },
+                    {
+                        "bbox": [
+                            702.0846774193548,
+                            1655.3361702127659,
+                            1126.100806451613,
+                            1692.1896656534955
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rush Messenger Fee"
+                    },
+                    {
+                        "bbox": [
+                            1599.2782258064515,
+                            1655.3361702127659,
+                            1745.225806451613,
+                            1692.1896656534955
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "15.00"
+                    },
+                    {
+                        "bbox": [
+                            1599.2782258064515,
+                            1692.1896656534955,
+                            1745.225806451613,
+                            1722.9009118541035
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    },
+                    {
+                        "bbox": [
+                            138.26612903225808,
+                            1722.9009118541035,
+                            245.80645161290323,
+                            1756.6832826747723
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4/27/99"
+                    },
+                    {
+                        "bbox": [
+                            416.3346774193548,
+                            1722.9009118541035,
+                            619.125,
+                            1756.6832826747723
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Half Day"
+                    },
+                    {
+                        "bbox": [
+                            702.0846774193548,
+                            1722.9009118541035,
+                            1126.100806451613,
+                            1756.6832826747723
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Half Day Casting Rate"
+                    },
+                    {
+                        "bbox": [
+                            1599.2782258064515,
+                            1722.9009118541035,
+                            1745.225806451613,
+                            1756.6832826747723
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "850.00"
+                    },
+                    {
+                        "bbox": [
+                            416.3346774193548,
+                            1756.6832826747723,
+                            619.125,
+                            1792.001215805471
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MESS-RUSH"
+                    },
+                    {
+                        "bbox": [
+                            702.0846774193548,
+                            1756.6832826747723,
+                            1126.100806451613,
+                            1792.001215805471
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rush Messenger Fee"
+                    },
+                    {
+                        "bbox": [
+                            1599.2782258064515,
+                            1756.6832826747723,
+                            1745.225806451613,
+                            1792.001215805471
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "15.00"
+                    },
+                    {
+                        "bbox": [
+                            138.26612903225808,
+                            1655.3361702127659,
+                            319.6082319172376,
+                            1692.1896656534955
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            138.26612903225808,
+                            1692.1896656534955,
+                            319.6082319172376,
+                            1722.9009118541035
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            416.3346774193548,
+                            1692.1896656534955,
+                            619.125,
+                            1722.9009118541035
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            702.0846774193548,
+                            1692.1896656534955,
+                            1184.8261928046059,
+                            1722.9009118541035
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            138.26612903225808,
+                            1756.6832826747723,
+                            319.6082319172376,
+                            1792.001215805471
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

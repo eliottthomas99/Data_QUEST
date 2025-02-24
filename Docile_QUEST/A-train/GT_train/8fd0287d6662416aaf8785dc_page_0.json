@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                331.51209677419354,
+                919.1960802550662,
+                1436.5524193548385,
+                1114.0085106382978
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            478.7101927452818,
+                            921.6542452767029,
+                            641.6325692678356,
+                            953.8517734959763
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1303.5330206225449,
+                            919.1960802550662,
+                            1434.3335038239495,
+                            944.915678607702
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "UNIT PRICE"
+                    },
+                    {
+                        "bbox": [
+                            331.51209677419354,
+                            1066.8547112462006,
+                            595.2483870967742,
+                            1114.0085106382978
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "VHS DUB(O) WITI STOCK"
+                    },
+                    {
+                        "bbox": [
+                            1354.779435483871,
+                            1066.8547112462006,
+                            1436.5524193548385,
+                            1114.0085106382978
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$5.80"
+                    }
+                ]
+            }
+        ]
+    ]
+}

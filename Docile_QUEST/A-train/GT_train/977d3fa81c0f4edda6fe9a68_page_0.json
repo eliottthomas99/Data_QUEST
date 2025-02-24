@@ -1,0 +1,453 @@
+{
+    "TD": [
+        [
+            [
+                106.08387096774194,
+                652.9295625743359,
+                1651.666935483871,
+                1510.3951367781153
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            106.08387096774194,
+                            654.253627593498,
+                            238.26866158101512,
+                            696.6237082066868
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quantity"
+                    },
+                    {
+                        "bbox": [
+                            411.67529862053175,
+                            652.9295625743359,
+                            488.4507562410811,
+                            697.9477732258491
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item"
+                    },
+                    {
+                        "bbox": [
+                            1119.8627094307712,
+                            660.0464120523325,
+                            1262.82390637938,
+                            698.4442976080348
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Unit Price"
+                    },
+                    {
+                        "bbox": [
+                            1565.9545925018938,
+                            661.3704770714946,
+                            1642.730050122443,
+                            702.8863221884499
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cost"
+                    },
+                    {
+                        "bbox": [
+                            106.08387096774194,
+                            828.1386018237083,
+                            147.33870967741936,
+                            879.7130699088146
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3"
+                    },
+                    {
+                        "bbox": [
+                            386.02741935483874,
+                            828.1386018237083,
+                            962.1217741935484,
+                            879.7130699088146
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Assorted Chilled Sot Drinks"
+                    },
+                    {
+                        "bbox": [
+                            1149.241935483871,
+                            828.1386018237083,
+                            1274.4798387096776,
+                            879.7130699088146
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$2.50"
+                    },
+                    {
+                        "bbox": [
+                            1520.5354838709677,
+                            828.1386018237083,
+                            1651.666935483871,
+                            879.7130699088146
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$7.50"
+                    },
+                    {
+                        "bbox": [
+                            106.08387096774194,
+                            879.7130699088146,
+                            147.33870967741936,
+                            938.6553191489362
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2"
+                    },
+                    {
+                        "bbox": [
+                            386.02741935483874,
+                            879.7130699088146,
+                            962.1217741935484,
+                            938.6553191489362
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Non-Sparkling Mineral Water"
+                    },
+                    {
+                        "bbox": [
+                            1149.241935483871,
+                            879.7130699088146,
+                            1274.4798387096776,
+                            938.6553191489362
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.00"
+                    },
+                    {
+                        "bbox": [
+                            1520.5354838709677,
+                            879.7130699088146,
+                            1651.666935483871,
+                            938.6553191489362
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.00"
+                    },
+                    {
+                        "bbox": [
+                            106.08387096774194,
+                            938.6553191489362,
+                            147.33870967741936,
+                            988.7562310030396
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4"
+                    },
+                    {
+                        "bbox": [
+                            386.02741935483874,
+                            938.6553191489362,
+                            962.1217741935484,
+                            988.7562310030396
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "A Slice of Chicago"
+                    },
+                    {
+                        "bbox": [
+                            1149.241935483871,
+                            938.6553191489362,
+                            1274.4798387096776,
+                            988.7562310030396
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.95"
+                    },
+                    {
+                        "bbox": [
+                            1520.5354838709677,
+                            938.6553191489362,
+                            1651.666935483871,
+                            988.7562310030396
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$123.80"
+                    },
+                    {
+                        "bbox": [
+                            106.08387096774194,
+                            1184.7392097264437,
+                            147.33870967741936,
+                            1228.9458966565348
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            386.02741935483874,
+                            1184.7392097264437,
+                            962.1217741935484,
+                            1228.9458966565348
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Room Set-up Fee"
+                    },
+                    {
+                        "bbox": [
+                            1149.241935483871,
+                            1184.7392097264437,
+                            1274.4798387096776,
+                            1228.9458966565348
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$600.00"
+                    },
+                    {
+                        "bbox": [
+                            1520.5354838709677,
+                            1184.7392097264437,
+                            1651.666935483871,
+                            1228.9458966565348
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$600.00"
+                    },
+                    {
+                        "bbox": [
+                            106.08387096774194,
+                            1423.455319148936,
+                            147.33870967741936,
+                            1510.3951367781153
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            386.02741935483874,
+                            1423.455319148936,
+                            962.1217741935484,
+                            1510.3951367781153
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Labor Charge for Groups of Less Than 25 People"
+                    },
+                    {
+                        "bbox": [
+                            1149.241935483871,
+                            1423.455319148936,
+                            1274.4798387096776,
+                            1510.3951367781153
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$45.00"
+                    },
+                    {
+                        "bbox": [
+                            1520.5354838709677,
+                            1423.455319148936,
+                            1651.666935483871,
+                            1510.3951367781153
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$45.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

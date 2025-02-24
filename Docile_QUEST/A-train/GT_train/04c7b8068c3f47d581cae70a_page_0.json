@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                84.19354838709678,
+                735.76192289362,
+                1657.5989306161568,
+                975.8809387521466
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            652.3325935080329,
+                            735.76192289362,
+                            830.7822391485283,
+                            775.4256384134917
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1536.6497263487097,
+                            735.76192289362,
+                            1657.5989306161568,
+                            777.4088241894854
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            84.19354838709678,
+                            938.1236405266171,
+                            574.8387096774193,
+                            975.8809387521466
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5673-1399 Quarterly States Database 4Q 99"
+                    },
+                    {
+                        "bbox": [
+                            1107.5806451612905,
+                            938.1236405266171,
+                            1204.8387096774193,
+                            975.8809387521466
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$838.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

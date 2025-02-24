@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                110.61290322580646,
+                830.4212739177591,
+                1700.8773758532996,
+                1059.5379939209727
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            679.5120465801098,
+                            830.4212739177591,
+                            859.8763552402623,
+                            868.1676954594752
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1577.1390710748226,
+                            830.4212739177591,
+                            1700.8773758532996,
+                            868.1676954594752
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            110.61290322580646,
+                            1013.4711246200608,
+                            293.43145161290323,
+                            1059.5379939209727
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1998 Feed Data"
+                    },
+                    {
+                        "bbox": [
+                            1096.9112903225807,
+                            1013.4711246200608,
+                            1242.858870967742,
+                            1059.5379939209727
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$125,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

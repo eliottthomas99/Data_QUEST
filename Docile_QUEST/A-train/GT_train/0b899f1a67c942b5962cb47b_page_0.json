@@ -1,0 +1,57 @@
+{
+    "TD": [
+        [
+            [
+                311.9966231997936,
+                1066.500936695336,
+                560.7676350445516,
+                1243.80547112462
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            311.9966231997936,
+                            1066.500936695336,
+                            560.7676350445516,
+                            1100.0446190740308
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DATES OF SERVICE"
+                    },
+                    {
+                        "bbox": [
+                            399.43548387096774,
+                            1139.507774813672,
+                            523.875,
+                            1243.80547112462
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8/1/01 10/30/01 8/1/01 8/1/01"
+                    }
+                ]
+            }
+        ]
+    ]
+}

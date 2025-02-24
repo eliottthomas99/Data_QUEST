@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                284.85483870967744,
+                421.5353319057816,
+                1117.0379032258065,
+                551.8650963597431
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            286.44637257421925,
+                            444.4244967880086,
+                            435.3480111810821,
+                            470.40899357601717
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            990.8879032258064,
+                            421.5353319057816,
+                            1089.0009670993445,
+                            470.40899357601717
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CURRENT AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            284.85483870967744,
+                            521.3190578158459,
+                            653.1314516129032,
+                            551.8650963597431
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SUBMISSION FINAL RPT - SN198"
+                    },
+                    {
+                        "bbox": [
+                            990.8879032258064,
+                            521.3190578158459,
+                            1117.0379032258065,
+                            551.8650963597431
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,200.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

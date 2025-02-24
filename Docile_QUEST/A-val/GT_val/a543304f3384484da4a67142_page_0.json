@@ -1,0 +1,1677 @@
+{
+    "TD": [
+        [
+            [
+                253.19032258064516,
+                933.2054579439252,
+                1624.2677419354839,
+                2156.904672897196
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            276.2870145404254,
+                            935.958953271028,
+                            335.95032332822484,
+                            958.9047476635515
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            642.5279407916869,
+                            933.4349158878504,
+                            716.8776025118678,
+                            957.2985420560747
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            797.4230693753973,
+                            935.0411214953272,
+                            857.0863781631966,
+                            958.9047476635515
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            933.2054579439252,
+                            1088.3964368482038,
+                            960.7404112149534
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            968.1644859813084,
+                            356.8354838709678,
+                            1009.6149532710281
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/02/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            968.1644859813084,
+                            722.5548387096775,
+                            1009.6149532710281
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            968.1644859813084,
+                            909.1161290322581,
+                            1009.6149532710281
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            968.1644859813084,
+                            1624.2677419354839,
+                            1009.6149532710281
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PRIMARY 2018"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1009.6149532710281,
+                            356.8354838709678,
+                            1048.1046728971962
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/03/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1009.6149532710281,
+                            722.5548387096775,
+                            1048.1046728971962
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1009.6149532710281,
+                            909.1161290322581,
+                            1048.1046728971962
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1009.6149532710281,
+                            1624.2677419354839,
+                            1048.1046728971962
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1048.1046728971962,
+                            356.8354838709678,
+                            1083.633644859813
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/04/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1048.1046728971962,
+                            722.5548387096775,
+                            1083.633644859813
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1048.1046728971962,
+                            909.1161290322581,
+                            1083.633644859813
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1048.1046728971962,
+                            1624.2677419354839,
+                            1083.633644859813
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1083.633644859813,
+                            356.8354838709678,
+                            1126.5644859813083
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/04/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1083.633644859813,
+                            722.5548387096775,
+                            1126.5644859813083
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1083.633644859813,
+                            909.1161290322581,
+                            1126.5644859813083
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1083.633644859813,
+                            1624.2677419354839,
+                            1126.5644859813083
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1126.5644859813083,
+                            356.8354838709678,
+                            1165.0542056074767
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/05/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1126.5644859813083,
+                            722.5548387096775,
+                            1165.0542056074767
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1126.5644859813083,
+                            909.1161290322581,
+                            1165.0542056074767
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1126.5644859813083,
+                            1624.2677419354839,
+                            1165.0542056074767
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1165.0542056074767,
+                            356.8354838709678,
+                            1202.0635514018693
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/05/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1165.0542056074767,
+                            722.5548387096775,
+                            1202.0635514018693
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1165.0542056074767,
+                            909.1161290322581,
+                            1202.0635514018693
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1165.0542056074767,
+                            1624.2677419354839,
+                            1202.0635514018693
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1202.0635514018693,
+                            356.8354838709678,
+                            1243.5140186915887
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/06/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1202.0635514018693,
+                            722.5548387096775,
+                            1243.5140186915887
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1202.0635514018693,
+                            909.1161290322581,
+                            1243.5140186915887
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1202.0635514018693,
+                            1624.2677419354839,
+                            1243.5140186915887
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1243.5140186915887,
+                            356.8354838709678,
+                            1280.5233644859811
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/06/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1243.5140186915887,
+                            722.5548387096775,
+                            1280.5233644859811
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1243.5140186915887,
+                            909.1161290322581,
+                            1280.5233644859811
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1243.5140186915887,
+                            1624.2677419354839,
+                            1280.5233644859811
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1280.5233644859811,
+                            356.8354838709678,
+                            1319.0130841121495
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/09/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1280.5233644859811,
+                            722.5548387096775,
+                            1319.0130841121495
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1280.5233644859811,
+                            909.1161290322581,
+                            1319.0130841121495
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1280.5233644859811,
+                            1624.2677419354839,
+                            1319.0130841121495
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1319.0130841121495,
+                            356.8354838709678,
+                            1358.9831775700934
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/10/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1319.0130841121495,
+                            722.5548387096775,
+                            1358.9831775700934
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1319.0130841121495,
+                            909.1161290322581,
+                            1358.9831775700934
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1319.0130841121495,
+                            1624.2677419354839,
+                            1358.9831775700934
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT 1 REV2"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1358.9831775700934,
+                            356.8354838709678,
+                            1422.6392523364486
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1358.9831775700934,
+                            722.5548387096775,
+                            1422.6392523364486
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1358.9831775700934,
+                            909.1161290322581,
+                            1422.6392523364486
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1358.9831775700934,
+                            1624.2677419354839,
+                            1422.6392523364486
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1422.6392523364486,
+                            356.8354838709678,
+                            1487.7757009345794
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/11/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1422.6392523364486,
+                            722.5548387096775,
+                            1487.7757009345794
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1422.6392523364486,
+                            909.1161290322581,
+                            1487.7757009345794
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1422.6392523364486,
+                            1624.2677419354839,
+                            1487.7757009345794
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1487.7757009345794,
+                            356.8354838709678,
+                            1558.8336448598131
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1487.7757009345794,
+                            722.5548387096775,
+                            1558.8336448598131
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1487.7757009345794,
+                            909.1161290322581,
+                            1558.8336448598131
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1487.7757009345794,
+                            1624.2677419354839,
+                            1558.8336448598131
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1558.8336448598131,
+                            356.8354838709678,
+                            1623.9700934579441
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/12/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1558.8336448598131,
+                            722.5548387096775,
+                            1623.9700934579441
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1558.8336448598131,
+                            909.1161290322581,
+                            1623.9700934579441
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1558.8336448598131,
+                            1624.2677419354839,
+                            1623.9700934579441
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1623.9700934579441,
+                            356.8354838709678,
+                            1687.626168224299
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1623.9700934579441,
+                            722.5548387096775,
+                            1687.626168224299
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1623.9700934579441,
+                            909.1161290322581,
+                            1687.626168224299
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1623.9700934579441,
+                            1624.2677419354839,
+                            1687.626168224299
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1687.626168224299,
+                            356.8354838709678,
+                            1755.7233644859814
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/13/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1687.626168224299,
+                            722.5548387096775,
+                            1755.7233644859814
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1687.626168224299,
+                            909.1161290322581,
+                            1755.7233644859814
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1687.626168224299,
+                            1624.2677419354839,
+                            1755.7233644859814
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1755.7233644859814,
+                            356.8354838709678,
+                            1819.3794392523366
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1755.7233644859814,
+                            722.5548387096775,
+                            1819.3794392523366
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1755.7233644859814,
+                            909.1161290322581,
+                            1819.3794392523366
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1755.7233644859814,
+                            1624.2677419354839,
+                            1819.3794392523366
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1819.3794392523366,
+                            356.8354838709678,
+                            1887.4766355140187
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/16/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1819.3794392523366,
+                            722.5548387096775,
+                            1887.4766355140187
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1819.3794392523366,
+                            909.1161290322581,
+                            1887.4766355140187
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1819.3794392523366,
+                            1624.2677419354839,
+                            1887.4766355140187
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1887.4766355140187,
+                            356.8354838709678,
+                            1952.6130841121496
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/17/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1887.4766355140187,
+                            722.5548387096775,
+                            1952.6130841121496
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1887.4766355140187,
+                            909.1161290322581,
+                            1952.6130841121496
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1887.4766355140187,
+                            1624.2677419354839,
+                            1952.6130841121496
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1952.6130841121496,
+                            356.8354838709678,
+                            2019.2299065420561
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/18/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            1952.6130841121496,
+                            722.5548387096775,
+                            2019.2299065420561
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            1952.6130841121496,
+                            909.1161290322581,
+                            2019.2299065420561
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            1952.6130841121496,
+                            1624.2677419354839,
+                            2019.2299065420561
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2019.2299065420561,
+                            356.8354838709678,
+                            2085.846728971963
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/19/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            2019.2299065420561,
+                            722.5548387096775,
+                            2085.846728971963
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            2019.2299065420561,
+                            909.1161290322581,
+                            2085.846728971963
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$000"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2019.2299065420561,
+                            1624.2677419354839,
+                            2085.846728971963
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2085.846728971963,
+                            356.8354838709678,
+                            2156.904672897196
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "04/19/18"
+                    },
+                    {
+                        "bbox": [
+                            633.7161290322581,
+                            2085.846728971963,
+                            722.5548387096775,
+                            2156.904672897196
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "576957"
+                    },
+                    {
+                        "bbox": [
+                            843.9677419354838,
+                            2085.846728971963,
+                            909.1161290322581,
+                            2156.904672897196
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$0.00"
+                    },
+                    {
+                        "bbox": [
+                            987.5903225806453,
+                            2085.846728971963,
+                            1624.2677419354839,
+                            2156.904672897196
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "JUDGE KYLE HEDRICK PRIMARY SPOT2 REV 2 EARLY VOTIN"
+                    }
+                ]
+            }
+        ]
+    ]
+}

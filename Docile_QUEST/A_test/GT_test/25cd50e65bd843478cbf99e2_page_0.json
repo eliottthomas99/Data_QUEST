@@ -1,0 +1,669 @@
+{
+    "TD": [
+        [
+            [
+                228.6290322580645,
+                907.857789269554,
+                1588.9717741935483,
+                1590.3839689722042
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            907.857789269554,
+                            327.9823853989813,
+                            944.1602152672093
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Invoice"
+                    },
+                    {
+                        "bbox": [
+                            499.9515280135823,
+                            909.9129849363892,
+                            558.456494057725,
+                            943.7802197802198
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Job"
+                    },
+                    {
+                        "bbox": [
+                            700.286714770798,
+                            909.9129849363892,
+                            859.8457130730051,
+                            941.7983205364075
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1430.712351443124,
+                            907.857789269554,
+                            1544.1765280135824,
+                            945.3411356030763
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            994.3981900452488,
+                            431.1290322580645,
+                            1033.5862960568843
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PR02-019736"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            994.3981900452488,
+                            599.3346774193549,
+                            1033.5862960568843
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "B6307"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            994.3981900452488,
+                            1221.532258064516,
+                            1033.5862960568843
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Miscellaneous Audio/Visual"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            994.3981900452488,
+                            1588.9717741935483,
+                            1033.5862960568843
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 340.32"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            1033.5862960568843,
+                            431.1290322580645,
+                            1079.3057530704589
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PR02-019737"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            1033.5862960568843,
+                            599.3346774193549,
+                            1079.3057530704589
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "B6309"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            1033.5862960568843,
+                            1221.532258064516,
+                            1079.3057530704589
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Dubs and Shipping"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            1033.5862960568843,
+                            1588.9717741935483,
+                            1079.3057530704589
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 251.96"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            1079.3057530704589,
+                            431.1290322580645,
+                            1118.4938590820943
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PR02-019738"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            1079.3057530704589,
+                            599.3346774193549,
+                            1118.4938590820943
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "L6242"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            1079.3057530704589,
+                            1221.532258064516,
+                            1118.4938590820943
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2001 Talent & Residuals"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            1079.3057530704589,
+                            1588.9717741935483,
+                            1118.4938590820943
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 7,575.26"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            1118.4938590820943,
+                            431.1290322580645,
+                            1167.4789915966387
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PR02-019739"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            1118.4938590820943,
+                            599.3346774193549,
+                            1167.4789915966387
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "P6685"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            1118.4938590820943,
+                            1221.532258064516,
+                            1167.4789915966387
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Miscellaneous Travel"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            1118.4938590820943,
+                            1588.9717741935483,
+                            1167.4789915966387
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 355.03"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            1167.4789915966387,
+                            431.1290322580645,
+                            1206.6670976082742
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PR02-019741"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            1167.4789915966387,
+                            599.3346774193549,
+                            1206.6670976082742
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "T6429"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            1167.4789915966387,
+                            1221.532258064516,
+                            1206.6670976082742
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Piercing Parlor Retag"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            1167.4789915966387,
+                            1588.9717741935483,
+                            1206.6670976082742
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 4,555.24"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            1206.6670976082742,
+                            431.1290322580645,
+                            1240.956690368455
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PR02-019799"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            1206.6670976082742,
+                            599.3346774193549,
+                            1240.956690368455
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "P6687"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            1206.6670976082742,
+                            1221.532258064516,
+                            1240.956690368455
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Miscellaneous"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            1206.6670976082742,
+                            1588.9717741935483,
+                            1240.956690368455
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 2,303.35"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            1379.7478991596638,
+                            431.1290322580645,
+                            1420.5688429217842
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "OH02-019676"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            1379.7478991596638,
+                            599.3346774193549,
+                            1420.5688429217842
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "n/a"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            1379.7478991596638,
+                            1221.532258064516,
+                            1420.5688429217842
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Media - Outdoor Services (Astrovision)"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            1379.7478991596638,
+                            1588.9717741935483,
+                            1420.5688429217842
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 5,125.75"
+                    },
+                    {
+                        "bbox": [
+                            228.6290322580645,
+                            1549.563025210084,
+                            431.1290322580645,
+                            1590.3839689722042
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "220437"
+                    },
+                    {
+                        "bbox": [
+                            493.18548387096774,
+                            1549.563025210084,
+                            599.3346774193549,
+                            1590.3839689722042
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "80048"
+                    },
+                    {
+                        "bbox": [
+                            692.4193548387096,
+                            1549.563025210084,
+                            1221.532258064516,
+                            1590.3839689722042
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Pre-Bill for remaining 2001 Budget"
+                    },
+                    {
+                        "bbox": [
+                            1358.7096774193549,
+                            1549.563025210084,
+                            1588.9717741935483,
+                            1590.3839689722042
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 173,829.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

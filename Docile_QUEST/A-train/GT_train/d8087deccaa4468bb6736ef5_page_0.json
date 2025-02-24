@@ -1,0 +1,597 @@
+{
+    "TD": [
+        [
+            [
+                98.71693548387097,
+                806.3760935315601,
+                1633.9862903225808,
+                1364.7575953458306
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            372.0969500750059,
+                            807.1755411119248,
+                            557.526891249742,
+                            835.955654005053
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            899.2180188076827,
+                            806.3760935315601,
+                            1017.300896434635,
+                            838.353996746147
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY/HRS"
+                    },
+                    {
+                        "bbox": [
+                            1188.8220842378885,
+                            807.9749886922895,
+                            1267.9944186720456,
+                            836.7551015854176
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "RATE"
+                    },
+                    {
+                        "bbox": [
+                            1451.340877361672,
+                            806.4502671518568,
+                            1543.5461714770795,
+                            834.8897401627029
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TOTAL"
+                    },
+                    {
+                        "bbox": [
+                            98.71693548387097,
+                            853.3419521654815,
+                            802.9959677419355,
+                            1003.6716224951518
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ONE-CAMERA, THREE-HOUR REMOTE SMT PRODUCTION PACKAGE - ASPEN, CO (INCLUDES SATELLITE TRUCK AND OPERATOR, CAMERA CREW AND EQUIPMENT, IFB COORDINATOR, GENERATOR, PHONE USAGE TAPESTOCK AND MAKE-UP)"
+                    },
+                    {
+                        "bbox": [
+                            1016.6370967741934,
+                            853.3419521654815,
+                            1096.2,
+                            1003.6716224951518
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1211.1241935483872,
+                            853.3419521654815,
+                            1336.3620967741936,
+                            1003.6716224951518
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12 250,00"
+                    },
+                    {
+                        "bbox": [
+                            1492.541129032258,
+                            853.3419521654815,
+                            1633.9862903225808,
+                            1003.6716224951518
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12.250,00"
+                    },
+                    {
+                        "bbox": [
+                            98.71693548387097,
+                            1003.6716224951518,
+                            802.9959677419355,
+                            1087.6793794440855
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SATELLITE TRANSPONDER SPACE (INCLUDES 15-MINUTE PRE-TEST AND THREE-HOUR INTERVIEW WINDOW)"
+                    },
+                    {
+                        "bbox": [
+                            1016.6370967741934,
+                            1003.6716224951518,
+                            1096.2,
+                            1087.6793794440855
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3.25"
+                    },
+                    {
+                        "bbox": [
+                            1211.1241935483872,
+                            1003.6716224951518,
+                            1336.3620967741936,
+                            1087.6793794440855
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "750.00"
+                    },
+                    {
+                        "bbox": [
+                            1492.541129032258,
+                            1003.6716224951518,
+                            1633.9862903225808,
+                            1087.6793794440855
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,437.50"
+                    },
+                    {
+                        "bbox": [
+                            98.71693548387097,
+                            1087.6793794440855,
+                            802.9959677419355,
+                            1120.1034259857788
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "NIELSEN AND VMS MONITORING"
+                    },
+                    {
+                        "bbox": [
+                            1016.6370967741934,
+                            1087.6793794440855,
+                            1096.2,
+                            1120.1034259857788
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1211.1241935483872,
+                            1087.6793794440855,
+                            1336.3620967741936,
+                            1120.1034259857788
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,964.75"
+                    },
+                    {
+                        "bbox": [
+                            1492.541129032258,
+                            1087.6793794440855,
+                            1633.9862903225808,
+                            1120.1034259857788
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1,964.75"
+                    },
+                    {
+                        "bbox": [
+                            98.71693548387097,
+                            1120.1034259857788,
+                            802.9959677419355,
+                            1176.108597285068
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TELEPHONE PITCHING AND FOLLOW-UP TO BOOK SATELLITE INTERVIEWS"
+                    },
+                    {
+                        "bbox": [
+                            1016.6370967741934,
+                            1120.1034259857788,
+                            1096.2,
+                            1176.108597285068
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "20.5"
+                    },
+                    {
+                        "bbox": [
+                            1211.1241935483872,
+                            1120.1034259857788,
+                            1336.3620967741936,
+                            1176.108597285068
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "109.00"
+                    },
+                    {
+                        "bbox": [
+                            1492.541129032258,
+                            1120.1034259857788,
+                            1633.9862903225808,
+                            1176.108597285068
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2,234.50"
+                    },
+                    {
+                        "bbox": [
+                            98.71693548387097,
+                            1176.108597285068,
+                            802.9959677419355,
+                            1205.585003232062
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PRODUCING"
+                    },
+                    {
+                        "bbox": [
+                            1016.6370967741934,
+                            1176.108597285068,
+                            1096.2,
+                            1205.585003232062
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0"
+                    },
+                    {
+                        "bbox": [
+                            1211.1241935483872,
+                            1176.108597285068,
+                            1336.3620967741936,
+                            1205.585003232062
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "165.00"
+                    },
+                    {
+                        "bbox": [
+                            1492.541129032258,
+                            1176.108597285068,
+                            1633.9862903225808,
+                            1205.585003232062
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    },
+                    {
+                        "bbox": [
+                            98.71693548387097,
+                            1205.585003232062,
+                            802.9959677419355,
+                            1294.0142210730446
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "RESULTS REPORTING (INCLUDES FIVE DAILY AND 12 WEEKLY RESULTS REPORTS WITH NIELSEN AUDIENCE NUMBERS)"
+                    },
+                    {
+                        "bbox": [
+                            1016.6370967741934,
+                            1205.585003232062,
+                            1096.2,
+                            1294.0142210730446
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0"
+                    },
+                    {
+                        "bbox": [
+                            1211.1241935483872,
+                            1205.585003232062,
+                            1336.3620967741936,
+                            1294.0142210730446
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "125.00"
+                    },
+                    {
+                        "bbox": [
+                            1492.541129032258,
+                            1205.585003232062,
+                            1633.9862903225808,
+                            1294.0142210730446
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    },
+                    {
+                        "bbox": [
+                            98.71693548387097,
+                            1294.0142210730446,
+                            802.9959677419355,
+                            1364.7575953458306
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TRAVEL EXPENSES (ACTUAL BILLED AT COST UPON COMPLETION OF PROJECT)"
+                    },
+                    {
+                        "bbox": [
+                            1016.6370967741934,
+                            1294.0142210730446,
+                            1096.2,
+                            1364.7575953458306
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1"
+                    },
+                    {
+                        "bbox": [
+                            1211.1241935483872,
+                            1294.0142210730446,
+                            1336.3620967741936,
+                            1364.7575953458306
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    },
+                    {
+                        "bbox": [
+                            1492.541129032258,
+                            1294.0142210730446,
+                            1633.9862903225808,
+                            1364.7575953458306
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

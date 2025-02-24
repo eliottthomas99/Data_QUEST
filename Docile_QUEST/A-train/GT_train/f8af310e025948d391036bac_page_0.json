@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                379.4895161290322,
+                791.046917570285,
+                1763.0758064516128,
+                945.2193995381062
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            739.9715464695225,
+                            794.8424876979639,
+                            961.9498440669189,
+                            825.2070487193954
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1548.2002197728632,
+                            791.046917570285,
+                            1688.5967498771993,
+                            823.3092636555558
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            379.4895161290322,
+                            905.3429561200924,
+                            720.5870967741936,
+                            945.2193995381062
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spreadsheet billing 3/15/01"
+                    },
+                    {
+                        "bbox": [
+                            1615.414516129032,
+                            905.3429561200924,
+                            1763.0758064516128,
+                            945.2193995381062
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "131,688.10"
+                    }
+                ]
+            }
+        ]
+    ]
+}

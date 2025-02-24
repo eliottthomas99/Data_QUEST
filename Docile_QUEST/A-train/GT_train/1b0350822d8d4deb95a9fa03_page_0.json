@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                285.19354838709677,
+                423.7860962566845,
+                1097.9951612903226,
+                554.1818181818181
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            286.7728706052918,
+                            450.49623222281866,
+                            432.2994019572309,
+                            474.03760302781154
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            988.7243747734686,
+                            423.7860962566845,
+                            1083.958648967017,
+                            476.1777276464473
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CURRENT AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            285.19354838709677,
+                            525.6577540106952,
+                            662.0564516129032,
+                            554.1818181818181
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "P.O.NO. 21745 \"NINE MONTHS''"
+                    },
+                    {
+                        "bbox": [
+                            985.9548387096775,
+                            525.6577540106952,
+                            1097.9951612903226,
+                            554.1818181818181
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5,500.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

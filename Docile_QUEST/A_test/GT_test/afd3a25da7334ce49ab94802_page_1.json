@@ -1,0 +1,525 @@
+{
+    "TD": [
+        [
+            [
+                267.31451612903226,
+                760.501278819779,
+                1583.9153225806451,
+                1220.772036474164
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 1,
+                "data": [
+                    {
+                        "bbox": [
+                            267.31451612903226,
+                            764.7100303951368,
+                            457.1739395591781,
+                            803.9464563718585
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Party Name"
+                    },
+                    {
+                        "bbox": [
+                            819.9152293077718,
+                            760.501278819779,
+                            1014.776252726438,
+                            839.9010860701312
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "% Share of Payment"
+                    },
+                    {
+                        "bbox": [
+                            1103.2131787395247,
+                            764.7100303951368,
+                            1235.119102284468,
+                            835.406757357847
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount Due"
+                    },
+                    {
+                        "bbox": [
+                            1382.6612903225807,
+                            796.4559085180517,
+                            1482.4427089312364,
+                            830.9124286455631
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Totals"
+                    },
+                    {
+                        "bbox": [
+                            267.31451612903226,
+                            839.9525835866261,
+                            775.8266129032259,
+                            881.4127659574468
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "States\u00b4 Antitrust/Consumer"
+                    },
+                    {
+                        "bbox": [
+                            940.2096774193548,
+                            839.9525835866261,
+                            1060.0403225806451,
+                            881.4127659574468
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "50.00%"
+                    },
+                    {
+                        "bbox": [
+                            1096.9112903225807,
+                            839.9525835866261,
+                            1284.3387096774193,
+                            881.4127659574468
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$46,277.82"
+                    },
+                    {
+                        "bbox": [
+                            267.31451612903226,
+                            962.7975683890578,
+                            775.8266129032259,
+                            1016.5422492401216
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Total for Settling States"
+                    },
+                    {
+                        "bbox": [
+                            1382.6612903225807,
+                            962.7975683890578,
+                            1583.9153225806451,
+                            1016.5422492401216
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$46,277.82"
+                    },
+                    {
+                        "bbox": [
+                            267.31451612903226,
+                            1016.5422492401216,
+                            775.8266129032259,
+                            1067.2158054711247
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Philip Morris Incorporated"
+                    },
+                    {
+                        "bbox": [
+                            940.2096774193548,
+                            1016.5422492401216,
+                            1060.0403225806451,
+                            1067.2158054711247
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.63%"
+                    },
+                    {
+                        "bbox": [
+                            1096.9112903225807,
+                            1016.5422492401216,
+                            1284.3387096774193,
+                            1067.2158054711247
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23,722.01"
+                    },
+                    {
+                        "bbox": [
+                            267.31451612903226,
+                            1067.2158054711247,
+                            775.8266129032259,
+                            1117.8893617021276
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "R.J. Reynolds Tobacco Co."
+                    },
+                    {
+                        "bbox": [
+                            940.2096774193548,
+                            1067.2158054711247,
+                            1060.0403225806451,
+                            1117.8893617021276
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11.98%"
+                    },
+                    {
+                        "bbox": [
+                            1096.9112903225807,
+                            1067.2158054711247,
+                            1284.3387096774193,
+                            1117.8893617021276
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11,088.16"
+                    },
+                    {
+                        "bbox": [
+                            267.31451612903226,
+                            1117.8893617021276,
+                            775.8266129032259,
+                            1171.6340425531914
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Brown & Williamson Tobacco Co."
+                    },
+                    {
+                        "bbox": [
+                            940.2096774193548,
+                            1117.8893617021276,
+                            1060.0403225806451,
+                            1171.6340425531914
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "6.97%"
+                    },
+                    {
+                        "bbox": [
+                            1096.9112903225807,
+                            1117.8893617021276,
+                            1284.3387096774193,
+                            1171.6340425531914
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "6,451.13"
+                    },
+                    {
+                        "bbox": [
+                            267.31451612903226,
+                            1171.6340425531914,
+                            775.8266129032259,
+                            1220.772036474164
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Lorillard Tobacco Company"
+                    },
+                    {
+                        "bbox": [
+                            940.2096774193548,
+                            1171.6340425531914,
+                            1060.0403225806451,
+                            1220.772036474164
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5.42%"
+                    },
+                    {
+                        "bbox": [
+                            1096.9112903225807,
+                            1171.6340425531914,
+                            1284.3387096774193,
+                            1220.772036474164
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5,016.52"
+                    },
+                    {
+                        "bbox": [
+                            1382.6612903225807,
+                            839.9525835866261,
+                            1583.9153225806451,
+                            881.4127659574468
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            819.9152293077718,
+                            962.7975683890578,
+                            1060.0403225806451,
+                            1016.5422492401216
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            1096.9112903225807,
+                            962.7975683890578,
+                            1284.3387096774193,
+                            1016.5422492401216
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            1382.6612903225807,
+                            1016.5422492401216,
+                            1583.9153225806451,
+                            1067.2158054711247
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            1382.6612903225807,
+                            1067.2158054711247,
+                            1583.9153225806451,
+                            1117.8893617021276
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            1382.6612903225807,
+                            1117.8893617021276,
+                            1583.9153225806451,
+                            1171.6340425531914
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    },
+                    {
+                        "bbox": [
+                            1382.6612903225807,
+                            1171.6340425531914,
+                            1583.9153225806451,
+                            1220.772036474164
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

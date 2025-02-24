@@ -1,0 +1,921 @@
+{
+    "TD": [
+        [
+            [
+                201.36774193548388,
+                723.9587934784441,
+                1570.059613702806,
+                1780.1472239550842
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            711.4907148746909,
+                            723.9587934784441,
+                            880.6306264211289,
+                            749.7159043010571
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1454.235543839484,
+                            723.9587934784441,
+                            1570.059613702806,
+                            749.7159043010571
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            870.0636306924516,
+                            838.0451612903227,
+                            904.154709918902
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Processing/QC/File Build"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            870.0636306924516,
+                            1085.3129032258066,
+                            904.154709918902
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            904.154709918902,
+                            838.0451612903227,
+                            936.7635683094198
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Exploratory Analysis"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            904.154709918902,
+                            1085.3129032258066,
+                            936.7635683094198
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 5,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            936.7635683094198,
+                            838.0451612903227,
+                            969.3724266999376
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Modeling/Testing (13 segments)"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            936.7635683094198,
+                            1085.3129032258066,
+                            969.3724266999376
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$52,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            969.3724266999376,
+                            838.0451612903227,
+                            1003.4635059263879
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Analytical Presentation materials"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            969.3724266999376,
+                            1085.3129032258066,
+                            1003.4635059263879
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$10,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1003.4635059263879,
+                            838.0451612903227,
+                            1039.036805988771
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Financial Analysis"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1003.4635059263879,
+                            1085.3129032258066,
+                            1039.036805988771
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$10,500.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1098.3256394260761,
+                            838.0451612903227,
+                            1130.9344978165939
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Processing/QC/File Build"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1098.3256394260761,
+                            1085.3129032258066,
+                            1130.9344978165939
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1130.9344978165939,
+                            838.0451612903227,
+                            1165.0255770430442
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Exploratory Analysis"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1130.9344978165939,
+                            1085.3129032258066,
+                            1165.0255770430442
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 5,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1165.0255770430442,
+                            838.0451612903227,
+                            1199.1166562694946
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Modeling/Testing on ASG 1 by Loyalty groups"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1165.0255770430442,
+                            1085.3129032258066,
+                            1199.1166562694946
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1199.1166562694946,
+                            838.0451612903227,
+                            1230.24329382408
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Initial ''Sell-in'' Presentation (preview of COT)"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1199.1166562694946,
+                            1085.3129032258066,
+                            1230.24329382408
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$10,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1230.24329382408,
+                            838.0451612903227,
+                            1259.8877105427323
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Modeling/Testing (11 segments)"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1230.24329382408,
+                            1085.3129032258066,
+                            1259.8877105427323
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$44,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1259.8877105427323,
+                            838.0451612903227,
+                            1292.49656893325
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Detail Analytical Presentation (Research focused)"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1259.8877105427323,
+                            1085.3129032258066,
+                            1292.49656893325
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$15,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1292.49656893325,
+                            838.0451612903227,
+                            1326.5876481597006
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Higher Level Presentation (Brand Mgr focused)"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1292.49656893325,
+                            1085.3129032258066,
+                            1326.5876481597006
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$10,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1326.5876481597006,
+                            838.0451612903227,
+                            1359.1965065502184
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Financial Analysis"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1326.5876481597006,
+                            1085.3129032258066,
+                            1359.1965065502184
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$10,500.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1359.1965065502184,
+                            838.0451612903227,
+                            1393.2875857766687
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Modeling/Testing Across Segments"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1359.1965065502184,
+                            1085.3129032258066,
+                            1393.2875857766687
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 7,500.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1393.2875857766687,
+                            838.0451612903227,
+                            1424.4142233312539
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Testing of Interactions"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1393.2875857766687,
+                            1085.3129032258066,
+                            1424.4142233312539
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 5,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1424.4142233312539,
+                            838.0451612903227,
+                            1458.5053025577042
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Optimization Spreadsheet"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1424.4142233312539,
+                            1085.3129032258066,
+                            1458.5053025577042
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$40,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1458.5053025577042,
+                            838.0451612903227,
+                            1486.6674984404242
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Coefficient Adjustment Analysis (ranking Smoothing, etc.)"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1458.5053025577042,
+                            1085.3129032258066,
+                            1486.6674984404242
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$22,250.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1486.6674984404242,
+                            838.0451612903227,
+                            1519.276356830942
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Optimization Scenarios"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1486.6674984404242,
+                            1085.3129032258066,
+                            1519.276356830942
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$25,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1580.0474111041794,
+                            838.0451612903227,
+                            1615.6207111665626
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Processing/QC/File Build"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1580.0474111041794,
+                            1085.3129032258066,
+                            1615.6207111665626
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 7,500.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1615.6207111665626,
+                            838.0451612903227,
+                            1648.2295695570806
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Exploratory Analysis"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1615.6207111665626,
+                            1085.3129032258066,
+                            1648.2295695570806
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 5,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1648.2295695570806,
+                            838.0451612903227,
+                            1679.3562071116655
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "New Segmentation Analysis (CART)"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1648.2295695570806,
+                            1085.3129032258066,
+                            1679.3562071116655
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$11,750.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1679.3562071116655,
+                            838.0451612903227,
+                            1711.9650655021835
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Modeling/Testing"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1679.3562071116655,
+                            1085.3129032258066,
+                            1711.9650655021835
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$10,000.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1711.9650655021835,
+                            838.0451612903227,
+                            1743.0917030567687
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Detail Analytical Presentation"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1711.9650655021835,
+                            1085.3129032258066,
+                            1743.0917030567687
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 7,500.00"
+                    },
+                    {
+                        "bbox": [
+                            201.36774193548388,
+                            1743.0917030567687,
+                            838.0451612903227,
+                            1780.1472239550842
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Financial Analysis"
+                    },
+                    {
+                        "bbox": [
+                            955.016129032258,
+                            1743.0917030567687,
+                            1085.3129032258066,
+                            1780.1472239550842
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 7,500.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

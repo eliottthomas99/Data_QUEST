@@ -1,0 +1,453 @@
+{
+    "TD": [
+        [
+            [
+                335.81935483870967,
+                684.1697691734922,
+                1610.1338709677418,
+                987.4758004467611
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            335.81935483870967,
+                            691.0945644080417,
+                            437.55629480286746,
+                            711.0
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line-Schd."
+                    },
+                    {
+                        "bbox": [
+                            437.76451612903224,
+                            690.0,
+                            487.4044802867384,
+                            711.8689501116902
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ITEM"
+                    },
+                    {
+                        "bbox": [
+                            656.6467741935484,
+                            684.1697691734922,
+                            779.5702340949821,
+                            711.0
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1006.6564124103944,
+                            686.9396872673119,
+                            1102.1987679211468,
+                            710.4839910647804
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            1122.8959677419355,
+                            688.3246463142219,
+                            1181.1250616039429,
+                            711.0
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "UOM"
+                    },
+                    {
+                        "bbox": [
+                            1201.895138888889,
+                            685.5547282204021,
+                            1296.0528225806452,
+                            710.4839910647804
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PO Price"
+                    },
+                    {
+                        "bbox": [
+                            1341.7469926075269,
+                            688.3246463142219,
+                            1487.1375336021506,
+                            709.0990320178704
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Extended Amt"
+                    },
+                    {
+                        "bbox": [
+                            1508.1887096774194,
+                            690.0,
+                            1610.1338709677418,
+                            711.0
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Due Date"
+                    },
+                    {
+                        "bbox": [
+                            335.81935483870967,
+                            729.0,
+                            418.27500000000003,
+                            754.5
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1 - 1"
+                    },
+                    {
+                        "bbox": [
+                            437.76451612903224,
+                            729.0,
+                            502.2298387096774,
+                            754.5
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "B0987"
+                    },
+                    {
+                        "bbox": [
+                            656.6467741935484,
+                            729.0,
+                            990.966935483871,
+                            778.3469843633656
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1G 3-AMINOBIPHENYL SAME LOT NUMBER REQUlRED"
+                    },
+                    {
+                        "bbox": [
+                            1059.9298387096774,
+                            729.0,
+                            1106.4048387096775,
+                            754.5
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2.00"
+                    },
+                    {
+                        "bbox": [
+                            1122.8959677419355,
+                            729.0,
+                            1157.3774193548386,
+                            754.5
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EA"
+                    },
+                    {
+                        "bbox": [
+                            1212.8475806451613,
+                            729.0,
+                            1272.8153225806452,
+                            754.5
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "69.55"
+                    },
+                    {
+                        "bbox": [
+                            1386.3792338709677,
+                            729.0,
+                            1455.7169354838709,
+                            754.5
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "139.10"
+                    },
+                    {
+                        "bbox": [
+                            1508.1887096774194,
+                            729.0,
+                            1610.1338709677418,
+                            754.5
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19-Mar-01"
+                    },
+                    {
+                        "bbox": [
+                            335.81935483870967,
+                            876.0,
+                            418.27500000000003,
+                            900.0
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "2 - 1"
+                    },
+                    {
+                        "bbox": [
+                            656.6467741935484,
+                            876.0,
+                            990.966935483871,
+                            987.4758004467611
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DATAPOST CHARGE FOR DIRECT SHIPMENT OF 1G TO GERMANY FAO. DR G. SCHEPEIS, INBIFO GmbH, FUGGERSTRASSE 3 COLOGNE D-51149, GERMANY"
+                    },
+                    {
+                        "bbox": [
+                            1059.9298387096774,
+                            876.0,
+                            1106.4048387096775,
+                            900.0
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.00"
+                    },
+                    {
+                        "bbox": [
+                            1122.8959677419355,
+                            876.0,
+                            1157.3774193548386,
+                            900.0
+                        ],
+                        "column_nums": [
+                            4
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EA"
+                    },
+                    {
+                        "bbox": [
+                            1212.8475806451613,
+                            876.0,
+                            1272.8153225806452,
+                            900.0
+                        ],
+                        "column_nums": [
+                            5
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "20.00"
+                    },
+                    {
+                        "bbox": [
+                            1386.3792338709677,
+                            876.0,
+                            1455.7169354838709,
+                            900.0
+                        ],
+                        "column_nums": [
+                            6
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "20.00"
+                    },
+                    {
+                        "bbox": [
+                            1508.1887096774194,
+                            876.0,
+                            1610.1338709677418,
+                            900.0
+                        ],
+                        "column_nums": [
+                            7
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19-Mar-01"
+                    },
+                    {
+                        "bbox": [
+                            437.76451612903224,
+                            876.0,
+                            502.2298387096774,
+                            987.4758004467611
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

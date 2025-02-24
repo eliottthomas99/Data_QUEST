@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                150.69677419354838,
+                1041.6252886836028,
+                1696.0774193548386,
+                1150.9590069284066
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            624.0804121584549,
+                            1041.6252886836028,
+                            818.2031262852626,
+                            1080.5662852260164
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1453.5138270639054,
+                            1046.8765751027775,
+                            1577.0464633264194,
+                            1075.753469494125
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            150.69677419354838,
+                            1108.1120092378753,
+                            1001.6903225806451,
+                            1150.9590069284066
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Out of pocket expenses including Travel, Lodging, & Meals"
+                    },
+                    {
+                        "bbox": [
+                            1546.858064516129,
+                            1108.1120092378753,
+                            1696.0774193548386,
+                            1150.9590069284066
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "46,129.70"
+                    }
+                ]
+            }
+        ]
+    ]
+}

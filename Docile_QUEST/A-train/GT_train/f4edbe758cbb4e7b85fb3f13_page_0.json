@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                389.1870649975927,
+                1196.7420814479638,
+                1385.2882243620609,
+                1342.650290885585
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            389.1870649975927,
+                            1199.7039883597636,
+                            632.7691791044776,
+                            1239.1668162768858
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            904.9279658160809,
+                            1199.7039883597636,
+                            1021.9562441020704,
+                            1239.1668162768858
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PRICE"
+                    },
+                    {
+                        "bbox": [
+                            1219.9645161290323,
+                            1196.7420814479638,
+                            1385.2882243620609,
+                            1236.445241937774
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            411.075,
+                            1301.383322559793,
+                            598.1951612903225,
+                            1342.650290885585
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "STAGE MRG."
+                    },
+                    {
+                        "bbox": [
+                            920.866935483871,
+                            1301.383322559793,
+                            1051.9983870967742,
+                            1342.650290885585
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1250.00"
+                    },
+                    {
+                        "bbox": [
+                            1219.9645161290323,
+                            1301.383322559793,
+                            1352.5693548387098,
+                            1342.650290885585
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1250.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

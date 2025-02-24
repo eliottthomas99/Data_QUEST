@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                160.11821181018394,
+                900.3110205224041,
+                522.0661023727006,
+                987.4595992243052
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            160.11821181018394,
+                            900.3110205224041,
+                            262.37858237803255,
+                            932.6091737250016
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quantity"
+                    },
+                    {
+                        "bbox": [
+                            348.4925786456945,
+                            904.3482896727287,
+                            522.0661023727006,
+                            932.6091737250016
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product Nane"
+                    },
+                    {
+                        "bbox": [
+                            195.96048387096772,
+                            955.0355526826115,
+                            237.2153225806452,
+                            987.4595992243052
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "01"
+                    },
+                    {
+                        "bbox": [
+                            346.2459677419355,
+                            955.0355526826115,
+                            498.0048387096774,
+                            987.4595992243052
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Fabrication"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                66.36384207992297,
+                870.3025210084033,
+                1887.8225806451612,
+                1133.1893988364577
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            66.36384207992297,
+                            873.6593825341581,
+                            218.69902503610982,
+                            906.8267792826507
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CANS/UNITS"
+                    },
+                    {
+                        "bbox": [
+                            743.5766851227733,
+                            870.6441646479313,
+                            900.4366754935003,
+                            905.3191703395373
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1695.1209677419354,
+                            870.3025210084033,
+                            1811.431234954261,
+                            906.8267792826507
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            153.50806451612902,
+                            1090.7356173238527,
+                            228.6290322580645,
+                            1133.1893988364577
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "335"
+                    },
+                    {
+                        "bbox": [
+                            293.95161290322585,
+                            1090.7356173238527,
+                            620.5645161290323,
+                            1133.1893988364577
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "For June, 2002"
+                    },
+                    {
+                        "bbox": [
+                            1695.1209677419354,
+                            1090.7356173238527,
+                            1887.8225806451612,
+                            1133.1893988364577
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$60.30"
+                    }
+                ]
+            }
+        ]
+    ]
+}

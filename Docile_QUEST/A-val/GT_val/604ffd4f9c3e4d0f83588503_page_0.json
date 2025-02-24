@@ -1,0 +1,2235 @@
+{
+    "TD": [
+        [
+            [
+                209.03225806451613,
+                836.3304094926104,
+                1800.774193548387,
+                2163.0061979510556
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            278.3917267949779,
+                            842.9469475423937,
+                            344.050152925869,
+                            870.7364073514836
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            753.758731982629,
+                            836.3304094926104,
+                            912.6521232193853,
+                            872.0597149614404
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1718.937596106727,
+                            838.9770247125238,
+                            1787.2223592828536,
+                            866.7664845216136
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cost"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            892.4471896232243,
+                            340.6451612903226,
+                            922.0914144533663
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/25/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            892.4471896232243,
+                            817.5483870967741,
+                            922.0914144533663
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            892.4471896232243,
+                            1800.774193548387,
+                            922.0914144533663
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            922.0914144533663,
+                            340.6451612903226,
+                            954.8560840024707
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/25/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            922.0914144533663,
+                            817.5483870967741,
+                            954.8560840024707
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            922.0914144533663,
+                            1800.774193548387,
+                            954.8560840024707
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            954.8560840024707,
+                            340.6451612903226,
+                            984.5003088326127
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/25/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            954.8560840024707,
+                            817.5483870967741,
+                            984.5003088326127
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            954.8560840024707,
+                            1800.774193548387,
+                            984.5003088326127
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            984.5003088326127,
+                            340.6451612903226,
+                            1017.2649783817171
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/25/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            984.5003088326127,
+                            817.5483870967741,
+                            1017.2649783817171
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            984.5003088326127,
+                            1800.774193548387,
+                            1017.2649783817171
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1017.2649783817171,
+                            340.6451612903226,
+                            1050.0296479308215
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/25/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1017.2649783817171,
+                            817.5483870967741,
+                            1050.0296479308215
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1017.2649783817171,
+                            1800.774193548387,
+                            1050.0296479308215
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1050.0296479308215,
+                            340.6451612903226,
+                            1081.2340951204446
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/25/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1050.0296479308215,
+                            817.5483870967741,
+                            1081.2340951204446
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1050.0296479308215,
+                            1800.774193548387,
+                            1081.2340951204446
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1081.2340951204446,
+                            340.6451612903226,
+                            1113.998764669549
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/25/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1081.2340951204446,
+                            817.5483870967741,
+                            1113.998764669549
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1081.2340951204446,
+                            1800.774193548387,
+                            1113.998764669549
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1113.998764669549,
+                            340.6451612903226,
+                            1143.642989499691
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/26/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1113.998764669549,
+                            817.5483870967741,
+                            1143.642989499691
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1113.998764669549,
+                            1800.774193548387,
+                            1143.642989499691
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1143.642989499691,
+                            340.6451612903226,
+                            1177.9678814082768
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/26/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1143.642989499691,
+                            817.5483870967741,
+                            1177.9678814082768
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1143.642989499691,
+                            1800.774193548387,
+                            1177.9678814082768
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1177.9678814082768,
+                            340.6451612903226,
+                            1209.1723285978999
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/26/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1177.9678814082768,
+                            817.5483870967741,
+                            1209.1723285978999
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1177.9678814082768,
+                            1800.774193548387,
+                            1209.1723285978999
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1209.1723285978999,
+                            340.6451612903226,
+                            1241.9369981470043
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/26/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1209.1723285978999,
+                            817.5483870967741,
+                            1241.9369981470043
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1209.1723285978999,
+                            1800.774193548387,
+                            1241.9369981470043
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1241.9369981470043,
+                            340.6451612903226,
+                            1271.5812229771464
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/26/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1241.9369981470043,
+                            817.5483870967741,
+                            1271.5812229771464
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1241.9369981470043,
+                            1800.774193548387,
+                            1271.5812229771464
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1271.5812229771464,
+                            340.6451612903226,
+                            1305.9061148857318
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/26/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1271.5812229771464,
+                            817.5483870967741,
+                            1305.9061148857318
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1271.5812229771464,
+                            1800.774193548387,
+                            1305.9061148857318
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1305.9061148857318,
+                            340.6451612903226,
+                            1337.1105620753553
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/26/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1305.9061148857318,
+                            817.5483870967741,
+                            1337.1105620753553
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1305.9061148857318,
+                            1800.774193548387,
+                            1337.1105620753553
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1337.1105620753553,
+                            340.6451612903226,
+                            1368.3150092649785
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/27/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1337.1105620753553,
+                            817.5483870967741,
+                            1368.3150092649785
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1337.1105620753553,
+                            1800.774193548387,
+                            1368.3150092649785
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1368.3150092649785,
+                            340.6451612903226,
+                            1401.0796788140826
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/27/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1368.3150092649785,
+                            817.5483870967741,
+                            1401.0796788140826
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1368.3150092649785,
+                            1800.774193548387,
+                            1401.0796788140826
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1401.0796788140826,
+                            340.6451612903226,
+                            1430.723903644225
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/27/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1401.0796788140826,
+                            817.5483870967741,
+                            1430.723903644225
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1401.0796788140826,
+                            1800.774193548387,
+                            1430.723903644225
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1430.723903644225,
+                            340.6451612903226,
+                            1463.4885731933293
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/27/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1430.723903644225,
+                            817.5483870967741,
+                            1463.4885731933293
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1430.723903644225,
+                            1800.774193548387,
+                            1463.4885731933293
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1463.4885731933293,
+                            340.6451612903226,
+                            1496.2532427424335
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/27/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1463.4885731933293,
+                            817.5483870967741,
+                            1496.2532427424335
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1463.4885731933293,
+                            1800.774193548387,
+                            1496.2532427424335
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1496.2532427424335,
+                            340.6451612903226,
+                            1527.4576899320566
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/27/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1496.2532427424335,
+                            817.5483870967741,
+                            1527.4576899320566
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1496.2532427424335,
+                            1800.774193548387,
+                            1527.4576899320566
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1527.4576899320566,
+                            340.6451612903226,
+                            1560.2223594811612
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/27/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1527.4576899320566,
+                            817.5483870967741,
+                            1560.2223594811612
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1527.4576899320566,
+                            1800.774193548387,
+                            1560.2223594811612
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1560.2223594811612,
+                            340.6451612903226,
+                            1592.9870290302656
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/28/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1560.2223594811612,
+                            817.5483870967741,
+                            1592.9870290302656
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1560.2223594811612,
+                            1800.774193548387,
+                            1592.9870290302656
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1592.9870290302656,
+                            340.6451612903226,
+                            1624.1914762198887
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/28/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1592.9870290302656,
+                            817.5483870967741,
+                            1624.1914762198887
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1592.9870290302656,
+                            1800.774193548387,
+                            1624.1914762198887
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1624.1914762198887,
+                            340.6451612903226,
+                            1652.2754786905498
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/28/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1624.1914762198887,
+                            817.5483870967741,
+                            1652.2754786905498
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1624.1914762198887,
+                            1800.774193548387,
+                            1652.2754786905498
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1652.2754786905498,
+                            340.6451612903226,
+                            1686.6003705991352
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/28/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1652.2754786905498,
+                            817.5483870967741,
+                            1686.6003705991352
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1652.2754786905498,
+                            1800.774193548387,
+                            1686.6003705991352
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1686.6003705991352,
+                            340.6451612903226,
+                            1717.8048177887583
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/28/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1686.6003705991352,
+                            817.5483870967741,
+                            1717.8048177887583
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1686.6003705991352,
+                            1800.774193548387,
+                            1717.8048177887583
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1717.8048177887583,
+                            340.6451612903226,
+                            1750.5694873378627
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/28/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1717.8048177887583,
+                            817.5483870967741,
+                            1750.5694873378627
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1717.8048177887583,
+                            1800.774193548387,
+                            1750.5694873378627
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1750.5694873378627,
+                            340.6451612903226,
+                            1780.213712168005
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/28/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1750.5694873378627,
+                            817.5483870967741,
+                            1780.213712168005
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1750.5694873378627,
+                            1800.774193548387,
+                            1780.213712168005
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1780.213712168005,
+                            340.6451612903226,
+                            1812.9783817171092
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/29/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1780.213712168005,
+                            817.5483870967741,
+                            1812.9783817171092
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1780.213712168005,
+                            1800.774193548387,
+                            1812.9783817171092
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1812.9783817171092,
+                            340.6451612903226,
+                            1845.7430512662136
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/29/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1812.9783817171092,
+                            817.5483870967741,
+                            1845.7430512662136
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1812.9783817171092,
+                            1800.774193548387,
+                            1845.7430512662136
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1845.7430512662136,
+                            340.6451612903226,
+                            1878.5077208153182
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/29/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1845.7430512662136,
+                            817.5483870967741,
+                            1878.5077208153182
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1845.7430512662136,
+                            1800.774193548387,
+                            1878.5077208153182
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1878.5077208153182,
+                            340.6451612903226,
+                            1911.2723903644226
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/30/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1878.5077208153182,
+                            817.5483870967741,
+                            1911.2723903644226
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1878.5077208153182,
+                            1800.774193548387,
+                            1911.2723903644226
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1911.2723903644226,
+                            340.6451612903226,
+                            1939.3563928350834
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/30/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1911.2723903644226,
+                            817.5483870967741,
+                            1939.3563928350834
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1911.2723903644226,
+                            1800.774193548387,
+                            1939.3563928350834
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1939.3563928350834,
+                            340.6451612903226,
+                            1972.1210623841878
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            34
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9/30/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1939.3563928350834,
+                            817.5483870967741,
+                            1972.1210623841878
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            34
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1939.3563928350834,
+                            1800.774193548387,
+                            1972.1210623841878
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            34
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "19.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            1972.1210623841878,
+                            340.6451612903226,
+                            2004.8857319332922
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            35
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/1/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            1972.1210623841878,
+                            817.5483870967741,
+                            2004.8857319332922
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            35
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            1972.1210623841878,
+                            1800.774193548387,
+                            2004.8857319332922
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            35
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            2004.8857319332922,
+                            340.6451612903226,
+                            2034.5299567634343
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            36
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/1/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            2004.8857319332922,
+                            817.5483870967741,
+                            2034.5299567634343
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            36
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            2004.8857319332922,
+                            1800.774193548387,
+                            2034.5299567634343
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            36
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "25.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            2034.5299567634343,
+                            340.6451612903226,
+                            2067.2946263125386
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            37
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/1/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            2034.5299567634343,
+                            817.5483870967741,
+                            2067.2946263125386
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            37
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            2034.5299567634343,
+                            1800.774193548387,
+                            2067.2946263125386
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            37
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            2067.2946263125386,
+                            340.6451612903226,
+                            2100.059295861643
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            38
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/1/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            2067.2946263125386,
+                            817.5483870967741,
+                            2100.059295861643
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            38
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            2067.2946263125386,
+                            1800.774193548387,
+                            2100.059295861643
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            38
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            2100.059295861643,
+                            340.6451612903226,
+                            2131.2637430512664
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            39
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/1/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            2100.059295861643,
+                            817.5483870967741,
+                            2131.2637430512664
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            39
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            2100.059295861643,
+                            1800.774193548387,
+                            2131.2637430512664
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            39
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    },
+                    {
+                        "bbox": [
+                            209.03225806451613,
+                            2131.2637430512664,
+                            340.6451612903226,
+                            2163.0061979510556
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            40
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/1/2018"
+                    },
+                    {
+                        "bbox": [
+                            746.3225806451613,
+                            2131.2637430512664,
+                            817.5483870967741,
+                            2163.0061979510556
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            40
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Spot"
+                    },
+                    {
+                        "bbox": [
+                            1704.774193548387,
+                            2131.2637430512664,
+                            1800.774193548387,
+                            2163.0061979510556
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            40
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "24.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

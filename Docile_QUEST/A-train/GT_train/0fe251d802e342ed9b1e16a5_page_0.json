@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                159.45645161290324,
+                975.1130840138619,
+                1689.6532258064515,
+                1135.903448275862
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            622.3067696329103,
+                            992.0415099563312,
+                            808.4217693946676,
+                            1025.8983618412697
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1451.3644958443745,
+                            975.1130840138619,
+                            1569.8013138745837,
+                            1039.064915352079
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CLIENT BILLING"
+                    },
+                    {
+                        "bbox": [
+                            159.45645161290324,
+                            1102.2362068965517,
+                            788.5048387096774,
+                            1135.903448275862
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "REVERSING BILLING INVOICE# 361665"
+                    },
+                    {
+                        "bbox": [
+                            1473.1435483870969,
+                            1102.2362068965517,
+                            1689.6532258064515,
+                            1135.903448275862
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "-43,689.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

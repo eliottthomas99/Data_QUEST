@@ -1,0 +1,2325 @@
+{
+    "TD": [
+        [
+            [
+                253.19032258064516,
+                932.0780049875311,
+                1230.4161290322581,
+                2183.431421446384
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            275.85386099102095,
+                            934.5270822942642,
+                            335.43176587961426,
+                            960.6505735660847
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            640.0544097106751,
+                            932.0780049875311,
+                            716.7711639507816,
+                            959.8342144638403
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            797.5685966079149,
+                            935.3434413965088,
+                            853.8819587628867,
+                            959.8342144638403
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            986.9120751579649,
+                            932.0780049875311,
+                            1087.2967642168276,
+                            962.2832917705737
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            967.286783042394,
+                            352.39354838709676,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            967.286783042394,
+                            722.5548387096775,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379435"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            967.286783042394,
+                            910.5967741935484,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            967.286783042394,
+                            1230.4161290322581,
+                            1010.2443890274315
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1010.2443890274315,
+                            352.39354838709676,
+                            1045.7955112219452
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1010.2443890274315,
+                            722.5548387096775,
+                            1045.7955112219452
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379435"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1010.2443890274315,
+                            910.5967741935484,
+                            1045.7955112219452
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1010.2443890274315,
+                            1230.4161290322581,
+                            1045.7955112219452
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1045.7955112219452,
+                            352.39354838709676,
+                            1087.2718204488779
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1045.7955112219452,
+                            722.5548387096775,
+                            1087.2718204488779
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379436"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1045.7955112219452,
+                            910.5967741935484,
+                            1087.2718204488779
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1045.7955112219452,
+                            1230.4161290322581,
+                            1087.2718204488779
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1087.2718204488779,
+                            352.39354838709676,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1087.2718204488779,
+                            722.5548387096775,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379436"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1087.2718204488779,
+                            910.5967741935484,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1087.2718204488779,
+                            1230.4161290322581,
+                            1127.2668329177059
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1127.2668329177059,
+                            352.39354838709676,
+                            1164.2992518703243
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/25/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1127.2668329177059,
+                            722.5548387096775,
+                            1164.2992518703243
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379437"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1127.2668329177059,
+                            910.5967741935484,
+                            1164.2992518703243
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1127.2668329177059,
+                            1230.4161290322581,
+                            1164.2992518703243
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1164.2992518703243,
+                            352.39354838709676,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1164.2992518703243,
+                            722.5548387096775,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379438"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1164.2992518703243,
+                            910.5967741935484,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1164.2992518703243,
+                            1230.4161290322581,
+                            1204.294264339152
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1204.294264339152,
+                            352.39354838709676,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1204.294264339152,
+                            722.5548387096775,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379438"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1204.294264339152,
+                            910.5967741935484,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1204.294264339152,
+                            1230.4161290322581,
+                            1242.8079800498754
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1242.8079800498754,
+                            352.39354838709676,
+                            1279.8403990024938
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1242.8079800498754,
+                            722.5548387096775,
+                            1279.8403990024938
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379439"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1242.8079800498754,
+                            910.5967741935484,
+                            1279.8403990024938
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1242.8079800498754,
+                            1230.4161290322581,
+                            1279.8403990024938
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1279.8403990024938,
+                            352.39354838709676,
+                            1321.3167082294265
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1279.8403990024938,
+                            722.5548387096775,
+                            1321.3167082294265
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379439"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1279.8403990024938,
+                            910.5967741935484,
+                            1321.3167082294265
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1279.8403990024938,
+                            1230.4161290322581,
+                            1321.3167082294265
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1321.3167082294265,
+                            352.39354838709676,
+                            1356.86783042394
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/26/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1321.3167082294265,
+                            722.5548387096775,
+                            1356.86783042394
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379440"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1321.3167082294265,
+                            910.5967741935484,
+                            1356.86783042394
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1321.3167082294265,
+                            1230.4161290322581,
+                            1356.86783042394
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1356.86783042394,
+                            352.39354838709676,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1356.86783042394,
+                            722.5548387096775,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379441"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1356.86783042394,
+                            910.5967741935484,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1356.86783042394,
+                            1230.4161290322581,
+                            1396.862842892768
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1396.862842892768,
+                            352.39354838709676,
+                            1435.3765586034913
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1396.862842892768,
+                            722.5548387096775,
+                            1435.3765586034913
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379441"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1396.862842892768,
+                            910.5967741935484,
+                            1435.3765586034913
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1396.862842892768,
+                            1230.4161290322581,
+                            1435.3765586034913
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1435.3765586034913,
+                            352.39354838709676,
+                            1475.371571072319
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1435.3765586034913,
+                            722.5548387096775,
+                            1475.371571072319
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379442"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1435.3765586034913,
+                            910.5967741935484,
+                            1475.371571072319
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1435.3765586034913,
+                            1230.4161290322581,
+                            1475.371571072319
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1475.371571072319,
+                            352.39354838709676,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1475.371571072319,
+                            722.5548387096775,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379442"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1475.371571072319,
+                            910.5967741935484,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1475.371571072319,
+                            1230.4161290322581,
+                            1516.8478802992518
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1516.8478802992518,
+                            352.39354838709676,
+                            1555.361596009975
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/27/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1516.8478802992518,
+                            722.5548387096775,
+                            1555.361596009975
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379443"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1516.8478802992518,
+                            910.5967741935484,
+                            1555.361596009975
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1516.8478802992518,
+                            1230.4161290322581,
+                            1555.361596009975
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1555.361596009975,
+                            352.39354838709676,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/28/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1555.361596009975,
+                            722.5548387096775,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379444"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1555.361596009975,
+                            910.5967741935484,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1555.361596009975,
+                            1230.4161290322581,
+                            1596.8379052369078
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1596.8379052369078,
+                            352.39354838709676,
+                            1632.3890274314215
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/28/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1596.8379052369078,
+                            722.5548387096775,
+                            1632.3890274314215
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379444"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1596.8379052369078,
+                            910.5967741935484,
+                            1632.3890274314215
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1596.8379052369078,
+                            1230.4161290322581,
+                            1632.3890274314215
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1632.3890274314215,
+                            352.39354838709676,
+                            1670.9027431421448
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/28/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1632.3890274314215,
+                            722.5548387096775,
+                            1670.9027431421448
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379445"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1632.3890274314215,
+                            910.5967741935484,
+                            1670.9027431421448
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1632.3890274314215,
+                            1230.4161290322581,
+                            1670.9027431421448
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1670.9027431421448,
+                            352.39354838709676,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/28/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1670.9027431421448,
+                            722.5548387096775,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379445"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1670.9027431421448,
+                            910.5967741935484,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1670.9027431421448,
+                            1230.4161290322581,
+                            1712.3790523690773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1712.3790523690773,
+                            352.39354838709676,
+                            1747.9301745635912
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/28/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1712.3790523690773,
+                            722.5548387096775,
+                            1747.9301745635912
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379446"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1712.3790523690773,
+                            910.5967741935484,
+                            1747.9301745635912
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1712.3790523690773,
+                            1230.4161290322581,
+                            1747.9301745635912
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1747.9301745635912,
+                            352.39354838709676,
+                            1790.8877805486286
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/29/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1747.9301745635912,
+                            722.5548387096775,
+                            1790.8877805486286
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379447"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1747.9301745635912,
+                            910.5967741935484,
+                            1790.8877805486286
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1747.9301745635912,
+                            1230.4161290322581,
+                            1790.8877805486286
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1790.8877805486286,
+                            352.39354838709676,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/29/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1790.8877805486286,
+                            722.5548387096775,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379447"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1790.8877805486286,
+                            910.5967741935484,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1790.8877805486286,
+                            1230.4161290322581,
+                            1827.9201995012468
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1827.9201995012468,
+                            352.39354838709676,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/29/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1827.9201995012468,
+                            722.5548387096775,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379448"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1827.9201995012468,
+                            910.5967741935484,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1827.9201995012468,
+                            1230.4161290322581,
+                            1864.9526184538654
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1864.9526184538654,
+                            352.39354838709676,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/29/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1864.9526184538654,
+                            722.5548387096775,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379448"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1864.9526184538654,
+                            910.5967741935484,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1864.9526184538654,
+                            1230.4161290322581,
+                            1903.4663341645885
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1903.4663341645885,
+                            352.39354838709676,
+                            1944.9426433915212
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/29/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1903.4663341645885,
+                            722.5548387096775,
+                            1944.9426433915212
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379449"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1903.4663341645885,
+                            910.5967741935484,
+                            1944.9426433915212
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1903.4663341645885,
+                            1230.4161290322581,
+                            1944.9426433915212
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1944.9426433915212,
+                            352.39354838709676,
+                            1984.9376558603492
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "07/02/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1944.9426433915212,
+                            722.5548387096775,
+                            1984.9376558603492
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379450"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1944.9426433915212,
+                            910.5967741935484,
+                            1984.9376558603492
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1944.9426433915212,
+                            1230.4161290322581,
+                            1984.9376558603492
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            1984.9376558603492,
+                            352.39354838709676,
+                            2024.932668329177
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "07/02/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            1984.9376558603492,
+                            722.5548387096775,
+                            2024.932668329177
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379450"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            1984.9376558603492,
+                            910.5967741935484,
+                            2024.932668329177
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            1984.9376558603492,
+                            1230.4161290322581,
+                            2024.932668329177
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2024.932668329177,
+                            352.39354838709676,
+                            2061.9650872817956
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "07/02/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            2024.932668329177,
+                            722.5548387096775,
+                            2061.9650872817956
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379451"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2024.932668329177,
+                            910.5967741935484,
+                            2061.9650872817956
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2024.932668329177,
+                            1230.4161290322581,
+                            2061.9650872817956
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2061.9650872817956,
+                            352.39354838709676,
+                            2098.997506234414
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "07/02/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            2061.9650872817956,
+                            722.5548387096775,
+                            2098.997506234414
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379451"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2061.9650872817956,
+                            910.5967741935484,
+                            2098.997506234414
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2061.9650872817956,
+                            1230.4161290322581,
+                            2098.997506234414
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2098.997506234414,
+                            352.39354838709676,
+                            2138.992518703242
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "07/02/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            2098.997506234414,
+                            722.5548387096775,
+                            2138.992518703242
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379452"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2098.997506234414,
+                            910.5967741935484,
+                            2138.992518703242
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2098.997506234414,
+                            1230.4161290322581,
+                            2138.992518703242
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    },
+                    {
+                        "bbox": [
+                            253.19032258064516,
+                            2138.992518703242,
+                            352.39354838709676,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "07/03/18"
+                    },
+                    {
+                        "bbox": [
+                            630.7548387096774,
+                            2138.992518703242,
+                            722.5548387096775,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "379453"
+                    },
+                    {
+                        "bbox": [
+                            826.2,
+                            2138.992518703242,
+                            910.5967741935484,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$75.00"
+                    },
+                    {
+                        "bbox": [
+                            984.6290322580645,
+                            2138.992518703242,
+                            1230.4161290322581,
+                            2183.431421446384
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SLF_IN_Profited_60R"
+                    }
+                ]
+            }
+        ]
+    ]
+}

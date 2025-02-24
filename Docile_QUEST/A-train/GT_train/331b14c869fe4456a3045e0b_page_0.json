@@ -1,0 +1,1479 @@
+{
+    "TD": [
+        [
+            [
+                39.37499999999991,
+                768.5087281795511,
+                1518.3000000000002,
+                1845.6807980049875
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            768.5087281795511,
+                            198.45,
+                            820.1244019844246
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Run Date"
+                    },
+                    {
+                        "bbox": [
+                            764.9292260061919,
+                            788.8550972638402,
+                            983.9273684210524,
+                            823.251332456483
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1382.816842105263,
+                            788.8550972638402,
+                            1462.5947368421052,
+                            821.6878672204538
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            859.8478802992519,
+                            198.45,
+                            894.4937655860349
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            859.8478802992519,
+                            904.05,
+                            894.4937655860349
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            859.8478802992519,
+                            1518.3000000000002,
+                            894.4937655860349
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            894.4937655860349,
+                            198.45,
+                            932.2892768079801
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            894.4937655860349,
+                            904.05,
+                            932.2892768079801
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            894.4937655860349,
+                            1518.3000000000002,
+                            932.2892768079801
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            932.2892768079801,
+                            198.45,
+                            970.0847880299252
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            932.2892768079801,
+                            904.05,
+                            970.0847880299252
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            932.2892768079801,
+                            1518.3000000000002,
+                            970.0847880299252
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            970.0847880299252,
+                            198.45,
+                            1007.8802992518704
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            970.0847880299252,
+                            904.05,
+                            1007.8802992518704
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            970.0847880299252,
+                            1518.3000000000002,
+                            1007.8802992518704
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1007.8802992518704,
+                            198.45,
+                            1045.6758104738153
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1007.8802992518704,
+                            904.05,
+                            1045.6758104738153
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1007.8802992518704,
+                            1518.3000000000002,
+                            1045.6758104738153
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1045.6758104738153,
+                            198.45,
+                            1083.4713216957605
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1045.6758104738153,
+                            904.05,
+                            1083.4713216957605
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1045.6758104738153,
+                            1518.3000000000002,
+                            1083.4713216957605
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1083.4713216957605,
+                            198.45,
+                            1121.2668329177056
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1083.4713216957605,
+                            904.05,
+                            1121.2668329177056
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1083.4713216957605,
+                            1518.3000000000002,
+                            1121.2668329177056
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1121.2668329177056,
+                            198.45,
+                            1159.0623441396508
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1121.2668329177056,
+                            904.05,
+                            1159.0623441396508
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1121.2668329177056,
+                            1518.3000000000002,
+                            1159.0623441396508
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1159.0623441396508,
+                            198.45,
+                            1196.857855361596
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/07/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1159.0623441396508,
+                            904.05,
+                            1196.857855361596
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1159.0623441396508,
+                            1518.3000000000002,
+                            1196.857855361596
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1196.857855361596,
+                            198.45,
+                            1234.6533665835411
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1196.857855361596,
+                            904.05,
+                            1234.6533665835411
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1196.857855361596,
+                            1518.3000000000002,
+                            1234.6533665835411
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1234.6533665835411,
+                            198.45,
+                            1275.5985037406485
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1234.6533665835411,
+                            904.05,
+                            1275.5985037406485
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1234.6533665835411,
+                            1518.3000000000002,
+                            1275.5985037406485
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1275.5985037406485,
+                            198.45,
+                            1319.6932668329177
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1275.5985037406485,
+                            904.05,
+                            1319.6932668329177
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1275.5985037406485,
+                            1518.3000000000002,
+                            1319.6932668329177
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1319.6932668329177,
+                            198.45,
+                            1357.488778054863
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1319.6932668329177,
+                            904.05,
+                            1357.488778054863
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1319.6932668329177,
+                            1518.3000000000002,
+                            1357.488778054863
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1357.488778054863,
+                            198.45,
+                            1395.2842892768078
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1357.488778054863,
+                            904.05,
+                            1395.2842892768078
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1357.488778054863,
+                            1518.3000000000002,
+                            1395.2842892768078
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1395.2842892768078,
+                            198.45,
+                            1433.0798004987532
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1395.2842892768078,
+                            904.05,
+                            1433.0798004987532
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1395.2842892768078,
+                            1518.3000000000002,
+                            1433.0798004987532
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1433.0798004987532,
+                            198.45,
+                            1470.8753117206982
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1433.0798004987532,
+                            904.05,
+                            1470.8753117206982
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1433.0798004987532,
+                            1518.3000000000002,
+                            1470.8753117206982
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1470.8753117206982,
+                            198.45,
+                            1508.6708229426436
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1470.8753117206982,
+                            904.05,
+                            1508.6708229426436
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1470.8753117206982,
+                            1518.3000000000002,
+                            1508.6708229426436
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1508.6708229426436,
+                            198.45,
+                            1544.8915211970075
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/08/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1508.6708229426436,
+                            904.05,
+                            1544.8915211970075
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1508.6708229426436,
+                            1518.3000000000002,
+                            1544.8915211970075
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1544.8915211970075,
+                            198.45,
+                            1582.6870324189526
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1544.8915211970075,
+                            904.05,
+                            1582.6870324189526
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1544.8915211970075,
+                            1518.3000000000002,
+                            1582.6870324189526
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1582.6870324189526,
+                            198.45,
+                            1620.4825436408978
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1582.6870324189526,
+                            904.05,
+                            1620.4825436408978
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1582.6870324189526,
+                            1518.3000000000002,
+                            1620.4825436408978
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1620.4825436408978,
+                            198.45,
+                            1656.703241895262
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1620.4825436408978,
+                            904.05,
+                            1656.703241895262
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1620.4825436408978,
+                            1518.3000000000002,
+                            1656.703241895262
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "58.82"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1656.703241895262,
+                            198.45,
+                            1689.7743142144639
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1656.703241895262,
+                            904.05,
+                            1689.7743142144639
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1656.703241895262,
+                            1518.3000000000002,
+                            1689.7743142144639
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1689.7743142144639,
+                            198.45,
+                            1732.2942643391523
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1689.7743142144639,
+                            904.05,
+                            1732.2942643391523
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1689.7743142144639,
+                            1518.3000000000002,
+                            1732.2942643391523
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1732.2942643391523,
+                            198.45,
+                            1773.2394014962592
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1732.2942643391523,
+                            904.05,
+                            1773.2394014962592
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1732.2942643391523,
+                            1518.3000000000002,
+                            1773.2394014962592
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1773.2394014962592,
+                            198.45,
+                            1811.0349127182046
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1773.2394014962592,
+                            904.05,
+                            1811.0349127182046
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1773.2394014962592,
+                            1518.3000000000002,
+                            1811.0349127182046
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    },
+                    {
+                        "bbox": [
+                            39.37499999999991,
+                            1811.0349127182046,
+                            198.45,
+                            1845.6807980049875
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10/09/20"
+                    },
+                    {
+                        "bbox": [
+                            478.79999999999995,
+                            1811.0349127182046,
+                            904.05,
+                            1845.6807980049875
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cal Cunningham for Sen"
+                    },
+                    {
+                        "bbox": [
+                            1415.925,
+                            1811.0349127182046,
+                            1518.3000000000002,
+                            1845.6807980049875
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "47.06"
+                    }
+                ]
+            }
+        ]
+    ]
+}

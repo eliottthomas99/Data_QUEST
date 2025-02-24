@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                260.9548387096774,
+                391.6712328767123,
+                1160.0258064516129,
+                522.2283105022831
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            260.9548387096774,
+                            413.23230457815964,
+                            425.9324427066362,
+                            438.5901826484018
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1025.2444444444443,
+                            391.6712328767123,
+                            1130.4748126425545,
+                            445.3280175551041
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CURRENT AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            260.9548387096774,
+                            489.58904109589037,
+                            687.0451612903227,
+                            522.2283105022831
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ADDITIONAL HISTOPATHOLOGY SN-4"
+                    },
+                    {
+                        "bbox": [
+                            1015.2774193548387,
+                            489.58904109589037,
+                            1160.0258064516129,
+                            522.2283105022831
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "15,690.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

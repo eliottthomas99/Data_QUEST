@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                230.44354838709677,
+                985.2837844708482,
+                897.1935483870967,
+                1122.4960486322188
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            236.92477318548387,
+                            985.2837844708482,
+                            333.9115224426995,
+                            1018.5189367228518
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Menge"
+                    },
+                    {
+                        "bbox": [
+                            504.33109613752123,
+                            986.6685824813486,
+                            594.3902204477928,
+                            1014.3645426913513
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Artikel"
+                    },
+                    {
+                        "bbox": [
+                            230.44354838709677,
+                            1087.1781155015199,
+                            350.2741935483871,
+                            1122.4960486322188
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "500,000"
+                    },
+                    {
+                        "bbox": [
+                            410.18951612903226,
+                            1087.1781155015199,
+                            897.1935483870967,
+                            1122.4960486322188
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Reference Cigarettes, Type 1R4F"
+                    }
+                ]
+            }
+        ]
+    ]
+}

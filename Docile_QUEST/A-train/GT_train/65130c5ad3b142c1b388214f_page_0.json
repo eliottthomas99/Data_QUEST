@@ -1,0 +1,57 @@
+{
+    "TD": [
+        [
+            [
+                412.5483870967742,
+                1296.7561781419322,
+                1071.1524193548387,
+                1420.5082066869302
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            420.94130212646,
+                            1296.7561781419322,
+                            800.8474458695231,
+                            1340.4503237742833
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "First Quarterly Payment"
+                    },
+                    {
+                        "bbox": [
+                            412.5483870967742,
+                            1379.248632218845,
+                            1071.1524193548387,
+                            1420.5082066869302
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "22.5% of budgeted amount per agreement"
+                    }
+                ]
+            }
+        ]
+    ]
+}

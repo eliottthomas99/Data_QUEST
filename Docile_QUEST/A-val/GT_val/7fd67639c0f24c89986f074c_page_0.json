@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                257.8427419354839,
+                1032.6249463205154,
+                1349.6225806451614,
+                1230.9375
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            261.66131264650073,
+                            1032.6249463205154,
+                            451.1980327045429,
+                            1067.828069490533
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "SALES CODE"
+                    },
+                    {
+                        "bbox": [
+                            618.9296433753767,
+                            1032.6249463205154,
+                            823.5622083937939,
+                            1066.1517302919606
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1148.9615330952115,
+                            1034.3012855190877,
+                            1279.7921894184617,
+                            1069.5044086891053
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            257.8427419354839,
+                            1112.534954407295,
+                            313.83145161290327,
+                            1158.2151975683892
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "411"
+                    },
+                    {
+                        "bbox": [
+                            475.90403225806455,
+                            1112.534954407295,
+                            726.3798387096774,
+                            1230.9375
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Contributions 1st Quarter"
+                    },
+                    {
+                        "bbox": [
+                            1174.289516129032,
+                            1112.534954407295,
+                            1349.6225806451614,
+                            1158.2151975683892
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "87,650.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

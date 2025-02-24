@@ -1,0 +1,2343 @@
+{
+    "TD": [
+        [
+            [
+                89.775,
+                735.4581079768113,
+                1639.5749999999998,
+                2510.2518703241894
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            121.42187948350072,
+                            735.4581079768113,
+                            186.6634863701578,
+                            773.2331670822942
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            736.1826861893991,
+                            581.737661406026,
+                            773.2331670822942
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1571.2353658536585,
+                            735.4581079768113,
+                            1639.5749999999998,
+                            773.2331670822942
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Cost"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            773.2331670822942,
+                            209.475,
+                            814.1783042394014
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-17-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            773.2331670822942,
+                            571.725,
+                            814.1783042394014
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            773.2331670822942,
+                            1639.5749999999998,
+                            814.1783042394014
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            814.1783042394014,
+                            209.475,
+                            851.9738154613466
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-17-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            814.1783042394014,
+                            571.725,
+                            851.9738154613466
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            814.1783042394014,
+                            1639.5749999999998,
+                            851.9738154613466
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            851.9738154613466,
+                            209.475,
+                            899.218204488778
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-17-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            851.9738154613466,
+                            571.725,
+                            899.218204488778
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            851.9738154613466,
+                            1639.5749999999998,
+                            899.218204488778
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            899.218204488778,
+                            209.475,
+                            940.1633416458852
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-18-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            899.218204488778,
+                            571.725,
+                            940.1633416458852
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            899.218204488778,
+                            1639.5749999999998,
+                            940.1633416458852
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            940.1633416458852,
+                            209.475,
+                            981.1084788029925
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-18-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            940.1633416458852,
+                            571.725,
+                            981.1084788029925
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            940.1633416458852,
+                            1639.5749999999998,
+                            981.1084788029925
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            981.1084788029925,
+                            209.475,
+                            1022.0536159600997
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-18-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            981.1084788029925,
+                            571.725,
+                            1022.0536159600997
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            981.1084788029925,
+                            1639.5749999999998,
+                            1022.0536159600997
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$65.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1022.0536159600997,
+                            209.475,
+                            1067.7231920199501
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1022.0536159600997,
+                            571.725,
+                            1067.7231920199501
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1022.0536159600997,
+                            1639.5749999999998,
+                            1067.7231920199501
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1067.7231920199501,
+                            209.475,
+                            1107.0935162094763
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1067.7231920199501,
+                            571.725,
+                            1107.0935162094763
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1067.7231920199501,
+                            1639.5749999999998,
+                            1107.0935162094763
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1107.0935162094763,
+                            209.475,
+                            1148.0386533665835
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1107.0935162094763,
+                            571.725,
+                            1148.0386533665835
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1107.0935162094763,
+                            1639.5749999999998,
+                            1148.0386533665835
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1148.0386533665835,
+                            209.475,
+                            1192.133416458853
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1148.0386533665835,
+                            571.725,
+                            1192.133416458853
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1148.0386533665835,
+                            1639.5749999999998,
+                            1192.133416458853
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1192.133416458853,
+                            209.475,
+                            1233.0785536159601
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1192.133416458853,
+                            571.725,
+                            1233.0785536159601
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1192.133416458853,
+                            1639.5749999999998,
+                            1233.0785536159601
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1233.0785536159601,
+                            209.475,
+                            1275.5985037406485
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1233.0785536159601,
+                            571.725,
+                            1275.5985037406485
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1233.0785536159601,
+                            1639.5749999999998,
+                            1275.5985037406485
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1275.5985037406485,
+                            209.475,
+                            1314.9688279301745
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1275.5985037406485,
+                            571.725,
+                            1314.9688279301745
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1275.5985037406485,
+                            1639.5749999999998,
+                            1314.9688279301745
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1314.9688279301745,
+                            209.475,
+                            1355.913965087282
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1314.9688279301745,
+                            571.725,
+                            1355.913965087282
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1314.9688279301745,
+                            1639.5749999999998,
+                            1355.913965087282
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1355.913965087282,
+                            209.475,
+                            1400.008728179551
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1355.913965087282,
+                            571.725,
+                            1400.008728179551
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1355.913965087282,
+                            1639.5749999999998,
+                            1400.008728179551
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1400.008728179551,
+                            209.475,
+                            1440.9538653366583
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1400.008728179551,
+                            571.725,
+                            1440.9538653366583
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1400.008728179551,
+                            1639.5749999999998,
+                            1440.9538653366583
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1440.9538653366583,
+                            209.475,
+                            1475.5997506234412
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1440.9538653366583,
+                            571.725,
+                            1475.5997506234412
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1440.9538653366583,
+                            1639.5749999999998,
+                            1475.5997506234412
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1475.5997506234412,
+                            209.475,
+                            1522.8441396508726
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1475.5997506234412,
+                            571.725,
+                            1522.8441396508726
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1475.5997506234412,
+                            1639.5749999999998,
+                            1522.8441396508726
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1522.8441396508726,
+                            209.475,
+                            1563.78927680798
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1522.8441396508726,
+                            571.725,
+                            1563.78927680798
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1522.8441396508726,
+                            1639.5749999999998,
+                            1563.78927680798
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1563.78927680798,
+                            209.475,
+                            1607.8840399002495
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1563.78927680798,
+                            571.725,
+                            1607.8840399002495
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1563.78927680798,
+                            1639.5749999999998,
+                            1607.8840399002495
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1607.8840399002495,
+                            209.475,
+                            1648.8291770573564
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1607.8840399002495,
+                            571.725,
+                            1648.8291770573564
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1607.8840399002495,
+                            1639.5749999999998,
+                            1648.8291770573564
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1648.8291770573564,
+                            209.475,
+                            1686.6246882793018
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1648.8291770573564,
+                            571.725,
+                            1686.6246882793018
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1648.8291770573564,
+                            1639.5749999999998,
+                            1686.6246882793018
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1686.6246882793018,
+                            209.475,
+                            1730.7194513715713
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1686.6246882793018,
+                            571.725,
+                            1730.7194513715713
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1686.6246882793018,
+                            1639.5749999999998,
+                            1730.7194513715713
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1730.7194513715713,
+                            209.475,
+                            1771.6645885286782
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-19-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1730.7194513715713,
+                            571.725,
+                            1771.6645885286782
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1730.7194513715713,
+                            1639.5749999999998,
+                            1771.6645885286782
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1771.6645885286782,
+                            209.475,
+                            1806.3104738154611
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-20-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1771.6645885286782,
+                            571.725,
+                            1806.3104738154611
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1771.6645885286782,
+                            1639.5749999999998,
+                            1806.3104738154611
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1806.3104738154611,
+                            209.475,
+                            1853.5548628428926
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-20-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1806.3104738154611,
+                            571.725,
+                            1853.5548628428926
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1806.3104738154611,
+                            1639.5749999999998,
+                            1853.5548628428926
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1853.5548628428926,
+                            209.475,
+                            1894.5
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-20-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1853.5548628428926,
+                            571.725,
+                            1894.5
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1853.5548628428926,
+                            1639.5749999999998,
+                            1894.5
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1894.5,
+                            209.475,
+                            1929.145885286783
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-20-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1894.5,
+                            571.725,
+                            1929.145885286783
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1894.5,
+                            1639.5749999999998,
+                            1929.145885286783
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1929.145885286783,
+                            209.475,
+                            1976.3902743142144
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-20-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1929.145885286783,
+                            571.725,
+                            1976.3902743142144
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1929.145885286783,
+                            1639.5749999999998,
+                            1976.3902743142144
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$45.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            1976.3902743142144,
+                            209.475,
+                            2017.3354114713218
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-21-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            1976.3902743142144,
+                            571.725,
+                            2017.3354114713218
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            1976.3902743142144,
+                            1639.5749999999998,
+                            2017.3354114713218
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2017.3354114713218,
+                            209.475,
+                            2061.430174563591
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-21-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2017.3354114713218,
+                            571.725,
+                            2061.430174563591
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2017.3354114713218,
+                            1639.5749999999998,
+                            2061.430174563591
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2061.430174563591,
+                            209.475,
+                            2099.2256857855364
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-21-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2061.430174563591,
+                            571.725,
+                            2099.2256857855364
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2061.430174563591,
+                            1639.5749999999998,
+                            2099.2256857855364
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2099.2256857855364,
+                            209.475,
+                            2140.1708229426436
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-21-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2099.2256857855364,
+                            571.725,
+                            2140.1708229426436
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2099.2256857855364,
+                            1639.5749999999998,
+                            2140.1708229426436
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2140.1708229426436,
+                            209.475,
+                            2184.2655860349128
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            34
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-21-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2140.1708229426436,
+                            571.725,
+                            2184.2655860349128
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            34
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2140.1708229426436,
+                            1639.5749999999998,
+                            2184.2655860349128
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            34
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2184.2655860349128,
+                            209.475,
+                            2225.21072319202
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            35
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-21-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2184.2655860349128,
+                            571.725,
+                            2225.21072319202
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            35
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2184.2655860349128,
+                            1639.5749999999998,
+                            2225.21072319202
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            35
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2225.21072319202,
+                            209.475,
+                            2263.006234413965
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            36
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-21-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2225.21072319202,
+                            571.725,
+                            2263.006234413965
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            36
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2225.21072319202,
+                            1639.5749999999998,
+                            2263.006234413965
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            36
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$45.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2263.006234413965,
+                            209.475,
+                            2303.863881961762
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            37
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-22-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2263.006234413965,
+                            571.725,
+                            2303.863881961762
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            37
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2263.006234413965,
+                            1639.5749999999998,
+                            2303.863881961762
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            37
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2303.863881961762,
+                            209.475,
+                            2344.721529509559
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            38
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-22-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2303.863881961762,
+                            571.725,
+                            2344.721529509559
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            38
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2303.863881961762,
+                            1639.5749999999998,
+                            2344.721529509559
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            38
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2344.721529509559,
+                            209.475,
+                            2385.579177057356
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            39
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-22-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2344.721529509559,
+                            571.725,
+                            2385.579177057356
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            39
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2344.721529509559,
+                            1639.5749999999998,
+                            2385.579177057356
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            39
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2385.579177057356,
+                            209.475,
+                            2426.436824605153
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            40
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-22-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2385.579177057356,
+                            571.725,
+                            2426.436824605153
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            40
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2385.579177057356,
+                            1639.5749999999998,
+                            2426.436824605153
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            40
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2426.436824605153,
+                            209.475,
+                            2467.29447215295
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            41
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-22-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2426.436824605153,
+                            571.725,
+                            2467.29447215295
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            41
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2426.436824605153,
+                            1639.5749999999998,
+                            2467.29447215295
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            41
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    },
+                    {
+                        "bbox": [
+                            89.775,
+                            2467.29447215295,
+                            209.475,
+                            2510.2518703241894
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            42
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10-22-2020"
+                    },
+                    {
+                        "bbox": [
+                            439.425,
+                            2467.29447215295,
+                            571.725,
+                            2510.2518703241894
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            42
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Regular Avail"
+                    },
+                    {
+                        "bbox": [
+                            1560.825,
+                            2467.29447215295,
+                            1639.5749999999998,
+                            2510.2518703241894
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            42
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$85.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

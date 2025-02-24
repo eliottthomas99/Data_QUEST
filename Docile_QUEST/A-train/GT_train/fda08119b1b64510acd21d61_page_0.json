@@ -1,0 +1,2325 @@
+{
+    "TD": [
+        [
+            [
+                256.15161290322584,
+                930.4565358257898,
+                1375.5193548387097,
+                2184.9127182044886
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            273.1680125714784,
+                            933.4026809935974,
+                            331.0153564101445,
+                            962.3287909156428
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            641.1413942118818,
+                            930.4565358257898,
+                            715.0574446723995,
+                            960.9896518546154
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line #"
+                    },
+                    {
+                        "bbox": [
+                            793.7941071194728,
+                            931.7956748868173,
+                            851.6414509581386,
+                            959.1147787020823
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            933.4026809935974,
+                            1084.6376969749879,
+                            962.3287909156428
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Product"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            971.7306733167082,
+                            352.39354838709676,
+                            1002.8379052369078
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/01/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            971.7306733167082,
+                            726.9967741935484,
+                            1002.8379052369078
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099384"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            971.7306733167082,
+                            910.5967741935484,
+                            1002.8379052369078
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            971.7306733167082,
+                            1375.5193548387097,
+                            1002.8379052369078
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1014.6882793017456,
+                            352.39354838709676,
+                            1039.8703241895262
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/01/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1014.6882793017456,
+                            726.9967741935484,
+                            1039.8703241895262
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099385"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1014.6882793017456,
+                            910.5967741935484,
+                            1039.8703241895262
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1014.6882793017456,
+                            1375.5193548387097,
+                            1039.8703241895262
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1050.2394014962592,
+                            352.39354838709676,
+                            1078.3840399002493
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/01/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1050.2394014962592,
+                            726.9967741935484,
+                            1078.3840399002493
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099383"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1050.2394014962592,
+                            910.5967741935484,
+                            1078.3840399002493
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1050.2394014962592,
+                            1375.5193548387097,
+                            1078.3840399002493
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1091.715710723192,
+                            352.39354838709676,
+                            1118.3790523690773
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/01/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1091.715710723192,
+                            726.9967741935484,
+                            1118.3790523690773
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099386"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1091.715710723192,
+                            910.5967741935484,
+                            1118.3790523690773
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1091.715710723192,
+                            1375.5193548387097,
+                            1118.3790523690773
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1131.71072319202,
+                            352.39354838709676,
+                            1158.3740648379053
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/01/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1131.71072319202,
+                            726.9967741935484,
+                            1158.3740648379053
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099386"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1131.71072319202,
+                            910.5967741935484,
+                            1158.3740648379053
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1131.71072319202,
+                            1375.5193548387097,
+                            1158.3740648379053
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1169.483790523691,
+                            352.39354838709676,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/01/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1169.483790523691,
+                            726.9967741935484,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099387"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1169.483790523691,
+                            910.5967741935484,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1169.483790523691,
+                            1375.5193548387097,
+                            1198.3690773067333
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1211.700748129676,
+                            352.39354838709676,
+                            1236.142144638404
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/02/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1211.700748129676,
+                            726.9967741935484,
+                            1236.142144638404
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099384"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1211.700748129676,
+                            910.5967741935484,
+                            1236.142144638404
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1211.700748129676,
+                            1375.5193548387097,
+                            1236.142144638404
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1247.2518703241894,
+                            352.39354838709676,
+                            1276.8778054862844
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/02/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1247.2518703241894,
+                            726.9967741935484,
+                            1276.8778054862844
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099385"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1247.2518703241894,
+                            910.5967741935484,
+                            1276.8778054862844
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1247.2518703241894,
+                            1375.5193548387097,
+                            1276.8778054862844
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1288.7281795511221,
+                            352.39354838709676,
+                            1313.9102244389026
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/02/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1288.7281795511221,
+                            726.9967741935484,
+                            1313.9102244389026
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099383"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1288.7281795511221,
+                            910.5967741935484,
+                            1313.9102244389026
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1288.7281795511221,
+                            1375.5193548387097,
+                            1313.9102244389026
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1325.7605985037405,
+                            352.39354838709676,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/02/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1325.7605985037405,
+                            726.9967741935484,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099386"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1325.7605985037405,
+                            910.5967741935484,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1325.7605985037405,
+                            1375.5193548387097,
+                            1349.4613466334165
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1367.2369077306732,
+                            352.39354838709676,
+                            1387.9750623441396
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/02/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1367.2369077306732,
+                            726.9967741935484,
+                            1387.9750623441396
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099386"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1367.2369077306732,
+                            910.5967741935484,
+                            1387.9750623441396
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$6.80"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1367.2369077306732,
+                            1375.5193548387097,
+                            1387.9750623441396
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1402.788029925187,
+                            352.39354838709676,
+                            1427.9700748129676
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/02/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1402.788029925187,
+                            726.9967741935484,
+                            1427.9700748129676
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099387"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1402.788029925187,
+                            910.5967741935484,
+                            1427.9700748129676
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1402.788029925187,
+                            1375.5193548387097,
+                            1427.9700748129676
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1439.8204488778056,
+                            352.39354838709676,
+                            1469.4463840399003
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/03/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1439.8204488778056,
+                            726.9967741935484,
+                            1469.4463840399003
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1439.8204488778056,
+                            910.5967741935484,
+                            1469.4463840399003
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1439.8204488778056,
+                            1375.5193548387097,
+                            1469.4463840399003
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1481.2967581047383,
+                            352.39354838709676,
+                            1507.9600997506236
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/03/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1481.2967581047383,
+                            726.9967741935484,
+                            1507.9600997506236
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1481.2967581047383,
+                            910.5967741935484,
+                            1507.9600997506236
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1481.2967581047383,
+                            1375.5193548387097,
+                            1507.9600997506236
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1519.8104738154614,
+                            352.39354838709676,
+                            1547.214463840399
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/03/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1519.8104738154614,
+                            726.9967741935484,
+                            1547.214463840399
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1519.8104738154614,
+                            910.5967741935484,
+                            1547.214463840399
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1519.8104738154614,
+                            1375.5193548387097,
+                            1547.214463840399
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1556.8428927680798,
+                            352.39354838709676,
+                            1587.9501246882794
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/03/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1556.8428927680798,
+                            726.9967741935484,
+                            1587.9501246882794
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1556.8428927680798,
+                            910.5967741935484,
+                            1587.9501246882794
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1556.8428927680798,
+                            1375.5193548387097,
+                            1587.9501246882794
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1599.8004987531174,
+                            352.39354838709676,
+                            1624.9825436408976
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/04/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1599.8004987531174,
+                            726.9967741935484,
+                            1624.9825436408976
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1599.8004987531174,
+                            910.5967741935484,
+                            1624.9825436408976
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1599.8004987531174,
+                            1375.5193548387097,
+                            1624.9825436408976
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1639.795511221945,
+                            352.39354838709676,
+                            1663.496259351621
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/04/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1639.795511221945,
+                            726.9967741935484,
+                            1663.496259351621
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1639.795511221945,
+                            910.5967741935484,
+                            1663.496259351621
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1639.795511221945,
+                            1375.5193548387097,
+                            1663.496259351621
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1676.8279301745636,
+                            352.39354838709676,
+                            1702.7506234413966
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/04/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1676.8279301745636,
+                            726.9967741935484,
+                            1702.7506234413966
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1676.8279301745636,
+                            910.5967741935484,
+                            1702.7506234413966
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1676.8279301745636,
+                            1375.5193548387097,
+                            1702.7506234413966
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1715.3416458852869,
+                            352.39354838709676,
+                            1742.004987531172
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/04/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1715.3416458852869,
+                            726.9967741935484,
+                            1742.004987531172
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099388"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1715.3416458852869,
+                            910.5967741935484,
+                            1742.004987531172
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1715.3416458852869,
+                            1375.5193548387097,
+                            1742.004987531172
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1753.85536159601,
+                            352.39354838709676,
+                            1780.5187032418953
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/05/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1753.85536159601,
+                            726.9967741935484,
+                            1780.5187032418953
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099389"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1753.85536159601,
+                            910.5967741935484,
+                            1780.5187032418953
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1753.85536159601,
+                            1375.5193548387097,
+                            1780.5187032418953
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1795.3316708229427,
+                            352.39354838709676,
+                            1817.5511221945137
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/05/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1795.3316708229427,
+                            726.9967741935484,
+                            1817.5511221945137
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099389"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1795.3316708229427,
+                            910.5967741935484,
+                            1817.5511221945137
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1795.3316708229427,
+                            1375.5193548387097,
+                            1817.5511221945137
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1835.3266832917707,
+                            352.39354838709676,
+                            1858.286783042394
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/05/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1835.3266832917707,
+                            726.9967741935484,
+                            1858.286783042394
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099389"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1835.3266832917707,
+                            910.5967741935484,
+                            1858.286783042394
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1835.3266832917707,
+                            1375.5193548387097,
+                            1858.286783042394
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1869.3965087281795,
+                            352.39354838709676,
+                            1900.503740648379
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/05/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1869.3965087281795,
+                            726.9967741935484,
+                            1900.503740648379
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099389"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1869.3965087281795,
+                            910.5967741935484,
+                            1900.503740648379
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1869.3965087281795,
+                            1375.5193548387097,
+                            1900.503740648379
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1913.8354114713218,
+                            352.39354838709676,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/05/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1913.8354114713218,
+                            726.9967741935484,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099389"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1913.8354114713218,
+                            910.5967741935484,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1913.8354114713218,
+                            1375.5193548387097,
+                            1937.5361596009973
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- JACKIE :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1952.3491271820449,
+                            352.39354838709676,
+                            1976.0498753117206
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/05/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1952.3491271820449,
+                            726.9967741935484,
+                            1976.0498753117206
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099390"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1952.3491271820449,
+                            910.5967741935484,
+                            1976.0498753117206
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1952.3491271820449,
+                            1375.5193548387097,
+                            1976.0498753117206
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "MELODY CHAPPELL :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            1989.3815461346633,
+                            352.39354838709676,
+                            2013.8229426433916
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/05/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            1989.3815461346633,
+                            726.9967741935484,
+                            2013.8229426433916
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099390"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            1989.3815461346633,
+                            910.5967741935484,
+                            2013.8229426433916
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3.40"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            1989.3815461346633,
+                            1375.5193548387097,
+                            2013.8229426433916
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHAPPELL- WASHINGTON :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2024.932668329177,
+                            352.39354838709676,
+                            2056.0399002493764
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2024.932668329177,
+                            726.9967741935484,
+                            2056.0399002493764
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099391"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            2024.932668329177,
+                            910.5967741935484,
+                            2056.0399002493764
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            2024.932668329177,
+                            1375.5193548387097,
+                            2056.0399002493764
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COME OUT TO VOTE (TODAY) :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2066.4089775561097,
+                            352.39354838709676,
+                            2093.072319201995
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2066.4089775561097,
+                            726.9967741935484,
+                            2093.072319201995
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099391"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            2066.4089775561097,
+                            910.5967741935484,
+                            2093.072319201995
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            2066.4089775561097,
+                            1375.5193548387097,
+                            2093.072319201995
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COME OUT TO VOTE (TODAY) :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2104.922693266833,
+                            352.39354838709676,
+                            2130.104738154613
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2104.922693266833,
+                            726.9967741935484,
+                            2130.104738154613
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099391"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            2104.922693266833,
+                            910.5967741935484,
+                            2130.104738154613
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            2104.922693266833,
+                            1375.5193548387097,
+                            2130.104738154613
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COME OUT TO VOTE (TODAY) :30"
+                    },
+                    {
+                        "bbox": [
+                            256.15161290322584,
+                            2144.9177057356605,
+                            352.39354838709676,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/06/18"
+                    },
+                    {
+                        "bbox": [
+                            627.7935483870967,
+                            2144.9177057356605,
+                            726.9967741935484,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3099391"
+                    },
+                    {
+                        "bbox": [
+                            842.4870967741936,
+                            2144.9177057356605,
+                            910.5967741935484,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$8.50"
+                    },
+                    {
+                        "bbox": [
+                            981.6677419354838,
+                            2144.9177057356605,
+                            1375.5193548387097,
+                            2184.9127182044886
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COME OUT TO VOTE (TODAY) :30"
+                    }
+                ]
+            }
+        ]
+    ]
+}

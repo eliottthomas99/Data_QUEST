@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                235.74193548387098,
+                799.4042553191489,
+                1614.8322580645163,
+                926.8668693009118
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            235.74193548387098,
+                            801.6145896656535,
+                            496.53145161290325,
+                            838.4534954407294
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Item Description"
+                    },
+                    {
+                        "bbox": [
+                            1320.1548387096773,
+                            802.3513677811551,
+                            1463.0733870967742,
+                            837.716717325228
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Quantity"
+                    },
+                    {
+                        "bbox": [
+                            1514.6419354838708,
+                            799.4042553191489,
+                            1603.0451612903225,
+                            833.2960486322188
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Price"
+                    },
+                    {
+                        "bbox": [
+                            235.74193548387098,
+                            890.0279635258358,
+                            601.141935483871,
+                            926.8668693009118
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Color Laser Copies 8.5 x 11"
+                    },
+                    {
+                        "bbox": [
+                            1345.2024193548389,
+                            890.0279635258358,
+                            1404.1379032258064,
+                            926.8668693009118
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "100"
+                    },
+                    {
+                        "bbox": [
+                            1511.6951612903226,
+                            890.0279635258358,
+                            1614.8322580645163,
+                            926.8668693009118
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "300.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

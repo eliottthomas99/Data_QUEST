@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                120.68324186855844,
+                1173.1974344897767,
+                1576.524193548387,
+                1388.5184044561681
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            120.68324186855844,
+                            1173.1974344897767,
+                            241.36648373711688,
+                            1207.4073082227549
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1482.2274193548387,
+                            1179.2344710308903,
+                            1562.8479821978317,
+                            1211.4319992501642
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            256.3693548387097,
+                            1351.2510638297872,
+                            782.3685483870968,
+                            1385.142857142857
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Winston Source/Destination and Switcher Numbers"
+                    },
+                    {
+                        "bbox": [
+                            1482.2274193548387,
+                            1351.2510638297872,
+                            1576.524193548387,
+                            1388.5184044561681
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "500.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

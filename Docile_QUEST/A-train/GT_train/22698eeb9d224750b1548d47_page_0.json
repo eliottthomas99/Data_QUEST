@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                101.02301692226335,
+                974.2274880800358,
+                1103.3298122686408,
+                1328.1738136077759
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            101.02301692226335,
+                            974.2274880800358,
+                            273.3563987308303,
+                            1009.8699571561343
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Invoice Date"
+                    },
+                    {
+                        "bbox": [
+                            503.1342411422528,
+                            974.2274880800358,
+                            657.6400317292438,
+                            1011.8500943270287
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            994.3834214701216,
+                            978.1877624218243,
+                            1103.3298122686408,
+                            1013.8302314979234
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            152.33467741935482,
+                            1204.926243567753,
+                            261.1451612903226,
+                            1328.1738136077759
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12/2099"
+                    },
+                    {
+                        "bbox": [
+                            409.1274193548387,
+                            1204.926243567753,
+                            734.108064516129,
+                            1328.1738136077759
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Contribution to the Congressional Leadership Fund"
+                    },
+                    {
+                        "bbox": [
+                            927.0653225806452,
+                            1204.926243567753,
+                            1076.4983870967742,
+                            1328.1738136077759
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$10,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

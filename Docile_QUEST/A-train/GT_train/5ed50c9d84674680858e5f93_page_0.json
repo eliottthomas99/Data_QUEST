@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                122.29112903225807,
+                837.13573370111,
+                794.4980089680096,
+                922.4462006079027
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            128.72879132646233,
+                            837.13573370111,
+                            211.19567326997725,
+                            867.3209164066787
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DATE"
+                    },
+                    {
+                        "bbox": [
+                            484.7443548387097,
+                            837.13573370111,
+                            794.4980089680096,
+                            871.345607434088
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CHARGE DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            122.29112903225807,
+                            879.7130699088146,
+                            231.3217741935484,
+                            922.4462006079027
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8/25/99"
+                    },
+                    {
+                        "bbox": [
+                            315.3048387096774,
+                            879.7130699088146,
+                            716.066129032258,
+                            922.4462006079027
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Coastal Lights Product Test"
+                    }
+                ]
+            }
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                201.85403225806454,
+                961.7829517105416,
+                1615.8144673065117,
+                1096.3258358662615
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            460.74706072714406,
+                            963.3829602275675,
+                            539.1380620046912,
+                            990.5831050170108
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "ITEM"
+                    },
+                    {
+                        "bbox": [
+                            1515.0260370925223,
+                            961.7829517105416,
+                            1615.8144673065117,
+                            990.5831050170108
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "VALUE"
+                    },
+                    {
+                        "bbox": [
+                            201.85403225806454,
+                            1059.4869300911853,
+                            403.153672033436,
+                            1096.3258358662615
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "PLASTIC BAGS"
+                    },
+                    {
+                        "bbox": [
+                            1424.765322580645,
+                            1059.4869300911853,
+                            1513.1685483870967,
+                            1096.3258358662615
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$30.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

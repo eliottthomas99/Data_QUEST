@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                290.9588709677419,
+                431.7173447537473,
+                1100.7604838709676,
+                592.593147751606
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            290.9588709677419,
+                            456.5675927639768,
+                            441.0902215619695,
+                            484.60244495123845
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            990.2025382003395,
+                            431.7173447537473,
+                            1086.2221782682511,
+                            485.60368967221217
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "CURRENT AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            290.9588709677419,
+                            535.5738758029979,
+                            655.1661290322581,
+                            564.083511777302
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TERMINATION OF IN-LIFE PHASE"
+                    },
+                    {
+                        "bbox": [
+                            966.4717741935484,
+                            535.5738758029979,
+                            1100.7604838709676,
+                            564.083511777302
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "119,750.00"
+                    },
+                    {
+                        "bbox": [
+                            290.9588709677419,
+                            564.083511777302,
+                            655.1661290322581,
+                            592.593147751606
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TOTAL OTHER COSTS"
+                    },
+                    {
+                        "bbox": [
+                            966.4717741935484,
+                            564.083511777302,
+                            1100.7604838709676,
+                            592.593147751606
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "119,750.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

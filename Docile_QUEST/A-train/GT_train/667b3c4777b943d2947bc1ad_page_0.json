@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                292.0854838709677,
+                905.7756023227088,
+                1707.6879032258064,
+                1057.87890625
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            598.9084707396011,
+                            905.7756023227088,
+                            983.755677191214,
+                            944.1378631269646
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Invoice Description"
+                    },
+                    {
+                        "bbox": [
+                            1474.1426992625213,
+                            914.3005491680991,
+                            1603.1358072421478,
+                            943.0722447712908
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            292.0854838709677,
+                            980.0217018846374,
+                            546.5758064516128,
+                            1057.87890625
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Eclipse 2002 Processing"
+                    },
+                    {
+                        "bbox": [
+                            1499.4685483870967,
+                            980.0217018846374,
+                            1707.6879032258064,
+                            1019.0491147915477
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$18,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

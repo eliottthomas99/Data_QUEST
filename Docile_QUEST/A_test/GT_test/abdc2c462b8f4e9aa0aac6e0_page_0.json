@@ -1,0 +1,237 @@
+{
+    "TD": [
+        [
+            [
+                83.43441787757735,
+                875.4492566257272,
+                1715.0225806451613,
+                1100.9437621202328
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            83.43441787757735,
+                            888.778480385111,
+                            194.25026322952544,
+                            912.6820580971802
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            678.7979791802004,
+                            886.6054278658321,
+                            826.5524396494646,
+                            915.9416368760986
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1331.941935483871,
+                            875.4492566257272,
+                            1454.508896643837,
+                            912.6820580971802
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "UNIT PRICE"
+                    },
+                    {
+                        "bbox": [
+                            1580.5347599852682,
+                            876.8266915290767,
+                            1697.869184475566,
+                            925.5591467356173
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "EXTENDED PRICE"
+                    },
+                    {
+                        "bbox": [
+                            101.66370967741936,
+                            965.3522947640595,
+                            187.12016129032259,
+                            1034.6218487394958
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "3.00"
+                    },
+                    {
+                        "bbox": [
+                            234.26854838709679,
+                            965.3522947640595,
+                            968.015322580645,
+                            1034.6218487394958
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "HRS. 2 CRANES TO REMOVE MARLBORO AD BOARD FROM FIELD."
+                    },
+                    {
+                        "bbox": [
+                            1331.941935483871,
+                            965.3522947640595,
+                            1480.7540322580644,
+                            1034.6218487394958
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$160.00"
+                    },
+                    {
+                        "bbox": [
+                            1558.843548387097,
+                            965.3522947640595,
+                            1715.0225806451613,
+                            1034.6218487394958
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$480.00"
+                    },
+                    {
+                        "bbox": [
+                            101.66370967741936,
+                            1065.5720749838397,
+                            187.12016129032259,
+                            1100.9437621202328
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.00"
+                    },
+                    {
+                        "bbox": [
+                            234.26854838709679,
+                            1065.5720749838397,
+                            968.015322580645,
+                            1100.9437621202328
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DEVELOPING FILM"
+                    },
+                    {
+                        "bbox": [
+                            1331.941935483871,
+                            1065.5720749838397,
+                            1480.7540322580644,
+                            1100.9437621202328
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$9.91"
+                    },
+                    {
+                        "bbox": [
+                            1558.843548387097,
+                            1065.5720749838397,
+                            1715.0225806451613,
+                            1100.9437621202328
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$9.91"
+                    }
+                ]
+            }
+        ]
+    ]
+}

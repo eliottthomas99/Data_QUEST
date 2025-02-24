@@ -1,0 +1,1029 @@
+{
+    "TD": [
+        [
+            [
+                105.88033955857384,
+                693.4804152305244,
+                1662.7645161290322,
+                2233.795511221945
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            120.58594227504246,
+                            695.7680308786853,
+                            170.58499151103564,
+                            722.2392427609092
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Line"
+                    },
+                    {
+                        "bbox": [
+                            795.5731069609508,
+                            696.421660995216,
+                            891.1595246179967,
+                            722.8928728774401
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Air Date"
+                    },
+                    {
+                        "bbox": [
+                            1305.857521222411,
+                            694.7281795511223,
+                            1379.3855348047537,
+                            724.6902659382026
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AD-ID"
+                    },
+                    {
+                        "bbox": [
+                            1539.6766044142614,
+                            693.4804152305244,
+                            1635.2630220713072,
+                            728.7753644068231
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            755.4613466334165,
+                            839.5258064516129,
+                            822.1197007481297
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/18/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            755.4613466334165,
+                            1385.883870967742,
+                            822.1197007481297
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            755.4613466334165,
+                            1662.7645161290322,
+                            822.1197007481297
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            110.29202037351443,
+                            723.709865643255,
+                            142.64434634974535,
+                            751.6517004078246
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            851.7456359102245,
+                            839.5258064516129,
+                            913.9600997506234
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/19/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            851.7456359102245,
+                            1385.883870967742,
+                            913.9600997506234
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            851.7456359102245,
+                            1662.7645161290322,
+                            913.9600997506234
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            110.29202037351443,
+                            820.7709758780761,
+                            145.58546689303904,
+                            850.1834335249918
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            946.5486284289276,
+                            839.5258064516129,
+                            1005.8004987531172
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/17/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            946.5486284289276,
+                            1385.883870967742,
+                            1005.8004987531172
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            946.5486284289276,
+                            1662.7645161290322,
+                            1005.8004987531172
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            110.29202037351443,
+                            914.890840348206,
+                            144.11490662139218,
+                            944.3032979951216
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "6.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1041.3516209476309,
+                            839.5258064516129,
+                            1103.56608478803
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/18/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1041.3516209476309,
+                            1385.883870967742,
+                            1103.56608478803
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1041.3516209476309,
+                            1662.7645161290322,
+                            1103.56608478803
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$250.00"
+                    },
+                    {
+                        "bbox": [
+                            113.23314091680814,
+                            1009.9911051132832,
+                            157.34994906621392,
+                            1039.4035627601988
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1137.635910224439,
+                            839.5258064516129,
+                            1195.4064837905235
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/19/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1137.635910224439,
+                            1385.883870967742,
+                            1195.4064837905235
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1137.635910224439,
+                            1662.7645161290322,
+                            1195.4064837905235
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$250.00"
+                    },
+                    {
+                        "bbox": [
+                            113.23314091680814,
+                            1105.5815924657588,
+                            154.4088285229202,
+                            1133.5234272303285
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1226.5137157107233,
+                            839.5258064516129,
+                            1319.8354114713218
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/17/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1226.5137157107233,
+                            1385.883870967742,
+                            1319.8354114713218
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1226.5137157107233,
+                            1662.7645161290322,
+                            1319.8354114713218
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$150.00"
+                    },
+                    {
+                        "bbox": [
+                            110.29202037351443,
+                            1198.2308340535428,
+                            157.34994906621392,
+                            1230.5845374651499
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "13.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1350.9426433915212,
+                            839.5258064516129,
+                            1441.3017456359103
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/17/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1350.9426433915212,
+                            1385.883870967742,
+                            1441.3017456359103
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1350.9426433915212,
+                            1662.7645161290322,
+                            1441.3017456359103
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$150.00"
+                    },
+                    {
+                        "bbox": [
+                            114.703701188455,
+                            1322.2534236378349,
+                            155.87938879456706,
+                            1353.136504167096
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "18.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1475.371571072319,
+                            839.5258064516129,
+                            1565.7306733167081
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/17/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1475.371571072319,
+                            1385.883870967742,
+                            1565.7306733167081
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1475.371571072319,
+                            1662.7645161290322,
+                            1565.7306733167081
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            113.23314091680814,
+                            1445.7857457548803,
+                            157.34994906621392,
+                            1476.6688262841415
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1599.8004987531174,
+                            839.5258064516129,
+                            1690.1596009975062
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/17/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1599.8004987531174,
+                            1385.883870967742,
+                            1690.1596009975062
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1599.8004987531174,
+                            1662.7645161290322,
+                            1690.1596009975062
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            108.82146010186756,
+                            1569.3180678719255,
+                            154.4088285229202,
+                            1601.6717712835325
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "28.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1722.7481296758106,
+                            839.5258064516129,
+                            1810.14463840399
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/17/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1722.7481296758106,
+                            1385.883870967742,
+                            1810.14463840399
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1722.7481296758106,
+                            1662.7645161290322,
+                            1810.14463840399
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            105.88033955857384,
+                            1688.275068932952,
+                            158.82050933786078,
+                            1723.5700181092507
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "33.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1845.6957605985037,
+                            839.5258064516129,
+                            1933.0922693266832
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/17/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1845.6957605985037,
+                            1385.883870967742,
+                            1933.0922693266832
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1845.6957605985037,
+                            1662.7645161290322,
+                            1933.0922693266832
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$300.00"
+                    },
+                    {
+                        "bbox": [
+                            111.7625806451613,
+                            1814.4219115161206,
+                            158.82050933786078,
+                            1839.7492258145671
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "38.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            1964.1995012468826,
+                            839.5258064516129,
+                            2090.1097256857856
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/18/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            1964.1995012468826,
+                            1385.883870967742,
+                            2090.1097256857856
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            1964.1995012468826,
+                            1662.7645161290322,
+                            2090.1097256857856
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$250.00"
+                    },
+                    {
+                        "bbox": [
+                            108.82146010186756,
+                            1940.8954793978576,
+                            158.82050933786078,
+                            1963.281547931612
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "43.0"
+                    },
+                    {
+                        "bbox": [
+                            756.6096774193549,
+                            2121.216957605985,
+                            839.5258064516129,
+                            2233.795511221945
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "06/18/22"
+                    },
+                    {
+                        "bbox": [
+                            1243.741935483871,
+                            2121.216957605985,
+                            1385.883870967742,
+                            2233.795511221945
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "TPA060822AH"
+                    },
+                    {
+                        "bbox": [
+                            1573.925806451613,
+                            2121.216957605985,
+                            1662.7645161290322,
+                            2233.795511221945
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$100.00"
+                    },
+                    {
+                        "bbox": [
+                            108.82146010186756,
+                            2092.206094110794,
+                            158.82050933786078,
+                            2114.755704813227
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "44.0"
+                    }
+                ]
+            }
+        ]
+    ]
+}

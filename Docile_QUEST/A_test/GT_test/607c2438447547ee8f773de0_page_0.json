@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                89.65,
+                749.5761737142857,
+                1665.4449884792625,
+                995.4377142857143
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            655.562756016385,
+                            752.4467382857144,
+                            833.4397401433691,
+                            786.8935131428572
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1543.5131848438302,
+                            749.5761737142857,
+                            1665.4449884792625,
+                            791.1993600000001
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            89.65,
+                            952.032,
+                            579.833064516129,
+                            995.4377142857143
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5673-299 Monthly Summary Report Oct Data"
+                    },
+                    {
+                        "bbox": [
+                            1093.1516129032257,
+                            952.032,
+                            1207.383064516129,
+                            995.4377142857143
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$1,986.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

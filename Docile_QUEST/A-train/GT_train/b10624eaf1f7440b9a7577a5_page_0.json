@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                324.1451612903226,
+                1076.9574127659575,
+                1610.4120967741935,
+                1175.8978723404255
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            668.0584142379081,
+                            1076.9574127659575,
+                            872.7152588622125,
+                            1112.0398395136779
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1471.9137096774193,
+                            1078.643161094225,
+                            1610.4120967741935,
+                            1114.0085106382978
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            324.1451612903226,
+                            1128.7440729483283,
+                            1171.342741935484,
+                            1175.8978723404255
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "For three (3) days of filming for G C I at Chelsa"
+                    },
+                    {
+                        "bbox": [
+                            1471.9137096774193,
+                            1128.7440729483283,
+                            1610.4120967741935,
+                            1175.8978723404255
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$3,500.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

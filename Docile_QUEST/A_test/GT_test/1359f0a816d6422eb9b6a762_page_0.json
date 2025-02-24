@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                1394.1268704618585,
+                694.7678728549619,
+                1699.7806451612903,
+                793.9750623441397
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            1394.1268704618585,
+                            695.714681092101,
+                            1459.4144735977022,
+                            727.9061611548307
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QTY"
+                    },
+                    {
+                        "bbox": [
+                            1478.338416535628,
+                            695.714681092101,
+                            1550.2493996997455,
+                            728.8529693919697
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Rate"
+                    },
+                    {
+                        "bbox": [
+                            1583.3662998411157,
+                            694.7678728549619,
+                            1698.8023517624626,
+                            727.9061611548307
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount"
+                    },
+                    {
+                        "bbox": [
+                            1406.6129032258063,
+                            758.4239401496259,
+                            1448.0709677419354,
+                            793.9750623441397
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "26"
+                    },
+                    {
+                        "bbox": [
+                            1488.0483870967741,
+                            758.4239401496259,
+                            1536.9096774193547,
+                            793.9750623441397
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$19"
+                    },
+                    {
+                        "bbox": [
+                            1584.2903225806451,
+                            758.4239401496259,
+                            1699.7806451612903,
+                            793.9750623441397
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$494.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

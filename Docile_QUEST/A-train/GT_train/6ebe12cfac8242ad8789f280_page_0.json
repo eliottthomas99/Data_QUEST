@@ -1,0 +1,237 @@
+{
+    "TD": [
+        [
+            [
+                171.14963030337478,
+                871.027795733678,
+                1731.2298387096776,
+                1102.4175824175825
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            171.14963030337478,
+                            940.0845722978249,
+                            324.7044825953951,
+                            970.490181934917
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "QUANTITY"
+                    },
+                    {
+                        "bbox": [
+                            567.8329987244274,
+                            871.027795733678,
+                            810.9615148534597,
+                            903.2777816845028
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1210.8439426972627,
+                            940.0845722978249,
+                            1391.5908000826616,
+                            976.8913629111469
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COST/EACH"
+                    },
+                    {
+                        "bbox": [
+                            1519.5531769926786,
+                            872.8721720474108,
+                            1684.3047372643255,
+                            904.8780769285604
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            206.2741935483871,
+                            987.4595992243052,
+                            278.47016129032255,
+                            1061.1506140917907
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "240"
+                    },
+                    {
+                        "bbox": [
+                            390.4475806451613,
+                            987.4595992243052,
+                            1062.3120967741936,
+                            1061.1506140917907
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "COUNTER MATS: MARLBORO CARTONS $16.89"
+                    },
+                    {
+                        "bbox": [
+                            1234.6983870967742,
+                            987.4595992243052,
+                            1356.9895161290324,
+                            1061.1506140917907
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.47"
+                    },
+                    {
+                        "bbox": [
+                            1591.258064516129,
+                            987.4595992243052,
+                            1731.2298387096776,
+                            1061.1506140917907
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "352.80T"
+                    },
+                    {
+                        "bbox": [
+                            390.4475806451613,
+                            1061.1506140917907,
+                            1062.3120967741936,
+                            1102.4175824175825
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Sales Tax"
+                    },
+                    {
+                        "bbox": [
+                            1234.6983870967742,
+                            1061.1506140917907,
+                            1356.9895161290324,
+                            1102.4175824175825
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.917%"
+                    },
+                    {
+                        "bbox": [
+                            1591.258064516129,
+                            1061.1506140917907,
+                            1731.2298387096776,
+                            1102.4175824175825
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "27.93"
+                    },
+                    {
+                        "bbox": [
+                            171.14963030337478,
+                            1061.1506140917907,
+                            324.7044825953951,
+                            1102.4175824175825
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

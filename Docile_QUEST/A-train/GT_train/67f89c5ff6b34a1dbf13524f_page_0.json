@@ -1,0 +1,1857 @@
+{
+    "TD": [
+        [
+            [
+                442.01612903225805,
+                839.9270516717326,
+                1346.6758064516127,
+                2117.5003039513676
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            839.9270516717326,
+                            549.5733870967741,
+                            885.6072948328268
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Date"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            839.9270516717326,
+                            837.0271340886354,
+                            885.6072948328268
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            839.9270516717326,
+                            1346.6758064516127,
+                            885.6072948328268
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Debit"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            912.1313069908814,
+                            549.5733870967741,
+                            947.4966565349544
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/12"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            912.1313069908814,
+                            1178.7096774193549,
+                            947.4966565349544
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Room"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            912.1313069908814,
+                            1346.6758064516127,
+                            947.4966565349544
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "320.00"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            947.4966565349544,
+                            549.5733870967741,
+                            982.8620060790274
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/12"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            947.4966565349544,
+                            1178.7096774193549,
+                            982.8620060790274
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Room Tax"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            947.4966565349544,
+                            1346.6758064516127,
+                            982.8620060790274
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "54.40"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            982.8620060790274,
+                            549.5733870967741,
+                            1018.2273556231004
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            982.8620060790274,
+                            1178.7096774193549,
+                            1018.2273556231004
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Room Service"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            982.8620060790274,
+                            1346.6758064516127,
+                            1018.2273556231004
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            3
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "21.59"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1018.2273556231004,
+                            549.5733870967741,
+                            1053.592705167173
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1018.2273556231004,
+                            1178.7096774193549,
+                            1053.592705167173
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1018.2273556231004,
+                            1346.6758064516127,
+                            1053.592705167173
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            4
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.48"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1053.592705167173,
+                            549.5733870967741,
+                            1088.9580547112462
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1053.592705167173,
+                            1178.7096774193549,
+                            1088.9580547112462
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1053.592705167173,
+                            1346.6758064516127,
+                            1088.9580547112462
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            5
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8.40"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1088.9580547112462,
+                            549.5733870967741,
+                            1125.7969604863222
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1088.9580547112462,
+                            1178.7096774193549,
+                            1125.7969604863222
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1088.9580547112462,
+                            1346.6758064516127,
+                            1125.7969604863222
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            6
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8.40"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1125.7969604863222,
+                            549.5733870967741,
+                            1155.268085106383
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1125.7969604863222,
+                            1178.7096774193549,
+                            1155.268085106383
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1125.7969604863222,
+                            1346.6758064516127,
+                            1155.268085106383
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            7
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.48"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1155.268085106383,
+                            549.5733870967741,
+                            1189.159878419453
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1155.268085106383,
+                            1178.7096774193549,
+                            1189.159878419453
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1155.268085106383,
+                            1346.6758064516127,
+                            1189.159878419453
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            8
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11.13"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1189.159878419453,
+                            549.5733870967741,
+                            1221.5781155015197
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1189.159878419453,
+                            1178.7096774193549,
+                            1221.5781155015197
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1189.159878419453,
+                            1346.6758064516127,
+                            1221.5781155015197
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            9
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12.95"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1221.5781155015197,
+                            549.5733870967741,
+                            1256.9434650455926
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1221.5781155015197,
+                            1178.7096774193549,
+                            1256.9434650455926
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Paid-Out Gift Shop nyt"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1221.5781155015197,
+                            1346.6758064516127,
+                            1256.9434650455926
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            10
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.00"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1256.9434650455926,
+                            549.5733870967741,
+                            1292.3088145896656
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1256.9434650455926,
+                            1178.7096774193549,
+                            1292.3088145896656
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1256.9434650455926,
+                            1346.6758064516127,
+                            1292.3088145896656
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            11
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.48"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1292.3088145896656,
+                            549.5733870967741,
+                            1327.6741641337385
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1292.3088145896656,
+                            1178.7096774193549,
+                            1327.6741641337385
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1292.3088145896656,
+                            1346.6758064516127,
+                            1327.6741641337385
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            12
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8.40"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1327.6741641337385,
+                            549.5733870967741,
+                            1363.0395136778118
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1327.6741641337385,
+                            1178.7096774193549,
+                            1363.0395136778118
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1327.6741641337385,
+                            1346.6758064516127,
+                            1363.0395136778118
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            13
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "12.03"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1363.0395136778118,
+                            549.5733870967741,
+                            1398.4048632218846
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1363.0395136778118,
+                            1178.7096774193549,
+                            1398.4048632218846
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1363.0395136778118,
+                            1346.6758064516127,
+                            1398.4048632218846
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            14
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.37"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1398.4048632218846,
+                            549.5733870967741,
+                            1433.7702127659575
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1398.4048632218846,
+                            1178.7096774193549,
+                            1433.7702127659575
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1398.4048632218846,
+                            1346.6758064516127,
+                            1433.7702127659575
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            15
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "1.37"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1433.7702127659575,
+                            549.5733870967741,
+                            1467.6620060790274
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1433.7702127659575,
+                            1178.7096774193549,
+                            1467.6620060790274
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1433.7702127659575,
+                            1346.6758064516127,
+                            1467.6620060790274
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            16
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.48"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1467.6620060790274,
+                            549.5733870967741,
+                            1500.0802431610944
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1467.6620060790274,
+                            1178.7096774193549,
+                            1500.0802431610944
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1467.6620060790274,
+                            1346.6758064516127,
+                            1500.0802431610944
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            17
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "17.48"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1500.0802431610944,
+                            549.5733870967741,
+                            1531.024924012158
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1500.0802431610944,
+                            1178.7096774193549,
+                            1531.024924012158
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Deville"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1500.0802431610944,
+                            1346.6758064516127,
+                            1531.024924012158
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            18
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "99.45"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1531.024924012158,
+                            549.5733870967741,
+                            1601.7556231003039
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1531.024924012158,
+                            1178.7096774193549,
+                            1601.7556231003039
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Deville Dnr Beverage ->#817 : CHECK # 367636"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1531.024924012158,
+                            1346.6758064516127,
+                            1601.7556231003039
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            19
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "72.00"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1601.7556231003039,
+                            549.5733870967741,
+                            1637.120972644377
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1601.7556231003039,
+                            1178.7096774193549,
+                            1637.120972644377
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1601.7556231003039,
+                            1346.6758064516127,
+                            1637.120972644377
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            20
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10.22"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1637.120972644377,
+                            549.5733870967741,
+                            1672.4863221884498
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1637.120972644377,
+                            1178.7096774193549,
+                            1672.4863221884498
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1637.120972644377,
+                            1346.6758064516127,
+                            1672.4863221884498
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            21
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9.30"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1672.4863221884498,
+                            549.5733870967741,
+                            1707.8516717325226
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1672.4863221884498,
+                            1178.7096774193549,
+                            1707.8516717325226
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Room"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1672.4863221884498,
+                            1346.6758064516127,
+                            1707.8516717325226
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            22
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "320.00"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1707.8516717325226,
+                            549.5733870967741,
+                            1743.217021276596
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/13"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1707.8516717325226,
+                            1178.7096774193549,
+                            1743.217021276596
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Room Tax"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1707.8516717325226,
+                            1346.6758064516127,
+                            1743.217021276596
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            23
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "54.40"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1743.217021276596,
+                            549.5733870967741,
+                            1774.1617021276595
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1743.217021276596,
+                            1178.7096774193549,
+                            1774.1617021276595
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Room Service"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1743.217021276596,
+                            1346.6758064516127,
+                            1774.1617021276595
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            24
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "21.59"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1774.1617021276595,
+                            549.5733870967741,
+                            1806.5799392097265
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1774.1617021276595,
+                            1178.7096774193549,
+                            1806.5799392097265
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Paid-Out Gift Shop NYT 1"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1774.1617021276595,
+                            1346.6758064516127,
+                            1806.5799392097265
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            25
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "4.00"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1806.5799392097265,
+                            549.5733870967741,
+                            1841.9452887537996
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1806.5799392097265,
+                            1178.7096774193549,
+                            1841.9452887537996
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1806.5799392097265,
+                            1346.6758064516127,
+                            1841.9452887537996
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            26
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.48"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1841.9452887537996,
+                            549.5733870967741,
+                            1875.8370820668692
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1841.9452887537996,
+                            1178.7096774193549,
+                            1875.8370820668692
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1841.9452887537996,
+                            1346.6758064516127,
+                            1875.8370820668692
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            27
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "10.22"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1875.8370820668692,
+                            549.5733870967741,
+                            1911.202431610942
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1875.8370820668692,
+                            1178.7096774193549,
+                            1911.202431610942
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1875.8370820668692,
+                            1346.6758064516127,
+                            1911.202431610942
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            28
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "8.40"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1911.202431610942,
+                            549.5733870967741,
+                            1943.620668693009
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1911.202431610942,
+                            1178.7096774193549,
+                            1943.620668693009
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1911.202431610942,
+                            1346.6758064516127,
+                            1943.620668693009
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            29
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "33.85"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1943.620668693009,
+                            549.5733870967741,
+                            1977.5124620060792
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1943.620668693009,
+                            1178.7096774193549,
+                            1977.5124620060792
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1943.620668693009,
+                            1346.6758064516127,
+                            1977.5124620060792
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            30
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "7.48"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            1977.5124620060792,
+                            549.5733870967741,
+                            2009.9306990881457
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            1977.5124620060792,
+                            1178.7096774193549,
+                            2009.9306990881457
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Private Bar"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            1977.5124620060792,
+                            1346.6758064516127,
+                            2009.9306990881457
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            31
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "5.14"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            2009.9306990881457,
+                            549.5733870967741,
+                            2079.1878419452887
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            2009.9306990881457,
+                            1178.7096774193549,
+                            2079.1878419452887
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Private Bar Beverage ->#817 CHECK  # 367868"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            2009.9306990881457,
+                            1346.6758064516127,
+                            2079.1878419452887
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            32
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "6.25"
+                    },
+                    {
+                        "bbox": [
+                            442.01612903225805,
+                            2079.1878419452887,
+                            549.5733870967741,
+                            2117.5003039513676
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "11/14"
+                    },
+                    {
+                        "bbox": [
+                            601.141935483871,
+                            2079.1878419452887,
+                            1178.7096774193549,
+                            2117.5003039513676
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Phone Long Dist"
+                    },
+                    {
+                        "bbox": [
+                            1212.5975806451613,
+                            2079.1878419452887,
+                            1346.6758064516127,
+                            2117.5003039513676
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            33
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "9.30"
+                    }
+                ]
+            }
+        ]
+    ]
+}

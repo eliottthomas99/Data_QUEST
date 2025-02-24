@@ -1,0 +1,237 @@
+{
+    "TD": [
+        [
+            [
+                227.3709677419355,
+                996.7164803180052,
+                1739.0806451612905,
+                1127.10273556231
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            266.4513427003658,
+                            1001.9260487569595,
+                            347.8153371300299,
+                            1043.21607990054
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DATE"
+                    },
+                    {
+                        "bbox": [
+                            760.7646325241104,
+                            1004.1443166083852,
+                            930.1129240106418,
+                            1040.6112956810632
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "DESCRIPTION"
+                    },
+                    {
+                        "bbox": [
+                            1331.9914262554043,
+                            1001.9260487569595,
+                            1449.8819109577653,
+                            1039.3089035713247
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            1548.1055038244099,
+                            996.7164803180052,
+                            1672.6400482208178,
+                            1039.3089035713247
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "BALANCE"
+                    },
+                    {
+                        "bbox": [
+                            227.3709677419355,
+                            1054.9313069908815,
+                            376.39112903225805,
+                            1090.2492401215807
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/01/2001"
+                    },
+                    {
+                        "bbox": [
+                            413.2620967741936,
+                            1054.9313069908815,
+                            824.9879032258065,
+                            1090.2492401215807
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Balance forward"
+                    },
+                    {
+                        "bbox": [
+                            1605.4233870967741,
+                            1054.9313069908815,
+                            1739.0806451612905,
+                            1090.2492401215807
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "0.00"
+                    },
+                    {
+                        "bbox": [
+                            227.3709677419355,
+                            1090.2492401215807,
+                            376.39112903225805,
+                            1127.10273556231
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "09/14/2001"
+                    },
+                    {
+                        "bbox": [
+                            413.2620967741936,
+                            1090.2492401215807,
+                            824.9879032258065,
+                            1127.10273556231
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "INV #3011163 - Consulting - August 2001"
+                    },
+                    {
+                        "bbox": [
+                            1374.9798387096776,
+                            1090.2492401215807,
+                            1478.5408525939474,
+                            1127.10273556231
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "700.00"
+                    },
+                    {
+                        "bbox": [
+                            1605.4233870967741,
+                            1090.2492401215807,
+                            1739.0806451612905,
+                            1127.10273556231
+                        ],
+                        "column_nums": [
+                            3
+                        ],
+                        "row_nums": [
+                            2
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "700.00"
+                    },
+                    {
+                        "bbox": [
+                            1331.9914262554043,
+                            1054.9313069908815,
+                            1478.5408525939474,
+                            1090.2492401215807
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": ""
+                    }
+                ]
+            }
+        ]
+    ]
+}

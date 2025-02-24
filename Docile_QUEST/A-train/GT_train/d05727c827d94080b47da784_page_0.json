@@ -1,0 +1,93 @@
+{
+    "TD": [
+        [
+            [
+                405.18145161290323,
+                1346.288126443769,
+                1517.3843194287715,
+                1479.4504559270517
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            405.18145161290323,
+                            1349.7775075987843,
+                            609.5850300595354,
+                            1391.0370820668693
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Description"
+                    },
+                    {
+                        "bbox": [
+                            1301.0327979687925,
+                            1346.288126443769,
+                            1517.3843194287715,
+                            1382.8323209726443
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "Amount Due"
+                    },
+                    {
+                        "bbox": [
+                            405.18145161290323,
+                            1429.3495440729484,
+                            963.5951612903226,
+                            1479.4504559270517
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "OGEF Golf Luncheon Sponsorship"
+                    },
+                    {
+                        "bbox": [
+                            1302.4741935483871,
+                            1429.3495440729484,
+                            1471.9137096774193,
+                            1479.4504559270517
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "$ 1,000.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}

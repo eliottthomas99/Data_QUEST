@@ -1,0 +1,129 @@
+{
+    "TD": [
+        [
+            [
+                38.70483870967742,
+                762.247619047619,
+                951.324193548387,
+                862.1142857142856
+            ]
+        ]
+    ],
+    "TSR": [
+        [
+            {
+                "page": 0,
+                "data": [
+                    {
+                        "bbox": [
+                            38.70483870967742,
+                            762.247619047619,
+                            361.70889063729345,
+                            804.3742395636667
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "INVOICE NUMBER"
+                    },
+                    {
+                        "bbox": [
+                            514.7395751376869,
+                            762.247619047619,
+                            647.7967741935485,
+                            796.02433396266
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "GROSS"
+                    },
+                    {
+                        "bbox": [
+                            719.0951612903226,
+                            762.247619047619,
+                            951.324193548387,
+                            801.5909376966646
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            0
+                        ],
+                        "column_header": true,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "NET AMOUNT"
+                    },
+                    {
+                        "bbox": [
+                            38.70483870967742,
+                            817.2761904761905,
+                            236.30322580645162,
+                            862.1142857142856
+                        ],
+                        "column_nums": [
+                            0
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "23537200"
+                    },
+                    {
+                        "bbox": [
+                            407.4193548387097,
+                            817.2761904761905,
+                            647.7967741935485,
+                            862.1142857142856
+                        ],
+                        "column_nums": [
+                            1
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "235,372.00"
+                    },
+                    {
+                        "bbox": [
+                            719.0951612903226,
+                            817.2761904761905,
+                            951.324193548387,
+                            862.1142857142856
+                        ],
+                        "column_nums": [
+                            2
+                        ],
+                        "row_nums": [
+                            1
+                        ],
+                        "column_header": false,
+                        "subcell": false,
+                        "projected_row_header": false,
+                        "cell_text": "235,372.00"
+                    }
+                ]
+            }
+        ]
+    ]
+}
