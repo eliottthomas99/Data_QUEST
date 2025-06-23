@@ -17,7 +17,7 @@ This repository contains the DocILE dataset splits and corresponding ground trut
 
 ## Dataset Information  
 
-The dataset consists of 958 annotated tables split into:  
+The dataset consists of 954 annotated tables split into:  
 - Training set: 670 tables  
 - Validation set: 143 tables  
 - Test set: 141 tables  
