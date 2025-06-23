@@ -31,7 +31,15 @@ Each subset directory contains:
 If you use this dataset in your research, please cite:  
 
 ```bibtex  
-[QUEST paper citation will be added upon publication]  
+@misc{thomas2025questqualityawaresemisupervisedtable,
+      title={QUEST: Quality-aware Semi-supervised Table Extraction for Business Documents}, 
+      author={Eliott Thomas and Mickael Coustaty and Aurelie Joseph and Gaspar Deloin and Elodie Carel and Vincent Poulain D'Andecy and Jean-Marc Ogier},
+      year={2025},
+      eprint={2506.14568},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2506.14568}, 
+}
 
 @inproceedings{vSimsa2023DocILEBF,  
     title={DocILE Benchmark for Document Information Localization and Extraction},  
