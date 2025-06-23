@@ -20,7 +20,7 @@ This repository contains the DocILE dataset splits and corresponding ground trut
 The dataset consists of 958 annotated tables split into:  
 - Training set: 670 tables  
 - Validation set: 143 tables  
-- Test set: 145 tables  
+- Test set: 141 tables  
 
 Each subset directory contains:  
 - **GT_{mode}/**: Ground truth annotations in JSON format  
